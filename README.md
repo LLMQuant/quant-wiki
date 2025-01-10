@@ -1,6 +1,6 @@
 # Quant-Wiki
 
-<img width="829" alt="image" src="https://github.com/user-attachments/assets/65cf8941-dc6b-4064-9f99-2669b986a1e8" />
+<img width="848" alt="image" src="https://github.com/user-attachments/assets/2d3c898d-ad1b-49ac-a7c2-19d2d737fed4" />
 
 
 > [!NOTE]
