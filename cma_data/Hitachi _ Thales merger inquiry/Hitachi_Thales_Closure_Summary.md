@@ -1,9 +1,0 @@
-# REFERENCE RELATING TO THE ANTICIPATED ACQUISITION BY HITACHI RAIL, LTD OF THALES SA’S GROUND TRANSPORTATION SYSTEMS BUSINESS
-
-CASE CLOSURE SUMMARY
-
-In its final report 1on the anticipated acquisition by Hitachi Rail, Ltd ( Hitachi ) of Thales SA’s Ground Transportation Systems business ( Thales ) (the Merger ), the CMA found that the Merger may be expected to result in a substantial lessening of competition ( SLC ) in the supply of digital mainline signalling systems in Great Britain. The CMA concluded that the sale by Hitachi of its mainline signalling business in France, Germany and the United Kingdom (including staff, technology, and a production and R&D site) (the Divestment Business ) would remedy the SLC and resulting adverse effects effectively and proportionately (the Primary Divestiture Remedy ). The CMA also concluded that in the event that customer consent from each of Network Rail, SNCF and Deutsche Bahn to the transfer of their backlog contracts to the approved purchaser of the Divestment Business is not obtained within the divestiture period as defined in the Final Undertakings, prohibition of the Merger would be an effective and proportionate alternative remedy to the SLC and any adverse effects arising from it (the Alternative Remedy ).
-
-On 7 December 2023, the CMA accepted final undertakings from Hitachi in relation to the Primary Divestiture Remedy, and accepted additional final undertakings from Hitachi, Ltd, Hitachi and Thales SA in relation to the Alternative Remedy. On 31 July 2024, Hitachi completed the sale of the divestment business to Mer Mec S.p.A., a purchaser approved by the CMA, thereby completing the Primary Divestiture Remedy. This brings the merger investigation to a close.
-
-31 July 2024

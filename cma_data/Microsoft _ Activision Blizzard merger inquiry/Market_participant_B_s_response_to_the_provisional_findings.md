@@ -1,7 +1,0 @@
-\[REDACTED\] February 20, 2023 Dear Sirs,
-
-WearepleasedtoofferthefollowingobservationsonMlcrosoft'sproposeuacquisitioiror ActivisjonBlizzardinresponsetotheprovisionalfindingsandnoticeolpossibleTeimeules publishedbytheCMAon8February2023.
-
-Webelievethatconsumers'tastesandpreferencesintheVldeogamespacecutaclossabroau arravofaamesandawidevarietyofgenresandplattorms.Assucn,weuohiotDellevetiiatary titlecanbeconsidereda"musthave"intheinteractiveentertainmentfflarket.iTtiiecoritextor thisdvnamicandconsiderinaMicrosoft'sstatedcommitmenttomiakecertairTgarniesavanabie on all platforms. we do not believe the proposed transaction will hegatlvely lmpact conlsumeis.
-
-Yours faithfully, \[REDACTED\]
