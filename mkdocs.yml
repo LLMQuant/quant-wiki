@@ -18,18 +18,92 @@ nav:
     - 关于项目: index.md
     - 如何参与: contribute.md
     - 常见问题: FAQ.md
-    - 关于LLMQuant社区: about.md
+    - 关于LLMQuant: about.md
     - 社区其他项目: other.md
     - 加入我们: join.md
   - 基本概念:
-    - 知识框架: basic/framework.md
-    - 金融术语: basic/index.md
-    - 量化行话: basic/lingo.md
+    - 知识框架: basic/index.md
+    - 金融术语: 
+      - 概述: basic/finance/index.md
+      - 市场与交易:
+        - 一级市场: basic/finance/一级市场_Primary Market.md
+        - 二级市场: basic/finance/二级市场_Secondary Market.md
+        - 债券市场: basic/finance/债券市场_Bond Market.md
+        - 外汇市场: basic/finance/外汇市场_Foreign Exchange.md
+      - 金融工具:
+        - 股权: basic/finance/股权_Equity.md
+        - 期货: basic/finance/期货_Futures.md
+        - 期权: 
+          - 二元期权: basic/finance/二元期权_Binary Option.md
+          - 卖出期权: basic/finance/卖出期权_Put Option.md
+          - VIX期权: basic/finance/VIX期权_VIX Option.md
+        - 债券:
+          - 债券: basic/finance/债券_Bond.md
+          - 国债: basic/finance/国债_Treasury Bond.md
+          - 可转换债券: basic/finance/可转换债券_Convertible Bond.md
+      - 交易机制:
+        - T+1: basic/finance/T+1_T+1.md
+        - 保证金: basic/finance/保证金_Margin.md
+        - 保证金交易: basic/finance/保证金交易_Buying on Margin.md
+        - 交易商: basic/finance/交易商_Dealer.md
+      - 投资理论:
+        - 价值投资: basic/finance/价值投资_Value Investing.md
+        - 被动投资: basic/finance/被动投资_Passive Investing.md
+        - 多因子模型: basic/finance/多因子模型_Multi-Factor Model.md
+        - 有效市场假说: basic/finance/有效市场假说_Efficient Market Hypothesis.md
+    - 概率基础:
+      - 概述: basic/prob/index.md
+      - 基础理论:
+        - 条件概率: basic/prob/条件概率_Conditional Probability.md
+        - 联合概率: basic/prob/联合概率_Joint Probability.md
+        - 贝叶斯定理: basic/prob/贝叶斯定理_Baye's Theorem.md
+      - 概率分布:
+        - 概率分布: basic/prob/概率分布_Probability Distribution.md
+        - 正态分布: basic/prob/正态分布_Normal Distribution.md
+      - 重要定理:
+        - 大数法则: basic/prob/大数法则_Law of Large Numbers.md
+      - 应用:
+        - 蒙特卡罗模拟: basic/prob/蒙特卡罗模拟_Monte Carlo Simulation.md
+    - 统计基础:
+      - 概述: basic/stat/index.md
+      - 基本概念:
+        - 期望值: basic/stat/期望值_Expected Value.md
+        - 协方差: basic/stat/协方差_Covariance.md
+        - 相关系数: basic/stat/相关系数_Correlation Coefficient.md
+      - 统计检验:
+        - P值: basic/stat/P值_P-Test.md
+        - T检验: basic/stat/T检验_T-Test.md
+        - 假设检验: basic/stat/假设检验_Hypothesis Testing.md
+        - 统计显著性: basic/stat/统计显著性_Statistical Significance.md
+      - 回归分析:
+        - 回归分析: basic/stat/回归分析_Regression.md
+        - R平方: basic/stat/R平方_R-Squared.md
+        - 多元线性回归: basic/stat/多元线性回归_Multiple Linear Regression.md
+        - 最小二乘法: basic/stat/最小二乘法_Least Squares Method.md
+    - 量化术语:
+      - 概述: basic/quant/index.md
+      - 交易策略:
+        - 趋势交易: basic/quant/趋势交易_Trend Trading.md
+        - 动量投资: basic/quant/动量投资_Momentum Investing.md
+        - 因子投资: basic/quant/因子投资_Factor Investing.md
+        - 高频交易: basic/quant/高频交易_High-Frequency Trading.md
+      - 期权策略:
+        - 德尔塔对冲: basic/quant/德尔塔对冲_Delta Hedging.md
+        - 伽马对冲: basic/quant/伽马对冲_Gamma Hedging.md
+        - 波动率套利: basic/quant/波动率套利_Volatility Arbitrage.md
+      - 技术指标:
+        - 移动平均线: basic/quant/移动平均线_Moving Average.md
+        - 简单移动平均线: basic/quant/简单移动平均线_Simple Moving Average.md
+        - 指数移动平均线: basic/quant/指数移动平均线_Exponential Moving Average.md
+        - 相对强弱指数: basic/quant/相对强弱指数_Relative Strength Index.md
+      - 经典模型:
+        - 资本资产定价模型: basic/quant/资本资产定价模型_Capital Asset Pricing Model.md
+        - Fama-French三因子模型: basic/quant/Fama-French三因子模型_Fama and French Three Factor Model.md
   - 入门教程: 
     - 夏普比率: start/sharpe.md
     - 期权定价: start/option.md
     - 波动率: start/volatility.md
-    - 代资产组合理论: start/mpt-markowitz.md
+    - 资产组合理论: start/mpt-markowitz.md
   - 量化前沿:
     - Strategies: advanced/strategies.md
   - 量化策略库:  
@@ -46,17 +120,24 @@ nav:
     - Overview: library/overview.md
     - Reference: library/reference.md
   - 行业内幕:
-    - 量化策略库: industry/overview.md
+    - 简介: industry/overview.md
+    - 公司简介:
+      - 买方公司: industry/buy-side.md
+      - 卖方公司: industry/sell-side.md
+    - 大师人物:
+      - 西蒙斯: industry/master/Jim-Simons.md
     - 量化策略库参考: industry/reference.md
+    - 2025年最值得关注的10家对冲基金: industry/2025-10-fund.md
+    - 大奖章基金：文艺复兴科技公司里独一无二的赚钱机器: industry/Medallion.md
+    - Quadrature Capital:你从未听过的神秘自营交易公司: industry/Quadrature-Capital.md
   - 求职专区:
-    - Overview: api/overview.md
-    - Reference: api/reference.md
-  - Chatbot:
+    - 全球量化薪资大揭秘: job/quant-salary.md
+    - 一文全解析对冲基金的职业路径: job/quant-job.md
+    - 揭秘量化分析师的日常: job/quant-daily.md
+    - 探秘Jane Street实习的亲身经历: job/Jane-Street-intern.md
+    - 剑桥与北大内部培训项目: job/cambridge-and-pku.md
+  - 独家Chatbot:
     - Overview: chatbot/overview.md
-
-extra_css:
-  - stylesheets/extra.css
-  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
 
 # Configuration
 theme:
@@ -65,9 +146,9 @@ theme:
   favicon: asset/quant-wiki.svg # 网页标签图标
   icon:
     repo: fontawesome/brands/github
-  font:
-    text: LXGW WenKai Mono TC
-    code: Roboto Mono
+  # font:
+  #   text: LXGW WenKai Mono TC
+  #   code: Roboto Mono
   language: zh
   features:
     - navigation.instant
@@ -128,10 +209,11 @@ plugins:
 
 # Extra CSS and JavaScript
 extra_css:
-  - assets/stylesheets/extra.css
+  - stylesheets/extra.css
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
 
 extra_javascript:
-  - assets/javascripts/mathjax.js
+  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 

@@ -79,6 +79,3 @@ LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的
 
 
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img6@main/2024/12/09/1733785266624-664ccf80-86b8-4dc3-bd9c-81f485e6e0cf.JPG)
-
-

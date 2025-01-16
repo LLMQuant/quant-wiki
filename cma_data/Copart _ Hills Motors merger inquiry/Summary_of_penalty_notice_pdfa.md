@@ -1,0 +1,72 @@
+# Completed acquisition by Copart, Inc. of Green Parts Specialist Holdings Ltd (Hills Motors)
+
+Summary of the decision to impose a penalty on Copart, Inc., CPRT LLP and Copart UK Limited under section 94A of the Enterprise Act 2002
+
+1. On 14 December 2023, the Competition and Markets Authority (the CMA ) gave notice to Copart, Inc., CPRT LLP, Copart UK Limited (together Copart ) that it has decided to impose a penalty on Copart, Inc., CPRT LLP, Copart UK Limited jointly and severally under section 94A of the Enterprise Act 2002 (the Act )because it considers that Copart has, without reasonable excuse, failed to comply in certain respects with the requirements imposed on it by the initial enforcement order issued by the CMA under section 72 of the Act on 9 August 2022 to Copart (the IEO ).
+
+2. The cumulative amount of the penalties in respect of all the breaches identified in the penalty notice is £2.5 million, comprising the following:
+
+
+a) £650,000 for the Insurer 1 Breach; b) £650,000 for the Insurer 2 Breach; and c) £1.2 million for the Insurer 3 Breach.
+
+# Failure to comply with the IEO
+
+3. On 5 July 2022, Copart UK Limited, a wholly owned subsidiary of Copart, Inc., acquired the entire issued share capital of Green Parts Specialist Holdings Ltd (Hills Motors and together with Copart, the Parties ) (the Merger ). On Friday, 5 August 2022, the CMA notified Copart of its intention to impose an initial enforcement order and requested certain corporate details. On Tuesday, 9 August 2022, the CMA imposed the IEO.
+
+4. The IEO required, among other things, that during the specified period (which in this context means the period from 9 August 2022 to 14 July 2023), except with the prior written consent of the CMA, Copart:
+
+
+a) refrain from taking any action which might have prejudiced a reference of the Merger under section 22 of the Act or might have impeded the taking of any action under the Act by the CMA which may have been justified by the CMA’s decisions on such a reference, including any action which might have led to the integration of the Hills Motors business and the Copart business (paragraph 4);
+
+b) take all necessary steps to ensure that (i) the Copart and Hills Motors businesses were carried on separately and that the Hills Motors business’s separate sales identity was maintained (paragraph 5(a)) and (ii) any negotiations with any existing or potential customers in relation to the Hills Motors business were carried out by the Hills Motors business alone, and Copart did not enter into any joint agreements with the Hills Motors business (paragraph 5(g)); and
+
+c) provide to the CMA periodic compliance statements to verify compliance with the IEO (paragraph 7) and, at all times, actively keep the CMA informed of any material developments relating to the two businesses (paragraph 8). 5. On 3 October 2022, the CMA launched a phase 1 merger investigation, which on 28 November 2022 concluded that there was a realistic prospect of a substantial lessening of competition ( SLC ) within, among others, the market for the supply of salvage services in the UK. The CMA referred the Merger for further investigation and report by a group of CMA panel members on 9 December 2022. The CMA issued its Final Report, which resulted in the Merger being cleared unconditionally, on 14 July 2023.
+
+6. The CMA finds that Copart has, without reasonable excuse, failed to comply with the IEO during the specified period by reason of its conduct in relation to three requests for proposals ( RFPs ) for the supply of salvage and related services issued by each of Insurer 1, Insurer 2 and Insurer 3.
+
+7. The evidence available to the CMA indicates that, in response to each of these RFPs, Copart submitted and continued to negotiate (in particular by continuing negotiations during the specified period with the respective prospective customers) proposals that combined elements of the Hills Motors business with the Copart business. Specifically, each proposal was submitted as a single proposal, in Copart’s name, and was negotiated on this basis. Each proposal included the offer of an in-house recycled parts service, which could only be provided by the Hills Motors business (and not by Copart’s own pre-Merger operations), pursuant to a single contract (with Copart) for the provision of salvage and recycled parts services. While the Insurer 1 and Insurer 2 proposals were submitted before the IEO was imposed, Copart continued to negotiate these proposals after the IEO came into force. The Insurer 3 proposal was both submitted and negotiated after the imposition of the IEO.
+
+8. The CMA has decided that Copart failed during the specified period to comply with the IEO in the following respects (together the Breaches ):
+
+
+a) Insurer 1 Breach : Copart submitted the Insurer 1 Combined Proposal several weeks before the IEO came into force. As the submission of the Insurer 1 Combined Proposal was made before the IEO came into effect, this action did not constitute a breach of the IEO. However, Copart then continued to negotiate the Insurer 1 Combined Proposal during the specified period for almost 11 months without seeking the CMA’s prior written consent to do so. In taking further steps in pursuit of this proposal, the CMA has found that Copart took action during the specified period, without the CMA’s prior written consent, which might have led to the integration of elements of the Hills Motors business with the Copart business, or might otherwise have impaired the ability of the Hills Motors business and the Copart business to compete independently, contrary to paragraph 4 of the IEO; and failed to take all necessary steps to ensure that (i) the Hills Motors business was carried on separately from the Copart business, and the Hills Motors business’s separate sales identity was maintained, contrary to paragraph 5(a) of the IEO; and (ii) any negotiations with existing and potential customers in relation to the Hills Motors business were carried out by the Hills Motors business alone, contrary to paragraph 5(g) of the IEO. Copart also failed, contrary to paragraph 8 of the IEO, to actively keep the CMA informed of a material development, being the award of the contract by Insurer 1 on 3 November 2022, which was subsequently signed on 8 July 2023 (the Insurer 1 Contract ).
+
+b) Insurer 2 Breach : Copart submitted the Insurer 2 Combined Proposal shortly before the IEO came into force (after Copart had been notified of the CMA’s intention to impose an IEO, the intended form of that IEO, and its intended commencement date). As the submission of the Insurer 2 Combined Proposal was made before the IEO came into effect, this action did not constitute a breach of the IEO. However, Copart then continued to negotiate the Insurer 2 Combined Proposal during the specified period for over 9 months without seeking the CMA’s prior written consent to do so. In taking further steps in pursuit of this proposal, the CMA has found that Copart took action during the specified period, without the CMA’s prior written consent, which might have led to the integration of elements of the Hills Motors business with the Copart business, or might otherwise have impaired the ability of the Hills Motors business and the Copart business to compete independently, contrary to paragraph 4 of the IEO; and failed to take all necessary steps to ensure that (i) the Hills Motors business was carried on separately from the Copart business, and the Hills Motors business’s separate sales identity was maintained, contrary to paragraph 5(a) of the IEO; and (ii) any negotiations with existing and potential customers in relation to the Hills Motors business were carried out by the Hills Motors business alone, contrary to paragraph 5(g) of the IEO. Copart also failed, contrary to paragraph 8 of the IEO, to actively keep the CMA informed of a material development, being the award of the contract by Insurer 2 on 14 April 2023 (the Insurer 2 Contract ).
+
+c) Insurer 3 Breach : Copart submitted the Insurer 3 Combined Proposal after the IEO had come into force (and therefore during the specified period) and continued to negotiate the Insurer 3 Combined Proposal during the specified period for almost 9 months without seeking the CMA’s prior written consent to do so. In respect of both the submission and negotiation of the Insurer 3 Combined Proposal, the CMA has found that Copart took action during the specified period, without the CMA’s prior written consent, which might have led to the integration of elements of the Hills Motors business with the Copart business, or might otherwise have impaired the ability of the Hills Motors business and the Copart business to compete independently, contrary to paragraph 4 of the IEO; and failed to take all necessary steps to ensure that (i) the Hills Motors business was carried on separately from the Copart business, and the Hills Motors business’s separate sales identity was maintained, contrary to paragraph 5(a) of the IEO; and (ii) any negotiations with existing and potential customers in relation to the Hills Motors business were carried out by the Hills Motors business alone, contrary to paragraph 5(g) of the IEO. Copart also failed, contrary to paragraph 8 of the IEO, to actively keep the CMA informed of a material development, being the award of the contract by Insurer 3 on 7 January 2023 (the Insurer 3 Contract ).
+
+9. The CMA considers the Insurer 3 Breach to be the most egregious manifestation of Copart’s failure to fully comply with its obligations under the IEO, as both the submission of the proposal for the provision of combined services of the Hills Motors and Copart businesses, and the subsequent negotiation of this proposal, took place after the IEO was in force.
+
+# Pre-emptive action
+
+10. Interim measures are of vital importance to the functioning of the UK’s voluntary merger control regime. They play a critical role in preventing pre-emptive action, which might prejudice the outcome of a reference or impede the taking of any appropriate remedial action. This includes action which might impact the premerger competitive structure of the market during the period of the CMA’s investigation.
+
+11. In accordance with their precautionary purpose, initial enforcement orders seek to protect against the possibility or risk of prejudice to the reference or potential remedies. It was incumbent on the Parties to comply with all of their obligations under the IEO. When assessing whether there has been a failure to comply with interim measures, the CMA does not need to demonstrate that the conduct of a merging party has impacted the competitive structure of the market, or that such conduct has caused actual prejudice to the outcome of a reference or impeded the taking of any appropriate remedial action. A failure to comply with the obligations set out in an initial enforcement order is sufficient to engage the penalty provisions under section 94A of the Act. In this case, the fact that the Merger was ultimately cleared by the CMA does not detract from the importance of full compliance with the IEO, or the seriousness of the Breaches.
+
+
+# No reasonable excuse
+
+12. Having considered the evidence available to the CMA and Copart’s representations in the IEO Provisional Penalty Response, the CMA has found that Copart has no reasonable excuse for its failures to comply with the IEO.
+
+13. The CMA considers that the Breaches were not caused by a significant and genuinely unforeseeable or unusual event, nor were they caused by any event(s) beyond the control of Copart.
+
+
+# Decision to impose a penalty
+
+14. The CMA has decided, having had regard to its statutory duties and the guidance set out in Administrative penalties: Statement of Policy on the CMA’s Approach (CMA4), and to all the relevant circumstances of this case, that it is appropriate to impose a penalty in connection with each of the Breaches in the amounts particularised at paragraph 2 above in consideration of the following factors:
+
+a) These failures had an adverse impact on the CMA’s investigation, as they might have prejudiced the reference or impeded the taking of any necessary remedial action.
+
+b) These failures to comply were significant (whether committed intentionally or negligently).
+
+c) The evidence available to the CMA shows that the Breaches took place with the knowledge and/or involvement of Copart senior management.
+
+d) With respect to the Insurer 1 Breach and the Insurer 2 Breach, Copart continued to negotiate these proposals (which combined elements of the
+
+Hills Motors business with the Copart business) for an extended period after the IEO came into force, thereby seeking to obtain an advantage or derive benefit from these breaches in the context of these tenders.
+
+e) With respect to the Insurer 3 Breach, Copart submitted the proposal (which combined elements of the Hills Motors business with the Copart business) almost 5 weeks after the IEO came into force and continued to negotiate this proposal for an extended period, thereby seeking to obtain an advantage or derive benefit from this breach in the context of this tender. f) It is appropriate to impose a penalty in connection with the Insurer 3 Breach that is larger than the penalties for the Insurer 1 and Insurer 2 Breaches, as Copart’s conduct in relation to the Insurer 3 Breach was more egregious than for the Insurer 1 and Insurer 2 Breaches. Taken together, the Breaches reveal a pattern of disregard for compliance with the IEO.
+
+g) It is appropriate and proportionate in the round to achieve the CMA’s policy objectives of incentivising compliance with interim measures and deterring future failures to comply by Copart, and other persons who may consider future non-compliance with interim measures, to impose the penalty as specified for each of the Breaches.
+
+h) In view of Copart’s size and financial position, the seriousness of the Breaches, the aggravating factors, and the absence of mitigating factors, the CMA considers that penalties cumulatively totalling £2.5 million (which individually and cumulatively are substantially below the statutory maximum of $5%$ of the total value of the global turnover of the enterprises owned or controlled by Copart) constitute appropriate and proportionate penalties for Copart’s failures to comply with the IEO.

@@ -8,9 +8,55 @@ body {
     /* font-family: "LXGW WenKai Screen", sans-serif; */
   }
 
+/* 增大网站标题大小并居中 */
+.md-header__title {
+    font-size: 1.5rem !important;
+    font-weight: 800 !important;
+    margin: 0 auto !important;  /* 居中标题 */
+    text-align: center !important;
+}
+
+/* 调整header布局以支持居中 */
+.md-header__inner {
+    display: flex;
+    justify-content: center !important;
+    padding: 0 0.1rem;
+}
+
+/* 隐藏左侧菜单按钮（可选） */
+.md-header__button:not(.md-logo) {
+    display: none !important;
+}
+
+/* 增大导航栏标题大小并居中 */
+.md-tabs__link {
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+}
+
+/* 导航栏居中 */
+.md-tabs__list {
+    display: flex;
+    justify-content: center !important;
+    margin: 0.5rem auto !important;
+}
+
+.md-tabs {
+    text-align: center !important;
+}
+
+/* 调整返回顶部按钮样式 */
 button.md-top {
-    font-family: LXGW WenKai; /* 修改字体 */
-    font-size: 16px; /* 修改字体大小 */
-    font-weight: bold; /* 修改字体粗细 */
-    color: #518FC1; /* 修改字体颜色 */
-  }
+    font-family: LXGW WenKai;
+    font-size: 16px;
+    font-weight: bold;
+    color: #518FC1;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 3.5rem;
+    width: auto;
+}
+
+/* 在这里添加你的自定义样式 */

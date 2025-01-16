@@ -1,0 +1,66 @@
+## 什么是默顿模型？
+
+默顿模型是一种数学公式，股票分析师和商业贷款专员等可以利用它来评估企业的信用违约风险。该模型以经济学家罗伯特·C·默顿的名字命名，他在1974年提出这一理论。默顿模型通过将公司的股本视为其资产的看涨期权，从而评估公司的结构性信用风险。
+
+### 关键要点
+
+- 1974年，经济学家罗伯特·C·默顿提出了一种通过将公司股本建模为其资产的看涨期权来评估信贷风险的模型。
+- 现在，股票分析师、商业贷款专员等都在使用默顿模型。
+- 默顿以及他的同行经济学家迈伦·S·斯科尔斯因其工作在1997年获得诺贝尔经济学奖。
+
+## 默顿模型的公式
+
+$$ \begin{aligned} &E=V_tN\left(d_1\right)-Ke^{-r\Delta{T}}N\left(d_2\right)\\ &\textbf{其中：}\\ &d_1=\frac{\ln{\frac{V_t}{K}}+\left(r+\frac{\sigma_v^2}{2}\right)\Delta{T}}{\sigma_v\sqrt{\Delta{T}}}\\ &\text{和}\\ &d_2=d_1-\sigma_v\sqrt{\Delta{T}}\\ &\text{E = 公司股本的理论价值}\\ &V_t=\text{公司在t时点的资产价值}\\ &\text{K = 公司债务的价值}\\ &\text{t = 当前时间段}\\ &\text{T = 未来时间段}\\ &\text{r = 无风险利率}\\ &\text{N = 累积分布标准正态分布}\\ &\text{e = 指数项}\left(例如\text{ }2.7183...\right)\\ &\sigma=\text{股票收益的标准差}\\ \end{aligned} $$
+
+## 默顿模型能告诉我们什么？
+
+默顿模型使得对公司的估值变得更加简单，帮助分析师评估公司是否能够保持偿付能力，通过分析其债务的到期日和总额。
+
+该模型计算不考虑期权存续期内支付的红利的欧洲看跌和看涨期权的理论定价。然而，可以通过计算基础股票的除息日期价值来调整模型以考虑红利。
+
+默顿模型做出以下基本假设：
+
+- 所有期权均为欧洲期权，仅在到期时行使。
+- 不支付红利。
+- 市场波动是不可预测的（有效市场）。
+- 不包括佣金。
+- 基础股票的波动性和无风险利率是恒定的。
+- 基础股票的收益是正态分布的。
+
+公式中考虑的变量包括期权的行使价格、当前基础价格、无风险利率和到期前的时间量。
+
+## 默顿模型的历史
+
+罗伯特·C·默顿是一位著名的美国经济学家和诺贝尔奖获得者，他在10岁时购买了自己的第一支股票。他在哥伦比亚大学获得工程学学士学位，在加州理工学院获得应用数学硕士学位，并在麻省理工学院（MIT）获得经济学博士学位，随后在该校担任教授。
+
+在MIT工作期间，默顿和同行经济学家费舍尔·布莱克、迈伦·S·斯科尔斯都在研究期权定价相关问题，并互相协助。布莱克与斯科尔斯在1973年发表了关于该主题的开创性论文《期权与公司负债的定价》。默顿则在次年早期发表了《公司债务定价：利率的风险结构》，描述了后来被称为默顿模型的理论。
+
+默顿和斯科尔斯在1997年获得诺贝尔经济学奖（布莱克已去世，无法获奖）。奖项委员会表彰他们开发了“股票期权估值的开创性公式。他们的方法为多个领域的经济评估铺平了道路，同时也产生了新型金融工具，促进了社会更有效的风险管理。”
+
+他们最著名的合作如今通常被称为布莱克-斯科尔斯-默顿模型。
+
+## 什么是看涨期权？
+
+看涨期权是一种合同，允许买方在特定日期之前以指定价格购买股票或其他金融资产。
+
+## 欧洲期权与美式期权的区别是什么？
+
+欧洲期权只能在到期日行使，而美式期权可以在到期前的任何时间行使。
+
+## 什么是无风险利率？
+
+无风险利率是指理论上带有零风险的投资的回报率。之所以是理论性的，是因为没有任何投资是完全没有风险的，尽管某些投资的风险接近于零。
+
+## 总结
+
+默顿模型是由经济学家罗伯特·C·默顿开发的一种数学公式，通过将公司的股本视为其资产的看涨期权来评估公司的结构性信用风险。该模型常被股票分析师和商业贷款专员用于判断企业可能面临的信用违约风险。
+
+## 参考文献
+
+[1] Massachusetts Institute of Technology, Sloan School of Management. “[Robert C. Merton](https://mitsloan.mit.edu/faculty/directory/robert-c-merton).”
+
+[2] The University of Chicago Press: Journals. “[The Pricing of Options and Corporate Liabilities](https://www.journals.uchicago.edu/doi/10.1086/260062).”
+
+[3] The Journal of Finance, via Wiley Online Library. “[On the Pricing of Corporate Debt: The Risk Structure of Interest Rates](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1974.tb03058.x).”
+
+[4] Journal of Economic Perspectives, via American Economic Association. “[In Honor of the Nobel Laureates Robert C. Merton and Myron S. Scholes: A Partial Differential Equation That Changed the World](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.13.4.229).”
