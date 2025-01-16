@@ -19,12 +19,17 @@ body {
 /* 调整header布局以支持居中 */
 .md-header__inner {
     display: flex;
-    justify-content: center !important;
+    justify-content: space-between !important;
     padding: 0 0.1rem;
 }
 
-/* 隐藏左侧菜单按钮（可选） */
+/* 隐藏左侧菜单按钮（可选）
 .md-header__button:not(.md-logo) {
+    display: block !important;
+} */
+
+/* 仅隐藏搜索和其他按钮，保留菜单按钮 */
+.md-header__button.md-header__button:not(.md-logo):not(.md-header__button.md-icon) {
     display: none !important;
 }
 
@@ -60,3 +65,11 @@ button.md-top {
 }
 
 /* 在这里添加你的自定义样式 */
+
+/* 确保标题在移动端也能正确显示 */
+@media screen and (max-width: 76.1875em) {
+    .md-header__title {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+}
