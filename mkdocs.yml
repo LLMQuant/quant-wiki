@@ -146,6 +146,12 @@ nav:
         - 广发高频因子: advanced/研报精选/广发-高频因子系列/index.md
       - 其他系列:
         - 财通中信逐鹿: advanced/研报精选/财通中信-逐鹿系列/index.md
+    - 学术论文:
+      - 学术论文目录: advanced/学术论文/index.md
+      - 量化金融论文:
+        - 传统量化金融论文: advanced/学术论文/传统量化金融论文/index.md
+        - 金融时间序列论文: advanced/学术论文/金融时间序列论文/index.md
+        - 金融大语言模型论文: advanced/学术论文/金融大语言模型论文/index.md
   - 量化百宝箱:  
     - 简介: repo/quant_learn.md
     - 量化学习资源: 

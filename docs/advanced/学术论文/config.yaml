@@ -1,0 +1,25 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "WinstonLiyte"
+repo_name: "quant-wiki"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "Machine Learning in Finance":
+        filters: ["Deep Learning in Finance", "Quantitative Finance", "Financial Time Series Forecasting", "Multi-Agent System in Finance"]
