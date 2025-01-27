@@ -2,3 +2,5 @@
 .venv
 .scripts
 .DS_Store
+
+docs/advanced/学术论文/**/*.pdf

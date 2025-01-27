@@ -5,21 +5,19 @@ repo_name: "quant-wiki"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 2
 
 publish_readme: True
-publish_gitpage: True
-publish_wechat: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
+json_readme_path: './docs/advanced/学术论文/quant_arxiv-daily.json'
+md_readme_path: './docs/advanced/学术论文/paper.md'
 
 # keywords to search
 keywords:
-    "Machine Learning in Finance":
-        filters: ["Deep Learning in Finance", "Quantitative Finance", "Financial Time Series Forecasting", "Multi-Agent System in Finance"]
+    "traditional quantitative finance":
+        filters: ["Asset Pricing Models", "Stochastic Calculus in Finance", "Option Pricing Theory", "Market Microstructure", "Financial Econometrics"]
+    "financial time-series forecasting":
+        filters: ["Deep Learning in Financial Time Series", "Time Series Analysis in Finance", "Predictive Modeling for Asset Prices", "High-Frequency Trading Models", "Reinforcement Learning in Financial Forecasting"]
+    "financial large language model":
+        filters: ["Natural Language Processing in Finance", "Sentiment Analysis for Financial Markets", "LLM Applications in Portfolio Management", "Explainable AI in Financial Language Models", "LLM for Financial Risk Assessment", "Multi-Agent Systems with LLM in Finance"]
