@@ -438,14 +438,3 @@ Long-Short 策略相对活跃，需要考虑：
 如果你想深入学习更多关于 **Long-Short Equity** 或其他算法交易策略的知识，欢迎探索我们**知识星球** Advanced Algorithmic Trading Strategies。本路径将系统性地介绍动量、均值回归、指数套利、Long-Short、三元组交易等策略，以及如何用 Python 构建可实盘部署的模型。你将学到如何生成时间序列与横截面的 alpha、如何组合与优化 alpha，并了解中频交易（MFT）和订单流分析的实战技巧。立即加入，提升你的量化交易技能吧！
 
 
-![](https://fastly.jsdelivr.net/gh/bucketio/img6@main/2025/02/11/1739264750916-84d0a53d-f4df-4bdb-b6ea-f08a51973dc9.JPG)
-
-
-
-## 关于LLMQuant
-
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。欢迎加入**知识星球**获取**内部资料**。
-
-
-
-

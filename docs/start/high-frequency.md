@@ -187,15 +187,3 @@
 > **Go Algo！** 如果你想系统学习算法交易与自动化交易系统的各个方面，可以考虑我们的**知识星球**课程 “Algorithmic Trading for Beginners!”，该课程帮助你夯实算法交易的理论基础，了解各种策略及其适用范围，并熟悉开展业务所需的合规要求。
 
 
-
-![](https://fastly.jsdelivr.net/gh/bucketio/img6@main/2025/02/11/1739264750916-84d0a53d-f4df-4bdb-b6ea-f08a51973dc9.JPG)
-
-
-
-## 关于LLMQuant
-
-LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。欢迎加入**知识星球**获取**内部资料**。
-
-
-
-
