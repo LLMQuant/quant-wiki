@@ -1,5 +1,7 @@
 # AI 量化交易简介
 
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+
 生成式人工智能（Generative AI）正在深刻改变量化交易的格局。本章节将系统性地介绍 生成式AI在量化交易中的应用，帮助读者了解这一前沿领域，比如AI Agent, RAG, 大语言模型等。
 
 <img src="../asset/ai-buffett.jpeg" alt="AI 量化交易" width="300"/>

@@ -1,3 +1,5 @@
+# 量化百宝箱
+
 ![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
 
 本列表由[LLMQuant社区](https://llmquant.com/)整理, 我们收集一份关于**系统化交易（量化交易）策略**的资源清单，包括论文、软件、书籍、文章，帮助大家寻找、开发并运行此类策略。
