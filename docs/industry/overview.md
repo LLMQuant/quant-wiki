@@ -1,5 +1,7 @@
 # 量化行业概览
 
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+
 ## 市场参与者
 
 - 对冲基金
