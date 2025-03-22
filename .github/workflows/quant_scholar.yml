@@ -20,9 +20,9 @@ jobs:
         run: |
           curl -o README.md https://raw.githubusercontent.com/LLMQuant/quant-scholar/main/README.md
 
-      - name: Replace docs/scholar/index.md with README.md
+      - name: Replace docs/scholar/index.md with wiki/index.md
         run: |
-          mv README.md docs/scholar/index.md
+          mv wiki/index.md docs/scholar/index.md
 
       - name: Commit and push changes
         run: |
