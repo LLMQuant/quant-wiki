@@ -16,11 +16,11 @@ jobs:
           repository: LLMQuant/quant-wiki
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch README.md from quant-scholar
+      - name: Fetch wiki/index.md from quant-scholar
         run: |
-          curl -o README.md https://raw.githubusercontent.com/LLMQuant/quant-scholar/main/README.md
+          curl -o index.md https://raw.githubusercontent.com/LLMQuant/quant-scholar/main/wiki/index.md
 
-      - name: Replace docs/scholar/index.md with wiki/index.md
+      - name: Replace index.md with wiki/index.md
         run: |
           mv wiki/index.md docs/scholar/index.md
 
