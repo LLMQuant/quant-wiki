@@ -2,7 +2,7 @@ name: run quant_scholar
 
 on:
   schedule:
-    - cron: '0 0 */2 * *'
+    - cron: '0 0 */2 * *'  # Runs at 00:00 UTC, every 2 days
   workflow_dispatch:
 
 jobs:
