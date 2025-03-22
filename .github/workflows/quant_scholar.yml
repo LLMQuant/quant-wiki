@@ -22,7 +22,7 @@ jobs:
 
       - name: Replace index.md with wiki/index.md
         run: |
-          mv wiki/index.md docs/scholar/index.md
+          mv index.md docs/scholar/index.md
 
       - name: Commit and push changes
         run: |
