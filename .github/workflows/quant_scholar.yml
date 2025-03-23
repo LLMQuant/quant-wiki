@@ -1,29 +1,26 @@
 name: run quant_scholar
-
 on:
   schedule:
     - cron: '0 0 */2 * *'  # Runs at 00:00 UTC, every 2 days
   workflow_dispatch:
-
 jobs:
   update-docs:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo-b
         uses: actions/checkout@v3
         with:
           repository: LLMQuant/quant-wiki
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+          
       - name: Fetch wiki/index.md from quant-scholar
         run: |
           curl -o index.md https://raw.githubusercontent.com/LLMQuant/quant-scholar/main/wiki/index.md
-
+          
       - name: Replace index.md with wiki/index.md
         run: |
           mv index.md docs/scholar/index.md
-
+          
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
