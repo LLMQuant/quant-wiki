@@ -452,6 +452,9 @@ extra_javascript:
 
 
 extra:
+  analytics:  # Use Google Analytics to track the website traffic
+    provider: google
+    property: G-JSEDVW1BK1
   social:  # This is the social links section.
     # - icon: fontawesome/brands/github  # Use the Font Awesome icon name.
       # link: https://github.com/your-username  # Replace with your GitHub username.
