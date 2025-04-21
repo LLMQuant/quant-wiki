@@ -1,23 +1,26 @@
-# 统计学基础
+# 统计基础
 
 ## 章节导航
 
-- [描述统计](descriptive.md) - 数据描述与可视化
-- [假设检验](hypothesis.md) - 统计假设检验
-- [回归分析](regression.md) - 回归模型与应用
-- [时间序列](time-series.md) - 时间序列分析
-- [统计建模](modeling.md) - 统计模型构建
+### 基本概念
 
-## 核心概念
+- [期望值](期望值_Expected Value.md)
+- [协方差](协方差_Covariance.md)
+- [相关系数](相关系数_Correlation Coefficient.md)
+- [线性关系](线性关系_Linear Relationship.md)
 
-1. **描述性统计**
-   - 集中趋势
-   - 离散程度
-   - 分布形态
-   - 相关关系
+### 统计检验
 
-2. **统计推断**
-   - 参数估计
-   - 假设检验
-   - 置信区间
-   - 回归分析
+- [P值](P值_P-Value.md)
+- [Z值](Z值_Z-Score.md)
+- [Z检验](Z检验_Z-Test.md)
+- [T检验](T检验_T-Test.md)
+- [假设检验](假设检验_Hypothesis Testing.md)
+- [统计显著性](统计显著性_Statistical Significance.md)
+
+### 回归分析
+
+- [回归分析](回归分析_Regression.md)
+- [R平方](R平方_R-Squared.md)
+- [多元线性回归](多元线性回归_Multiple Linear Regression.md)
+- [最小二乘法](最小二乘法_Least Squares Method.md)
