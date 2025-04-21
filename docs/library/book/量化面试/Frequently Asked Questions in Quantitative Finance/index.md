@@ -10,7 +10,7 @@
 - **出版年份**: 2009
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Paul> P. Wilmott - Frequently Asked Questions in Quantitative Finance, Second Edition  -A John Wiley and Sons, Ltd. (2009).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Paul P. Wilmott - Frequently Asked Questions in Quantitative Finance, Second Edition  -A John Wiley and Sons, Ltd. (2009).pdf)
 
 ### 内容简介
 
