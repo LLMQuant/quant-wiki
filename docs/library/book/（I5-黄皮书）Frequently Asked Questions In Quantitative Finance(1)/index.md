@@ -10,7 +10,7 @@
 - **出版年份**:
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/（I5-黄皮书）Frequently> Asked Questions In Quantitative Finance(1).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/（I5-黄皮书）Frequently Asked Questions In Quantitative Finance(1).pdf)
 
 ### 内容简介
 
