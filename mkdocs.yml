@@ -30,6 +30,10 @@ nav:
         - 二级市场: basic/finance/二级市场_Secondary Market.md
         - 债券市场: basic/finance/债券市场_Bond Market.md
         - 外汇市场: basic/finance/外汇市场_Foreign Exchange.md
+        - 股市: basic/finance/股市_Stock Market.md
+        - 熊市: basic/finance/熊市_Bear Market.md
+        - 牛市: basic/finance/牛市_Bull Market.md
+        - 纳斯达克: basic/finance/纳斯达克_Nasdaq.md
       - 金融工具:
         - 股权: basic/finance/股权_Equity.md
         - 期货: basic/finance/期货_Futures.md
@@ -41,22 +45,80 @@ nav:
           - 债券: basic/finance/债券_Bond.md
           - 国债: basic/finance/国债_Treasury Bond.md
           - 可转换债券: basic/finance/可转换债券_Convertible Bond.md
+        - 证券: basic/finance/证券_Security.md
+        - 衍生品: basic/finance/衍生品_Derivative.md
+        - 标的资产: basic/finance/标的资产_Underlying Asset.md
       - 交易机制:
         - T+1: basic/finance/T+1_T+1.md
         - 保证金: basic/finance/保证金_Margin.md
         - 保证金交易: basic/finance/保证金交易_Buying on Margin.md
         - 交易商: basic/finance/交易商_Dealer.md
+        - 卖空: basic/finance/卖空_Short Selling.md
+        - 首次公开募股: basic/finance/首次公开募股_Initial Public Offerings (IPOs).md
       - 投资理论:
         - 价值投资: basic/finance/价值投资_Value Investing.md
         - 被动投资: basic/finance/被动投资_Passive Investing.md
         - 多因子模型: basic/finance/多因子模型_Multi-Factor Model.md
         - 有效市场假说: basic/finance/有效市场假说_Efficient Market Hypothesis.md
+        - 风险投资: basic/finance/风险投资_Venture Capital.md
+      - 经济指标与概念:
+        - 国内生产总值: basic/finance/国内生产总值_Gross Domestic Product (GDP).md
+        - 国民生产总值: basic/finance/国民生产总值_Gross National Product (GNP).md
+        - 生产者价格指数: basic/finance/生产者价格指数_Producer Price Index (PPI).md
+        - 通货膨胀: basic/finance/通货膨胀_Inflation.md
+        - 恶性通胀: basic/finance/恶性通胀_Hyperinflation.md
+        - 失业: basic/finance/失业_Unemployment.md
+        - 经济增长: basic/finance/经济增长_Economic Growth.md
+        - 商业周期: basic/finance/商业周期_Business Cycle.md
+        - 大萧条: basic/finance/大萧条_Great Depression.md
+        - 房地产泡沫: basic/finance/房地产泡沫_Housing Bubble.md
+      - 经济理论与政策:
+        - 宏观经济学: basic/finance/宏观经济学_Macroeconomics.md
+        - 凯恩斯经济学: basic/finance/凯恩斯经济学_Keynesian Economics.md
+        - 新自由主义: basic/finance/新自由主义_Neoliberalism.md
+        - 资本主义: basic/finance/资本主义_Capitalism.md
+        - 自由市场: basic/finance/自由市场_Free Market.md
+        - 自由贸易: basic/finance/自由贸易_Free Trade.md
+        - 公开市场操作: basic/finance/公开市场操作_Open Market Operations.md
+        - 货币政策: basic/finance/货币政策_Monetary Policy.md
+        - 关税: basic/finance/关税_Tariff.md
+        - 贸易逆差: basic/finance/贸易逆差_Trade Deficit.md
+      - 公司与市场结构:
+        - 股份公司: basic/finance/股份公司_Joint-Stock Company.md
+        - 有限合伙: basic/finance/有限合伙_Limited Partnership (LP).md
+        - 寡头垄断: basic/finance/寡头垄断_Oligopoly.md
+        - 规模经济: basic/finance/规模经济_Economies of Scale.md
+        - 知识经济: basic/finance/知识经济_Knowledge Economy.md
+      - 财务指标与概念:
+        - 市盈率: basic/finance/市盈率_Price-to-Earnings Ratio (PdivE Ratio).md
+        - 股息: basic/finance/股息_Dividend.md
+        - 股权稀释: basic/finance/股权稀释_Dilution.md
+        - 毛利率: basic/finance/毛利率_Gross Profit Margin.md
+        - 贴现率: basic/finance/贴现率_Discount Rate.md
+        - 年金表: basic/finance/年金表_Annuity Table.md
+        - 收益率倒挂: basic/finance/收益率倒挂_Inverted Yield Curve.md
+      - 风险与波动:
+        - 杠杆: basic/finance/杠杆_Leverage.md
+        - 杠杆率: basic/finance/杠杆率_Leverage Ratio.md
+        - 无杠杆Beta: basic/finance/无杠杆Beta_Unlevered Beta.md
+        - 波动性: basic/finance/波动性_Volatility copy.md
+        - 流动性: basic/finance/流动性_Liquidity copy.md
+      - 其他概念:
+        - 二八法则: basic/finance/二八法则_80-20 Rule.md
+        - 基尼系数: basic/finance/基尼系数_Gini Index.md
+        - 菲利普斯曲线: basic/finance/菲利普斯曲线_Phillips Curve.md
+        - 比较优势: basic/finance/比较优势_Comparative Advantage.md
+        - 绝对优势: basic/finance/绝对优势_Absolute Advantage.md
+        - 汇率: basic/finance/汇率_Exchange Rate.md
+        - 货币流通速度: basic/finance/货币流通速度_Velocity of Money.md
     - 概率基础:
       - 概述: basic/prob/index.md
       - 基础理论:
         - 条件概率: basic/prob/条件概率_Conditional Probability.md
         - 联合概率: basic/prob/联合概率_Joint Probability.md
         - 贝叶斯定理: basic/prob/贝叶斯定理_Baye's Theorem.md
+        - 相关性: basic/prob/相关性_Correlation.md
+        - 相关系数: basic/prob/相关系数_Correlation Coefficient.md
       - 概率分布:
         - 概率分布: basic/prob/概率分布_Probability Distribution.md
         - 正态分布: basic/prob/正态分布_Normal Distribution.md
@@ -64,15 +126,20 @@ nav:
         - 大数法则: basic/prob/大数法则_Law of Large Numbers.md
       - 应用:
         - 蒙特卡罗模拟: basic/prob/蒙特卡罗模拟_Monte Carlo Simulation.md
+        - 系统抽样: basic/prob/系统抽样_Systematic Sampling.md
+        - 变异系数: basic/prob/变异系数_Coefficient of Variation (CV).md
     - 统计基础:
       - 概述: basic/stat/index.md
       - 基本概念:
         - 期望值: basic/stat/期望值_Expected Value.md
         - 协方差: basic/stat/协方差_Covariance.md
         - 相关系数: basic/stat/相关系数_Correlation Coefficient.md
+        - 线性关系: basic/stat/线性关系_Linear Relationship.md
       - 统计检验:
-        - P值: basic/stat/P值_P-Test.md
-        - T检验: basic/stat/T检验_T-Test.md
+        - P值: basic/prob/P值_P-Value.md
+        - Z值: basic/prob/Z值_Z-Score.md
+        - Z检验: basic/prob/Z检验_Z-Test.md
+        - T检验: basic/prob/T检验_T-Test.md
         - 假设检验: basic/stat/假设检验_Hypothesis Testing.md
         - 统计显著性: basic/stat/统计显著性_Statistical Significance.md
       - 回归分析:
@@ -96,6 +163,9 @@ nav:
         - 简单移动平均线: basic/quant/简单移动平均线_Simple Moving Average.md
         - 指数移动平均线: basic/quant/指数移动平均线_Exponential Moving Average.md
         - 相对强弱指数: basic/quant/相对强弱指数_Relative Strength Index.md
+      - 希腊字母指标:
+        - 伽马: basic/quant/伽马_Gamma.md
+        - 贝塔: basic/quant/贝塔_Beta.md
       - 经典模型:
         - 资本资产定价模型: basic/quant/资本资产定价模型_Capital Asset Pricing Model.md
         - Fama-French三因子模型: basic/quant/Fama-French三因子模型_Fama and French Three Factor Model.md
