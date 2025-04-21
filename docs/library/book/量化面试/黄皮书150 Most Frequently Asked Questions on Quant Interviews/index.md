@@ -10,7 +10,7 @@
 - **出版年份**: 2013
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/黄皮书150> Most Frequently Asked Questions on Quant Interviews.pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/黄皮书150 Most Frequently Asked Questions on Quant Interviews.pdf)
 
 ### 内容简介
 
