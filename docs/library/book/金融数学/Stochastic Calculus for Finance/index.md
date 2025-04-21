@@ -10,7 +10,7 @@
 - **出版年份**: 2004
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Stochastic> Calculus for Finance-Springer (2004).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/StochasticCalculus for Finance-Springer (2004).pdf)
 
 ### 内容简介
 
