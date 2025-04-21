@@ -7,7 +7,7 @@
 
 ## **Quant Question**: 量化刷题平台
 
-这是一个专为量化金融求职者设计的在线刷题平台。我们精心整理了大量行业内经典的面试题目，助您高效备战笔面试。🚩欢迎点击[网址](https://quantquestion.com/)进行试用。
+这是一个专为量化金融求职者设计的在线刷题平台。我们精心整理了大量行业内经典的面试题目，助您高效备战笔面试。🚩欢迎点击 [quantquestion.com](https://quantquestion.com/) 进行试用。
 
 ![Quant Question](../asset/quant-question-feature.png)
 
