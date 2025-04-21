@@ -10,7 +10,7 @@
 - **出版年份**: 2005
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Attilio> Meucci - Risk and Asset Allocation-Springer (2005).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Attilio Meucci - Risk and Asset Allocation-Springer (2005).pdf)
 
 ### 内容简介
 
