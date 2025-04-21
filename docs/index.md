@@ -15,7 +15,7 @@
 本项目由[LLMQuant社区](https://llmquant.com/)提供资金与技术支持，欢迎大家贡献与支持。
 
 ??? tip "quant-wiki 微信交流群"
-    欢迎加入 quant-wiki 微信交流群，给出您的建议与反馈。
+    欢迎加入 quant-wiki 微信交流群，给出您的建议与反馈（由于微信群二维码 7 天就会过期，请你先添加 LLMQuant 管理员微信，注明来意即可。）
     ![wechat-group](./asset/wechat-group.jpg)
 
 ![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
