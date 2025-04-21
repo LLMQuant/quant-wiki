@@ -10,7 +10,7 @@
 - **出版年份**: 2006
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Empirical> Dynamic Asset Pricing_ Model Specification and Econometric Assessment (2006).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Empirical Dynamic Asset Pricing_ Model Specification and Econometric Assessment (2006).pdf)
 
 ### 内容简介
 
