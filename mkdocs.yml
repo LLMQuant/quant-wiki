@@ -323,17 +323,17 @@ nav:
           - 主动投资组合管理新发展: library/book/前沿专题/Advances in Active Portfolio Management/index.md
           - 算法交易方法: library/book/前沿专题/Algorithmic Trading Methods/index.md
           - 算法与高频交易: library/book/前沿专题/Algorithmic and High-Frequency Trading/index.md
-          - 计算智能应用: library/book/前沿专题/Applications of computational intelligence in data-driven trading/index.md
+          - 计算智能应用: library/book/前沿专题/Applications of computational intelligence in data-driven trading-Wiley (2020)/index.md
           - 机器学习资产定价: library/book/前沿专题/Empirical Asset Pricing via Machine Learning/index.md
-          - 金融科技案例: library/book/前沿专题/Financial Technology_ Case Studies/index.md
+          - 金融科技案例: library/book/前沿专题/Financial Technology_ Case Studies in Fintech Innovation-Kogan Page (2020)/index.md
           - 资产管理机器学习: library/book/前沿专题/Machine Learning for Asset Managers/index.md
           - 资产定价机器学习: library/book/前沿专题/Machine Learning in Asset Pricing/index.md
-          - 金融机器学习实践: library/book/前沿专题/Machine Learning in Finance/index.md
-          - 金融机器学习进阶: library/book/前沿专题/Marcos López de Prado - Advances in Financial Machine Learning/index.md
-          - 量子金融: library/book/前沿专题/Quantum Finance/index.md
-          - 系统化交易: library/book/前沿专题/Robert Carver - Systematic Trading/index.md
-          - 另类数据指南: library/book/前沿专题/The Book of Alternative Data/index.md
-          - 量子机器学习: library/book/Quantum Machine Learning and Optimisation in Finance/index.md
+          - 金融机器学习实践: library/book/前沿专题/Machine Learning in Finance_ From Theory to Practice-Springer (2020)/index.md
+          - 金融机器学习进阶: library/book/前沿专题/Marcos López de Prado - Advances in Financial Machine Learning-John Wiley & Sons, Inc. (2018)/index.md
+          - 量子金融: library/book/前沿专题/Quantum Finance_ Path Integrals and Hamiltonians for Options and Interest Rates-Cambridge University Press (2004)/index.md
+          - 系统化交易: library/book/前沿专题/Robert Carver - Systematic Trading_ A unique new method for designing trading and investing systems-Harriman House (2015)/index.md
+          - 另类数据指南: library/book/前沿专题/The Book of Alternative Data_ A Guide for Investors Traders and Risk Managers-Wiley (2020)/index.md
+          - 量子机器学习: library/book/Quantum Machine Learning and Optimisation in Finance_ On the Road to Quantum Advantage/index.md
           - 概率机器学习: library/book/Probabilistic Machine Learning for Finance and Investing/index.md
 
       - 量化交易:
@@ -342,7 +342,7 @@ nav:
           - 高频交易系统开发: library/book/Developing High Frequency Trading Systems/index.md
           - Python金融交易实战: library/book/Hands-On Financial Trading with Python/index.md
           - 算法交易机器学习: library/book/Machine Learning for Algorithmic Trading/index.md
-          - Python算法交易: library/book/Python for Algorithmic Trading/index.md
+          - Python算法交易: library/book/Python for Algorithmic Trading_ From Idea to Cloud Deployment/index.md
         - 策略研究:
           - 101个因子公式: library/book/量化交易/101 Formulaic Alphas - arXiv.org/index.md
           - 151个交易策略: library/book/量化交易/151 Trading Strategies/index.md
@@ -376,9 +376,9 @@ nav:
           - 金融工程数学入门: library/book/金融数学/Dan Stefanica - A Primer for the Mathematics of Financial Engineering/index.md
           - 动态资产定价: library/book/金融数学/Darrell Duffie - Dynamic asset pricing theory/index.md
           - 实证资产定价: library/book/金融数学/Empirical Dynamic Asset Pricing/index.md
-          - 市场微观结构: library/book/金融数学/Maureen O'Hara - Market Microstructure Theory/index.md
+          - 市场微观结构: library/book/金融数学/Maureen O'Hara - Market Microstructure Theory  -Wiley (1998)/index.md
           - 金融数学方法: library/book/金融数学/Methods of Mathematical Finance/index.md
-          - 量化金融导论: library/book/金融数学/Paul Wilmott - Paul Wilmott introduces quantitative finance/index.md
+          - 量化金融导论: library/book/金融数学/Paul Wilmott - Paul Wilmott introduces quantitative finance-Wiley (2007)/index.md
           - 量化风险管理: library/book/金融数学/Quantitative risk management/index.md
           - 波动率微笑: library/book/金融数学/The Volatility Smile/index.md
 
@@ -386,17 +386,17 @@ nav:
         - 编程实现:
           - Python金融理论: library/book/Financial Theory with Python/index.md
           - R量化金融: library/book/Learning Quantitative Finance with R/index.md
-          - Python金融进阶: library/book/Mastering Python for Finance/index.md
-          - Python金融手册: library/book/Python for Finance Cookbook/index.md
+          - Python金融进阶: library/book/Python for Algorithmic Trading_ From Idea to Cloud Deployment/index.md
+          - Python金融手册: library/book/Python for Finance Cookbook_ Over 80 powerful recipes for effective financial data analysis, 2nd Edition/index.md
         - 风险管理:
           - 风险管理机器学习: library/book/Machine Learning for Financial Risk Management with Python/index.md
-          - 金融信号处理: library/book/Financial Signal Processing and Machine Learning/index.md
+          - 金融信号处理: library/book/Python for Finance Cookbook_ Over 80 powerful recipes for effective financial data analysis, 2nd Edition/index.md
 
       - 面试资源:
         - 量化面试指南:
-          - 量化金融常见问题: library/book/量化面试/Paul P. Wilmott - Frequently Asked Questions in Quantitative Finance/index.md
+          - 量化金融常见问题: library/book/量化面试/Paul P. Wilmott - Frequently Asked Questions in Quantitative Finance, Second Edition  -A John Wiley and Sons, Ltd. (2009)/index.md
           - Quant绿皮书精讲: library/book/量化面试/Quant绿皮书精讲60题_by野荷马/index.md
-          - 华尔街面试题: library/book/量化面试/Timothy Falcon Crack - Heard on the Street/index.md
+          - 华尔街面试题: library/book/量化面试/Timothy Falcon Crack - Heard on the Street, Quantitative Questions from Wall Street Job Interviews-Timothy Crack (2014)/index.md
           - 量化面试红宝书: library/book/量化面试/红宝书Quant Job Interview Questions And Answers/index.md
           - 量化面试实践指南: library/book/量化面试/绿皮书A Practical Guide to Quantitative Finance Interviews/index.md
           - 150个高频题: library/book/量化面试/黄皮书150 Most Frequently Asked Questions on Quant Interviews/index.md
@@ -406,7 +406,6 @@ nav:
           - 量化绿皮书: library/book/量化绿皮书/index.md
           - 量化必读: library/book/translated_The_Best_Books_for_Learning_Quantitative_Finance.md
         - 2024独家金融干货包: library/book/2024独家金融干货包/index.md
-    - Reference: library/reference.md
   - 行业内幕:
     - 简介: industry/overview.md
     - 公司简介:
