@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Dan Stefanica - A Primer for the Mathematics of Financial Engineering-FE Press (2008).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Dan%20Stefanica%20-%20A%20Primer%20for%20the%20Mathematics%20of%20Financial%20Engineering-FE%20Press%20(2008).pdf)
 
 ### 内容简介
 

@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](红宝书Quant Job Interview Questions And Answers (2008, CreateSpace) - libgen.li.pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/红宝书Quant Job Interview Questions And Answers (2008, CreateSpace) - libgen.li.pdf)
 
 ### 内容简介
 

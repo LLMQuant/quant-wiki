@@ -10,7 +10,7 @@
 - **出版年份**:
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Python> for Finance Cookbook_ Over 80 powerful recipes for effective financial data analysis, 2nd Edition.pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Python for Finance Cookbook_ Over 80 powerful recipes for effective financial data analysis, 2nd Edition.pdf)
 
 ### 内容简介
 

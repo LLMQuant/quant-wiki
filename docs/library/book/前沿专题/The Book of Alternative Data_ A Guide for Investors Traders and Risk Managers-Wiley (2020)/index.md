@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](The Book of Alternative Data_ A Guide for Investors Traders and Risk Managers-Wiley (2020).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/The Book of Alternative Data_ A Guide for Investors Traders and Risk Managers-Wiley (2020).pdf)
 
 ### 内容简介
 

@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Timothy Falcon Crack - Heard on the Street, Quantitative Questions from Wall Street Job Interviews-Timothy Crack (2014).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Timothy Falcon Crack - Heard on the Street, Quantitative Questions from Wall Street Job Interviews-Timothy Crack (2014).pdf)
 
 ### 内容简介
 

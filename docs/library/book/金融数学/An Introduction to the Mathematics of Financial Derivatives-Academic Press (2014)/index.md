@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](An Introduction to the Mathematics of Financial Derivatives-Academic Press (2014).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/An Introduction to the Mathematics of Financial Derivatives-Academic Press (2014).pdf)
 
 ### 内容简介
 

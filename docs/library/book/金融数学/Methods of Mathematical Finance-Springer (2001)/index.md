@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Methods of Mathematical Finance-Springer (2001).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Methods of Mathematical Finance-Springer (2001).pdf)
 
 ### 内容简介
 
