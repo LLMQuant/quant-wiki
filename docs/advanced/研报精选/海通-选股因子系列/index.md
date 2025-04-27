@@ -27,7 +27,7 @@
 - [选股因子的正交](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究17：选股因子的正交.pdf)
 - [价格形态选股因子](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究18：价格形态选股因子.pdf)
 - [高频因子股票收益分布特征](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究19：高频因子股票收益分布特征.pdf)
-- [基于条件期 望的因子择时框架](<https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究20：基于条件期> 望的因子择时框架.pdf)
+- [基于条件期 望的因子择时框架](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究20：基于条件期 望的因子择时框架.pdf)
 - [分析师一致预期相关因子](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究21：分析师一致预期相关因子.pdf)
 - [分析师覆盖度与股票预期收益](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究22：分析师覆盖度与股票预期收益.pdf)
 - [历史财务信息对股票收益的预测能力](https://github.com/LLMQuant/asset/blob/main/海通选股因子系列研究23：历史财务信息对股票收益的预测能力.pdf)
