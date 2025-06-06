@@ -30,6 +30,7 @@ nav:
         - 二级市场: basic/finance/二级市场_Secondary Market.md
         - 债券市场: basic/finance/债券市场_Bond Market.md
         - 外汇市场: basic/finance/外汇市场_Foreign Exchange.md
+        - 外汇: basic/finance/外汇_Forex.md
         - 股市: basic/finance/股市_Stock Market.md
         - 熊市: basic/finance/熊市_Bear Market.md
         - 牛市: basic/finance/牛市_Bull Market.md
@@ -44,10 +45,14 @@ nav:
         - 债券:
           - 债券: basic/finance/债券_Bond.md
           - 国债: basic/finance/国债_Treasury Bond.md
+          - 国库券: basic/finance/国库券_Treasury Notes.md
           - 可转换债券: basic/finance/可转换债券_Convertible Bond.md
         - 证券: basic/finance/证券_Security.md
         - 衍生品: basic/finance/衍生品_Derivative.md
         - 标的资产: basic/finance/标的资产_Underlying Asset.md
+        - 固定收益: basic/finance/固定收益_Fixed Income.md
+        - 远期价格: basic/finance/远期价格_Forward Price.md
+        - 远期合同: basic/finance/远期合同_Forward Contract.md
       - 交易机制:
         - T+1: basic/finance/T+1_T+1.md
         - 保证金: basic/finance/保证金_Margin.md
@@ -55,12 +60,15 @@ nav:
         - 交易商: basic/finance/交易商_Dealer.md
         - 卖空: basic/finance/卖空_Short Selling.md
         - 首次公开募股: basic/finance/首次公开募股_Initial Public Offerings (IPOs).md
+        - 报价: basic/finance/报价_Quotation.md
+        - 首席经纪业务: basic/finance/首席经纪业务_Prime Brokerage.md
       - 投资理论:
         - 价值投资: basic/finance/价值投资_Value Investing.md
         - 被动投资: basic/finance/被动投资_Passive Investing.md
         - 多因子模型: basic/finance/多因子模型_Multi-Factor Model.md
         - 有效市场假说: basic/finance/有效市场假说_Efficient Market Hypothesis.md
         - 风险投资: basic/finance/风险投资_Venture Capital.md
+        - 对冲: basic/finance/对冲_Hedge.md
       - 经济指标与概念:
         - 国内生产总值: basic/finance/国内生产总值_Gross Domestic Product (GDP).md
         - 国民生产总值: basic/finance/国民生产总值_Gross National Product (GNP).md
@@ -72,6 +80,8 @@ nav:
         - 商业周期: basic/finance/商业周期_Business Cycle.md
         - 大萧条: basic/finance/大萧条_Great Depression.md
         - 房地产泡沫: basic/finance/房地产泡沫_Housing Bubble.md
+        - 利率: basic/finance/利率_Interest Rate.md
+        - 联邦基金利率: basic/finance/联邦基金利率_Federal Funds Rate.md
       - 经济理论与政策:
         - 宏观经济学: basic/finance/宏观经济学_Macroeconomics.md
         - 凯恩斯经济学: basic/finance/凯恩斯经济学_Keynesian Economics.md
@@ -83,12 +93,18 @@ nav:
         - 货币政策: basic/finance/货币政策_Monetary Policy.md
         - 关税: basic/finance/关税_Tariff.md
         - 贸易逆差: basic/finance/贸易逆差_Trade Deficit.md
+        - 量化宽松: basic/finance/量化宽松_Quantitative Easing.md
       - 公司与市场结构:
         - 股份公司: basic/finance/股份公司_Joint-Stock Company.md
         - 有限合伙: basic/finance/有限合伙_Limited Partnership (LP).md
         - 寡头垄断: basic/finance/寡头垄断_Oligopoly.md
         - 规模经济: basic/finance/规模经济_Economies of Scale.md
         - 知识经济: basic/finance/知识经济_Knowledge Economy.md
+        - 债务重组: basic/finance/债务重组_Debt Restructuring.md
+        - 合并与收购: basic/finance/合并与收购_Mergers and Acquisitions.md
+        - 杠杆收购: basic/finance/杠杆收购_Leveraged Buyout.md
+        - 经济订货量: basic/finance/经济订货量_Economic Order Quantity.md
+        - 长期资本管理公司: basic/quant/长期资本管理公司_Long-Term Capital Management.md
       - 财务指标与概念:
         - 市盈率: basic/finance/市盈率_Price-to-Earnings Ratio (PdivE Ratio).md
         - 股息: basic/finance/股息_Dividend.md
@@ -97,12 +113,29 @@ nav:
         - 贴现率: basic/finance/贴现率_Discount Rate.md
         - 年金表: basic/finance/年金表_Annuity Table.md
         - 收益率倒挂: basic/finance/收益率倒挂_Inverted Yield Curve.md
+        - AAA信用评级: basic/finance/AAA信用评级_AAA信用评级_AAA.md
+        - CAPE比率: basic/finance/CAPE比率_CAPE Ratio.md
+        - 中型市值: basic/finance/中型市值_Mid-Cap.md
+        - 变化率: basic/finance/变化率_Rate of Change.md
+        - 基准年: basic/finance/基准年_What Is a Base Year.md
+        - 增长曲线: basic/finance/增长曲线_Growth Curve.md
+        - 增长率: basic/finance/增长率_Growth Rates.md
+        - 复利: basic/finance/复利_Compounding.md
+        - 复合年增长率: basic/finance/复合年增长率_Compound Annual Growth Rate.md
+        - 年回报率: basic/finance/年回报率_Annual Return.md
+        - 年金未来价值: basic/finance/年金未来价值_Future Value of an Annuity.md
+        - 现值: basic/finance/现值_Present Value.md
+        - 资产负债表: basic/finance/资产负债表_Balance Sheet.md
+        - 资本化: basic/finance/资本化_Capitalization.md
+        - 边际收益: basic/finance/边际收益_Marginal Benefits.md
+        - 面值: basic/finance/面值_Face Value.md
       - 风险与波动:
         - 杠杆: basic/finance/杠杆_Leverage.md
         - 杠杆率: basic/finance/杠杆率_Leverage Ratio.md
         - 无杠杆Beta: basic/finance/无杠杆Beta_Unlevered Beta.md
-        - 波动性: basic/finance/波动性_Volatility copy.md
-        - 流动性: basic/finance/流动性_Liquidity copy.md
+        - 波动性: basic/finance/波动性_Volatility.md
+        - 流动性: basic/finance/流动性_Liquidity.md
+        - CBOE波动率指数: basic/finance/CBOE波动率指数_VIX.md
       - 其他概念:
         - 二八法则: basic/finance/二八法则_80-20 Rule.md
         - 基尼系数: basic/finance/基尼系数_Gini Index.md
@@ -122,12 +155,17 @@ nav:
       - 概率分布:
         - 概率分布: basic/prob/概率分布_Probability Distribution.md
         - 正态分布: basic/prob/正态分布_Normal Distribution.md
+        - 均匀分布: basic/stat/均匀分布_Uniform Distribution.md
       - 重要定理:
         - 大数法则: basic/prob/大数法则_Law of Large Numbers.md
+        - 中心极限定理: basic/stat/中心极限定理_Central Limit Theorem.md
+        - 经验法则: basic/stat/经验法则_Empirical Rule.md
       - 应用:
         - 蒙特卡罗模拟: basic/prob/蒙特卡罗模拟_Monte Carlo Simulation.md
         - 系统抽样: basic/prob/系统抽样_Systematic Sampling.md
         - 变异系数: basic/prob/变异系数_Coefficient of Variation (CV).md
+      - 金融衍生品:
+        - 衍生品: basic/prob/衍生品_Derivative.md
     - 统计基础:
       - 概述: basic/stat/index.md
       - 基本概念:
@@ -135,6 +173,9 @@ nav:
         - 协方差: basic/stat/协方差_Covariance.md
         - 相关系数: basic/stat/相关系数_Correlation Coefficient.md
         - 线性关系: basic/stat/线性关系_Linear Relationship.md
+        - 非线性: basic/stat/非线性_Nonlinearity.md
+        - 自相关: basic/stat/自相关_Autocorrelation.md
+        - 多重共线性: basic/stat/多重共线性_Multicollinearity.md
       - 统计检验:
         - P值: basic/prob/P值_P-Value.md
         - Z值: basic/prob/Z值_Z-Score.md
@@ -142,11 +183,19 @@ nav:
         - T检验: basic/prob/T检验_T-Test.md
         - 假设检验: basic/stat/假设检验_Hypothesis Testing.md
         - 统计显著性: basic/stat/统计显著性_Statistical Significance.md
+        - 卡方统计量: basic/stat/卡方统计量_Chi Square Statistic.md
+        - 置信区间: basic/stat/置信区间_Confidence Interval.md
       - 回归分析:
         - 回归分析: basic/stat/回归分析_Regression.md
         - R平方: basic/stat/R平方_R-Squared.md
+        - 决定系数: basic/stat/决定系数_Coefficient of Determination.md
         - 多元线性回归: basic/stat/多元线性回归_Multiple Linear Regression.md
         - 最小二乘法: basic/stat/最小二乘法_Least Squares Method.md
+        - 变量膨胀因子: basic/stat/变量膨胀因子_Variance Inflation Factor.md
+      - 方差分析:
+        - 方差分析: basic/stat/方差分析_Analysis of Variance.md
+      - 经典模型:
+        - 默顿模型: basic/stat/默顿模型_Merton Model.md
     - 量化术语:
       - 概述: basic/quant/index.md
       - 交易策略:
@@ -154,25 +203,57 @@ nav:
         - 动量投资: basic/quant/动量投资_Momentum Investing.md
         - 因子投资: basic/quant/因子投资_Factor Investing.md
         - 高频交易: basic/quant/高频交易_High-Frequency Trading.md
+        - 均值回归: basic/quant/均值回归_Mean Reversion.md
+        - 套利者: basic/quant/套利者_Arbitrageur.md
+        - 市场中性: basic/quant/市场中性_Market Neutral.md
+        - 货币套利交易: basic/quant/货币套利交易_Currency Carry Trade.md
+        - 新闻交易者: basic/quant/新闻交易者_News Trader.md
       - 期权策略:
         - 德尔塔对冲: basic/quant/德尔塔对冲_Delta Hedging.md
         - 伽马对冲: basic/quant/伽马对冲_Gamma Hedging.md
         - 波动率套利: basic/quant/波动率套利_Volatility Arbitrage.md
+        - 德尔塔中性: basic/quant/德尔塔中性_Delta Neutral.md
+        - 伽玛中性: basic/quant/伽玛中性_Gamma Neutral.md
+        - 看跌期权: basic/quant/看跌期权_Long Put.md
+        - 跨式期权: basic/quant/跨式期权_Straddle.md
+        - 空头看涨价差: basic/quant/空头看涨价差_Bear Call Spread.md
+        - 波动率微笑: basic/quant/波动率微笑_Volatility Smile.md
       - 技术指标:
         - 移动平均线: basic/quant/移动平均线_Moving Average.md
         - 简单移动平均线: basic/quant/简单移动平均线_Simple Moving Average.md
         - 指数移动平均线: basic/quant/指数移动平均线_Exponential Moving Average.md
         - 相对强弱指数: basic/quant/相对强弱指数_Relative Strength Index.md
+        - 费舍尔变换指标: basic/quant/费舍尔变换指标_Fisher Transform Indicator.md
+        - 双顶: basic/quant/双顶_Double Top.md
+        - 黄金交叉: basic/quant/黄金交叉_Golden Cross.md
+      - 基金类型:
+        - 多空基金: basic/quant/多空基金_LongdivShort Fund.md
+        - 多空股权: basic/quant/多空股权_LongdivShort Equity.md
+      - 交易订单:
+        - 市价单: basic/quant/市价单_Market Order.md
+        - 限价单: basic/quant/限价单_Limit Order.md
+        - 限价单簿: basic/quant/限价单簿_Limit Order Book.md
+        - 立即执行或取消订单: basic/quant/立即执行或取消订单_Immediate Or Cancel Order.md
+        - 限时订单: basic/quant/限时订单_Held Order.md
+      - 头寸管理:
+        - 空头头寸: basic/quant/空头头寸_Short.md
+        - 逼空: basic/quant/逼空_Short Squeeze.md
       - 希腊字母指标:
         - 伽马: basic/quant/伽马_Gamma.md
         - 贝塔: basic/quant/贝塔_Beta.md
+        - 阿尔法: basic/quant/阿尔法_Alpha.md
       - 经典模型:
         - 资本资产定价模型: basic/quant/资本资产定价模型_Capital Asset Pricing Model.md
         - Fama-French三因子模型: basic/quant/Fama-French三因子模型_Fama and French Three Factor Model.md
+      - 分析工具:
+        - 回测: basic/quant/回测_Backtesting.md
+      - 历史人物:
+        - 本杰明·格雷厄姆: basic/quant/本杰明·格雷厄姆_Who Was Benjamin Graham.md
+        - 杰西·L·利弗莫尔: basic/quant/杰西·L·利弗莫尔_Jesse L. Livermore.md
   - 入门教程: 
     - 量化交易员带你入门:
       - 为什么有些交易策略能带来盈利？: start/quant_trader/为什么有些交易策略能带来盈利.md
-      - 如何打造“好用”的交易策略: start/quant_trader/如何打造“好用”的交易策略.md
+      - 如何打造"好用"的交易策略: start/quant_trader/如何打造"好用"的交易策略.md
       - 如何如何划分交易风格？: start/quant_trader/如何如何划分交易风格.md
       - 量化交易员带你写Long-Short Strategy代码: start/quant_trader/long-short.md
       - 量化术语簿: start/translated_Quant_Trading_101.md
@@ -184,7 +265,7 @@ nav:
       - 波动率: start/volatility.md
       - 资产组合理论: start/mpt-markowitz.md
       - 高频交易: start/high-frequency.md
-      - 极值理论(EVT)在VaR与ES计算中的应用: start/evt.md
+      - 极值理论(EVT)在VaR与ES计算中的应用: start/evt-var-es.md
     - 策略类型入门:
       - 一文解密量化策略类型: start/strategy-type.md
       - 多策略对冲基金入门: start/multi-strategy.md
@@ -291,14 +372,17 @@ nav:
       - InvestorBench 面向LLM金融决策任务的Benchmark: ai/aiquant/InvestorBench.md
       - FinRobot 基于大语言模型的股票研究与估值框架: ai/aiquant/finrobot.md
       - ChatGPT也能做投资分析-手把手教你利用 LangChain搭建股票研究框架: ai/aiquant/ChatGPT-langchain.md
-      - DeepSeek 一家用实力“做空”美国科技股的量化背景初创: ai/aiquant/deepseek.md
-      - 如何利用LLM自动获取量化投资策略: ai/aiquant/deepseek.md
-      - GPT如何影响量化金融: ai/translated_How_OpenAI_s_GPT_will_affect_Quantitative_Finance.md  
+      - DeepSeek 一家用实力"做空"美国科技股的量化背景初创: ai/aiquant/deepseek.md
+      - 如何利用LLM自动获取量化投资策略: ai/aiquant/如何利用LLM自动获取量化投资策略.md
+      - TradeMaster强化学习: ai/aiquant/TradeMaster强化学习.md
+      - GPT如何影响量化金融: ai/translated_How_OpenAI's_GPT_will_affect_Quantitative_Finance.md
     - 全面科普：谷歌 Gemini Flash 2.0 与 DeepSeek R1、OpenAI o3-mini 的对比与应用: ai/llm-overview.md
-    - OpenAI发布号称“最强大”的GPT-4.5模型: ai/OpenAI发布号称“最强大”的GPT-4.5模型.md
+    - OpenAI发布号称"最强大"的GPT-4.5模型: ai/OpenAI发布号称"最强大"的GPT-4.5模型.md
     - 深度解析:如何用DeepSeek-R1对特斯拉相关新闻进行情感分析并生成投资建议: ai/DeepSeek-R1-tesla.md
     - 如何使用DeepSeek-R1或ChatGPT与Langchain构建专业金融分析师: ai/如何使用DeepSeek-R1或ChatGPT与Langchain构建专业金融分析师.md
     - 2025年AI量化论文优选41篇: ai/2025-ai-paper.md
+    - 2024年AI量化论文精选: ai/2024-ai-paper.md
+    - 2024年LLM量化论文: ai/2024-llm-quant-paper.md
     - AI量化交易基础: ai/ai-quant.md
     - ChatGPT量化实战: ai/ChatGPT-quant.md
     - ChatGPT选股策略: ai/ChatGPT-o1.md
@@ -309,6 +393,11 @@ nav:
       - VQVAE模型概述: ai/llm/VQVAE.md
   - 量化图书馆:
     - Overview: library/overview.md
+    - 图书分类指南:
+      - 入门级书籍: library/book/beginner.md
+      - 进阶级书籍: library/book/advanced.md
+      - 编程实现类: library/book/programming.md
+      - AI量化类: library/book/ai-quant.md
     - 书籍:
       - 人工智能:
         - AI与机器学习:
@@ -413,6 +502,12 @@ nav:
       - 卖方公司: industry/sell-side.md
     - 大师人物:
       - 西蒙斯: industry/master/Jim-Simons.md
+      - Giuseppe Paleologo: industry/Giuseppe-Paleologo.md
+      - Julian Robertson: industry/Julian Robertson.md
+    - 公司文化深度解析:
+      - Citadel与Millennium文化对比: industry/Citadel-Millennium-culture.md
+    - 基金管理策略:
+      - 多管理人基金成功之道: industry/multi-manager-succ.md
     - 2025年最值得关注的10家对冲基金: industry/2025-10-fund.md
     - 大奖章基金：文艺复兴科技公司里独一无二的赚钱机器: industry/Medallion.md
     - Quadrature Capital:你从未听过的神秘自营交易公司: industry/Quadrature-Capital.md
@@ -425,6 +520,7 @@ nav:
     - 揭秘量化分析师的日常: job/quant-daily.md
     - 探秘Jane Street实习的亲身经历: job/Jane-Street-intern.md
     - 剑桥与北大内部培训项目: job/cambridge-and-pku.md
+    - 剑桥北大课程: job/cam-pku-course.md
     - 城市如何影响你的量化生涯: job/translated_The_Best_Cities_for_a_Career_in_Quantitative_Finance.md
     - 量化金融最佳学位推荐: job/translated_The_Best_Quantitative_Finance_Degrees.md
     - 量化开发者职业路径解析: job/translated_The_Quantitative_Developer_Career_Path.md
@@ -435,12 +531,19 @@ nav:
     - 2023量化金融求职与实习指南: job/translated_How_to_get_a_Quantitative_Finance_Job_or_Internship_in_2023.md
     - 如何拿下IMC Trading量化实习: job/translated_How_to_Land_a_Quant_Internship_at_IMC_Trading.md
     - 如何拿下Jane Street量化实习: job/translated_How_To_Land_a_Quant_Internship_at_Jane_Street.md
-    - 如何拿下Optiver量化实习: job/translated_How_To_Land_a_Quant_Internship_at_Optiver.md
+    - 如何拿下Optiver量化实习: job/translated_How_to_Land_a_Quant_Internship_at_Optiver.md
     - 如何进入Akuna Capital做量化交易: job/translated_How_to_Land_a_Quant_Trader_Job_at_Akuna_Capital.md
     - 量化交易员面试问题大全: job/translated_Interview_Questions_for_the_Quantitative_Trader_Job.md
     - 量化金融面试题精选: job/translated_Practice_Questions_for_the_Quantitative_Finance_Interview.md
   - 独家资源✨:
     - Overview: llmquant_resources/overview.md
+  - 量化图书馆:
+    - Overview: library/overview.md
+    - 图书分类指南:
+      - 入门级书籍: library/book/beginner.md
+      - 进阶级书籍: library/book/advanced.md
+      - 编程实现类: library/book/programming.md
+      - AI量化类: library/book/ai-quant.md
 
 # Configuration
 theme:
