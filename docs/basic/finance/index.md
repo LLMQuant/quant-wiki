@@ -93,8 +93,8 @@
 - [杠杆](杠杆_Leverage.md)
 - [杠杆率](杠杆率_Leverage Ratio.md)
 - [无杠杆Beta](无杠杆Beta_Unlevered Beta.md)
-- [波动性](波动性_Volatility copy.md)
-- [流动性](流动性_Liquidity copy.md)
+- [波动性](波动性_Volatility.md)
+- [流动性](流动性_Liquidity.md)
 
 ### 其他概念
 
