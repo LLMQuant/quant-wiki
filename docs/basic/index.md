@@ -29,7 +29,6 @@
 - [凯恩斯经济学_Keynesian Economics](finance/凯恩斯经济学_Keynesian Economics.md)
 - [利率_Interest Rate](finance/利率_Interest Rate.md)
 - [卖出期权_Put Option](finance/卖出期权_Put Option.md)
-- [卖空_Short Selling copy](finance/卖空_Short Selling copy.md)
 - [卖空_Short Selling](finance/卖空_Short Selling.md)
 - [变化率_Rate of Change](finance/变化率_Rate of Change.md)
 - [可转换债券_Convertible Bond](finance/可转换债券_Convertible Bond.md)
@@ -74,9 +73,7 @@
 - [比较优势_Comparative Advantage](finance/比较优势_Comparative Advantage.md)
 - [毛利率_Gross Profit Margin](finance/毛利率_Gross Profit Margin.md)
 - [汇率_Exchange Rate](finance/汇率_Exchange Rate.md)
-- [波动性_Volatility copy](finance/波动性_Volatility copy.md)
 - [波动性_Volatility](finance/波动性_Volatility.md)
-- [流动性_Liquidity copy](finance/流动性_Liquidity copy.md)
 - [流动性_Liquidity](finance/流动性_Liquidity.md)
 - [熊市_Bear Market](finance/熊市_Bear Market.md)
 - [牛市_Bull Market](finance/牛市_Bull Market.md)
@@ -184,9 +181,7 @@
 
 ## 统计学基础 (Statistics)
 
-- [P 值_P-Value](stat/P 值_P-Value.md)
 - [R平方_R-Squared](stat/R平方_R-Squared.md)
-- [T检验_T-Test](stat/T检验_T-Test.md)
 - [中心极限定理_Central Limit Theorem](stat/中心极限定理_Central Limit Theorem.md)
 - [假设检验_Hypothesis Testing](stat/假设检验_Hypothesis Testing.md)
 - [决定系数_Coefficient of Determination](stat/决定系数_Coefficient of Determination.md)

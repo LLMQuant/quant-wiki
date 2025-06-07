@@ -11,10 +11,10 @@
 
 ### 统计检验
 
-- [P值](P值_P-Value.md)
-- [Z值](Z值_Z-Score.md)
-- [Z检验](Z检验_Z-Test.md)
-- [T检验](T检验_T-Test.md)
+- [P值](../prob/P值_P-Value.md)
+- [Z值](../prob/Z值_Z-Score.md)
+- [Z检验](../prob/Z检验_Z-Test.md)
+- [T检验](../prob/T检验_T-Test.md)
 - [假设检验](假设检验_Hypothesis Testing.md)
 - [统计显著性](统计显著性_Statistical Significance.md)
 
