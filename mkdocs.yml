@@ -469,7 +469,7 @@ nav:
           - 获取Alpha的量化策略: library/book/量化交易/Quantitative Strategies for Achieving Alpha (McGraw-Hill Finance & Investing)-McGraw-Hill Finance & Investing (2008)/index.md
           - 量化交易业务构建: library/book/量化交易/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business-Wiley (2008)/index.md
           - 量化交易系统构建Wiley版: library/book/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business (Wiley Trading) (2021, Wiley)/index.md
-          - 统计套利算法交易: library/book/量化交易/Statistical Arbitrage_ Algorithmic Trading Insights and Techniques (Wiley Finance) (2007)/index.md
+          - 统计套利算法交易: library/book/量化交易/Statistical Arbitrage/index.md
           - 波动率微笑: library/book/量化交易/The Volatility Smile/index.md
           - 波动率交易网站版: library/book/量化交易/Volatility Trading, + Website-Wiley (2013)/index.md
           - 理解资产价格: library/book/量化交易/理解资产价格-NobelEconomics1/index.md
@@ -532,7 +532,6 @@ nav:
           - 华尔街面试题: library/book/量化面试/Timothy Falcon Crack - Heard on the Street, Quantitative Questions from Wall Street Job Interviews-Timothy Crack (2014)/index.md
           - 街头听闻: library/book/量化面试/Heard on the Street/index.md
           - 量化面试红宝书: library/book/量化面试/红宝书Quant Job Interview Questions And Answers/index.md
-          - 红宝书面试问答: library/book/量化面试/红宝书Quant Job Interview Questions And Answers (2008, CreateSpace) - libgen.li/index.md
           - 量化面试实践指南: library/book/量化面试/绿皮书A Practical Guide to Quantitative Finance Interviews/index.md
           - 150个高频题: library/book/量化面试/黄皮书150 Most Frequently Asked Questions on Quant Interviews/index.md
         - 经典面试书籍:
