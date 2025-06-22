@@ -14,7 +14,7 @@
 
 ### 内容简介
 
-黄皮书）Frequently Asked Questions In Quantitative Finance 是一本关于量化金融的专业书籍，涵盖了...
+黄皮书）Frequently Asked Questions In Quantitative Finance 是一本关于量化金融的专业书籍
 
 ### 核心章节
 

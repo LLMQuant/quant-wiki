@@ -1,5 +1,5 @@
 本期推文带来对买方顶级大佬Giuseppe Paleologo和卖方大佬Nick Baltas的人物专访，围绕三个Multi展开, Multi-Asset, Multi-Strategy Portfolios, Multi-Manager Hedge Funds
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 * Giuseppe Paleologo此前曾在 **Citadel** 担任 **风险与量化分析**的工作，在 **Millennium** 担任企业风险负责人，最近则担任 **HRT** 的 **风险管理负责人**
 
 * Nick Baltas目前则是**高盛董事总经理**、跨资产 Delta One、大宗商品和股票策略研发与结构化部门**负责人**
