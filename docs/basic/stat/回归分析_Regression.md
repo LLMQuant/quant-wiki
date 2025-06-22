@@ -1,5 +1,6 @@
-## 什么是回归分析？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是回归分析？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 回归分析是一种统计方法，广泛应用于金融、投资及其他学科，旨在确定因变量与一个或多个自变量之间关系的强度和特征。
 
 线性回归是这一技术中最常见的形式。线性回归也被称为简单回归或普通最小二乘法（OLS），它建立了两个变量之间的线性关系。
@@ -96,3 +97,6 @@ Beta值表示该股票相对于市场或指数的风险，反映在CAPM中的斜
 [4] Stanton, Jeffrey M., via Taylor & Francis Online. “[Galton, Pearson, and the Peas: A Brief History of Linear Regression for Statistics Instructors](https://www.tandfonline.com/doi/full/10.1080/10691898.2001.11910537).” Journal of Statistics Education, vol. 9, no. 3, 2001.
 
 [5] CFA Institute. “[Basics of Multiple Regression and Underlying Assumptions](https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/multiple-regression).”
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

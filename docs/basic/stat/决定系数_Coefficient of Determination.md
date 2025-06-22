@@ -1,5 +1,6 @@
-## 何为决定系数？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 何为决定系数？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 决定系数是一个统计学测量，用于检视一个变量的差异如何能被另一个变量的差异解释，特别是在预测特定事件结果时。这个系数更常被称为 r-squared（或 r²）。它评估了两个变量之间线性关系的强度，并在投资者进行趋势分析时被广泛依赖。
 
 这个系数通常回答一个关键问题：如果某支股票在一个指数中上市且经历价格波动，那么其价格波动中有多少百分比是由该指数的价格波动引起的？
@@ -141,3 +142,6 @@ $$ \begin{aligned}&\Big ( \frac { 63,467.32 }{ 1,302.76 \times 82.69 } \Big ) ^ 
 [3] Nasdaq. "[APPL Historical Data](https://www.nasdaq.com/market-activity/stocks/aapl/historical)."
 
 [4] Nasdaq. "[SPX Historical Data](https://www.nasdaq.com/market-activity/index/spx/historical)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

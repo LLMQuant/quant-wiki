@@ -1,5 +1,6 @@
-## 什么是中心极限定理（CLT）？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是中心极限定理（CLT）？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 在概率论中，中心极限定理（CLT）指出，随着样本量的增大，样本变量的分布趋近于正态分布（即“钟形曲线”），无论总体的实际分布形状如何。
 
 换句话说，CLT是一个统计前提，即从具有有限方差的人群中获取足够大的样本量时，所选样本变量的均值将近似等于整个总体的均值。此外，随着样本量的增加，这些样本还近似正态分布，其方差也将趋近于总体的方差，这一切都符合大数法则。
@@ -57,3 +58,6 @@ CLT在考察个股或更广泛指数的收益时非常有用，因为分析相�
 [5] Emory University. "[Final Summary The Central Limit Theorem](https://psychology.emory.edu/clinical/bliwise/Tutorials/CLT/CLT/fsummary.htm)."
 
 [6] Chang, H. J., K. Huang, and C. Wu. "[Determination of Sample Size in Using Central Limit Theorem for Weibull Distribution](http://163.13.238.245/IJIMS/files/recruit/569_76fb6a86.pdf)." International Journal of Information and Management Sciences, Vol. 17, No. 3. 2006, pp. 153-174.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
