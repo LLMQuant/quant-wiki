@@ -1,10 +1,11 @@
-## 什么是股份公司？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是股份公司？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 股份公司是由其投资者拥有的企业，每位投资者根据其投资额拥有公司的一部分股份。它是现代公司以及美国其他类型注册公司的前身。
 
 股份公司的创建是为了资助个人甚至政府都无力承担的昂贵事业。股份公司的所有者期望分享其利润。
 
-如今，美国公司并非以股份公司的形式组织。虽然可以用“股份公司”一词来描述拥有股东的企业，但没有这样的注册选项。相反，企业以公司、合伙企业或有限责任公司 (LLC) 等形式组织。
+如今, 美国公司并非以股份公司的形式组织。虽然可以用“股份公司”一词来描述拥有股东的企业，但没有这样的注册选项。相反，企业以公司、合伙企业或有限责任公司 (LLC) 等形式组织。
 
 ### 要点总结
 
@@ -91,10 +92,13 @@
 
 [1] Legal Information Institute. "[Corporations](https://www.law.cornell.edu/wex/corporations)."
 
-[2] United Kingdom Government. "[Incorporation and Names](https://www.gov.uk/government/publications/incorporation-and-names/incorporation-and-names#:~:text=Incorporation%20is%20the%20process%20by,by%20shares%20or%20by%20guarantee.)."
+[2] United Kingdom Government. "[Incorporation and Names](https://www.gov.uk/government/publications/incorporation-and-names/incorporation-and-names#:~:text=Incorporation%20is%20the%20process%20of%20creating%20a%20company%20or%20other%20entity%20that%20is%20separate%20from%20its%20owners.,by%20shares%20or%20by%20guarantee.)."
 
 [3] Bubb, Ryan. "Choosing the Partnership: English Business Organization Law During the Industrial Revolution," Seattle Law Review, vol. 38, no. 337, 2015, pp. 337-364.
 
 [4] USHistory.org. "[Joint-Stock Companies](https://www.ushistory.org/us/2b.asp)."
 
 [5] Encyclopedia Britannica. "[East India Company](https://www.britannica.com/topic/East-India-Company)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

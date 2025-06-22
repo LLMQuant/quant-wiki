@@ -1,5 +1,6 @@
-## 什么是一级市场？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是一级市场？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 一级市场是新证券的来源。通常在交易所，企业、政府和其他团体通过债务或权益证券融资，通常会在此进行首次发行。一级市场由承销团体促进，这些团体由投资银行组成，负责为特定证券设定初始价格区间，并监督其向投资者的销售。
 
 一旦初始销售完成，进一步的交易将在二级市场进行，而二级市场是每日交易的主要场所。
@@ -133,3 +134,6 @@ Facebook（现简称Meta）在2012年的首次公开募股当时是在线公司�
 [7] National Stock Exchange of India Ltd. "[Home Page](https://www.nseindia.com/)."
 
 [8] BSE Limited. "[Home Page](https://www.bseindia.com/)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

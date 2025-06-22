@@ -1,4 +1,7 @@
-## 什么是商业周期？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是商业周期？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 商业周期是指一个国家总体经济活动中的一种波动类型——一个周期由许多经济活动中大约同时发生的扩张组成，随后是类似普遍的收缩。这种变化序列是周期性的，但不是定期的。
 
@@ -91,3 +94,6 @@
 [6] Congressional Research Service. "[Introduction to U.S. Economy: The Business Cycle and Growth](https://sgp.fas.org/crs/misc/IF10411.pdf)," Page 2.
 
 [7] Federal Reserve Bank of Atlanta. "[Stock Prices in the Financial Crisis](https://www.atlantafed.org/cenfis/publications/notesfromthevault/0909)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

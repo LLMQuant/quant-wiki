@@ -1,5 +1,6 @@
-## 什么是贴现率？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是贴现率？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 贴现率是美联储向商业银行和其他金融机构收取短期贷款的利率。贴现率适用于美联储的贷款工具，该工具被称为贴现窗口。
 
 贴现率也可以指在折现现金流（DCF）分析中使用的利率，以确定未来现金流的现值。在这种情况下，投资者和企业可以使用贴现率来评估潜在的投资。
@@ -92,7 +93,7 @@
 |现值|$3,500
 |年数|10
 
-现在，让我们使用上面的公式来确定贴现率。对于分数指数，您可以将其转换为小数（1 ÷ 10）：
+现在, 让我们使用上面的公式来确定贴现率。对于分数指数, 您可以将其转换为小数（1 ÷ 10）：
 
 DR = ( FV ÷ PV ) 1/n - 1
 DR = ( $5,000 ÷ $3,500 ) 1/10 - 1
@@ -100,7 +101,7 @@ DR = $1.42857 0.1 - 1
 DR = 1.03631 - 1
 DR = 0.03631
 
-因此，在这种情况下，贴现率为3.631%。
+因此, 在这种情况下, 贴现率为3.631%。
 
 ## 较高的贴现率对货币的时间价值有什么影响？
 
@@ -128,6 +129,9 @@ DR = 0.03631
 
 [1] Federal Reserve. "[The Discount Window](https://www.frbdiscountwindow.org/pages/general-information/the%20discount%20window)."
 
-[2] Federal Reserve History. "[Federal Reserve Credit Programs During the Meltdown](https://www.federalreservehistory.org/essays/fed-credit-programs)."
+[2] Federal Reserve History. "[Federal Reserve Credit Programs During the Meltdown](https://www.frbdiscountwindow.org/pages/general-information/the%20discount%20window)."
 
 [3] European Central Bank. "[What Is the Marginal Lending Facility Rate?](https://www.ecb.europa.eu/explainers/tell-me/html/marginal_lending_facility_rate.en.html)"
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

@@ -1,4 +1,7 @@
-倒挂收益率曲线表明长期利率低于短期利率。在倒挂收益率曲线中，收益率随着到期日的临近而降低。倒挂曲线有时被称为负收益率曲线，过去已被证明是可靠的经济衰退指标。
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 倒挂收益率曲线表明长期利率低于短期利率
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
+在倒挂收益率曲线中，收益率随着到期日的临近而降低。倒挂曲线有时被称为负收益率曲线，过去已被证明是可靠的经济衰退指标。
 
 ### 主要内容
 
@@ -95,3 +98,6 @@ https://www.ustreasuryyieldcurve.com/
 [9] Dario Perkins on Twitter. “[A Short History of Yield Curve Denial](https://twitter.com/darioperkins/status/1506383088338755590).”
 
 [10] YCharts. https://ycharts.com/indicators/reports/daily_treasury_yield_curve_rates?
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

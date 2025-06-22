@@ -1,5 +1,6 @@
-## 什么是量化宽松？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是量化宽松？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 量化宽松（QE）是中央银行（如美国联邦储备系统）采取的一种货币政策形式，通过在公开市场上购买证券，以降低利率并增加货币供应。
 
 量化宽松创造了新的银行储备，为银行提供更多流动性，进而鼓励借贷和投资。在美国，联邦储备系统实施QE政策。
@@ -101,8 +102,10 @@ QE通过用现金替代银行系统中的债券，实际上增加了货币供应
 
 [13] Bank of England. “[Bank Rate Cut and Other New Measures: What Do They Mean?](https://www.bankofengland.co.uk/news/2016/august/bank-rate-cut-and-other-new-measures-what-do-they-mean)”
 
-[14] Office for National Statistics. “[Business Investment in the U.K.: April to June 2018 Revised Results](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/businessinvestment/apriltojune2018revisedresults).”
+[14] Office for National Statistics. business investment in the u.k.: april to june 2018 revised results.
 
 [15] Bank of England. “[QE at the Bank of England: A Perspective on Its Functioning and Effectiveness](https://www.bankofengland.co.uk/quarterly-bulletin/2022/2022-q1/qe-at-the-bank-of-england-a-perspective-on-its-functioning-and-effectiveness).”
 
 [16] FasterCapital. “[Money Printing: Money Printing Gone Awry: The Catalyst for Hyperinflation](https://fastercapital.com/content/Money-printing--Money-Printing-Gone-Awry--The-Catalyst-for-Hyperinflation.html).”
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

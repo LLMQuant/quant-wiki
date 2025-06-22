@@ -1,5 +1,6 @@
-## 什么是资本化？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是资本化？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 资本化是一种会计方法，通过将成本纳入资产的价值，并在资产的使用寿命内分摊这些成本，而不是在发生成本的期间直接费用化。资本化将现金支出视为资产，反映在资产负债表上，而不是费用，出现在损益表中。
 
 资本化还可以指对公司资本结构的定量评估，包括公司的股票、长期债务和留存收益形式的资本成本。
@@ -42,3 +43,5 @@
 ## 参考文献
 
 [1] Financial Accounting Standards Board. “[Leases (Topic 842)](https://www.fasb.org/jsp/FASB/Document_C/DocumentPage?cid=1176167901010&acceptedDisclaimer=true),” Pages 2-3.
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

@@ -1,4 +1,6 @@
-## 什么是变化率（ROC）？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是变化率（ROC）？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 变化率（ROC）指的是某个变量在特定时间段内变化的速度。变化率通常用于讨论动量，它可以一般化为一个变量的变化与另一个变量相应变化之间的比率；在图形上，变化率通过直线的斜率来表示。变化率常用希腊字母Δ（delta）来表示。
 
@@ -73,3 +75,6 @@ $$ \begin{aligned} &\text{价格 ROC} = \frac{B - A}{A} \times 100 \\ &\textbf{�
 [1] JPMorgan Chase. “[What Is Rate of Change?](https://www.chase.com/personal/investments/learning-and-insights/article/what-is-rate-of-change)”
 
 [2] SoFi Learn. “[How To Calculate Expected Rate of Return](https://www.sofi.com/learn/content/how-to-calculate-expected-rate-of-return/).”
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

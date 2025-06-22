@@ -1,5 +1,6 @@
-## 什么是公开市场操作 (OMOs)?
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是公开市场操作 (OMOs)?
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 公开市场操作 (OMO) 是指联邦储备系统 (Fed) 在公开市场上买卖证券的行为。美联储进行公开市场操作是为了调节美国银行储备金中的货币供应量。美联储购买国债以增加货币供应量，出售国债以减少货币供应量。
 
 通过使用 OMO，美联储可以调整联邦基金利率，进而影响其他短期利率、长期利率和外汇汇率。这可以改变经济中可用的货币和信贷数量，并影响某些经济因素，例如失业率、产出以及商品和服务的成本。
@@ -98,7 +99,7 @@ OMO 有两种类型：永久性公开市场操作和临时性公开市场操作�
 
 [1] Board of Governors of the Federal Reserve System. "[What Were the Federal Reserve's Large-Scale Asset Purchases?](https://www.federalreserve.gov/faqs/what-were-the-federal-reserves-large-scale-asset-purchases.htm)"
 
-[2] Federal Reserve Bank of San Francisco. “[I Find Definitions of the Federal Funds Rate Stating That It Can Be Both Above and Below the Discount Rate. Which is Correct?](https://www.frbsf.org/education/publications/doctor-econ/2004/september/federal-funds-discount-rate/)"
+[2] Federal Reserve Bank of San Francisco. “[I Find Definitions of the Federal Funds Rate Stating That It Can Be Both Above and Below the Discount Rate. Which is Correct?](https://www.frbsf.org/education/publications/doctor-econ/2004/september/federal-funds-rate-discount-rate/)"
 
 [3] Board of Governors of the Federal Reserve System. “[About the FOMC](https://www.federalreserve.gov/monetarypolicy/fomc.htm).”
 
@@ -109,3 +110,6 @@ OMO 有两种类型：永久性公开市场操作和临时性公开市场操作�
 [6] Board of Governors of the Federal Reserve System. "[Policy Tools-Open Market Operations](https://www.federalreserve.gov/monetarypolicy/openmarket.htm)."
 
 [7] Federal Reserve Bank of New York. "[Open Market Operations: Key Concepts](https://www.newyorkfed.org/markets/openmarket_concepts.html)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

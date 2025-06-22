@@ -1,4 +1,6 @@
-## 什么是保证金？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是保证金？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 在金融领域，保证金是投资者需要向经纪人或交易所存入的抵押品，用以覆盖投资者对经纪人或交易所可能造成的信用风险。投资者如果借用经纪人的现金购买金融工具、借入金融工具进行卖空，或签订衍生合约，就可能产生信用风险。
 
@@ -126,3 +128,6 @@
 [4] U.S. Department of Housing and Urban Development. "[Adjustable Rate Mortgages (ARM)](https://www.hud.gov/program_offices/housing/sfh/ins/203armt)."
 
 [5] Consumer Financial Protection Bureau. "[For an Adjustable-Rate Mortgage (ARM), What are the Index and Margin, and How Do They Work?](https://www.consumerfinance.gov/ask-cfpb/for-an-adjustable-rate-mortgage-arm-what-are-the-index-and-margin-and-how-do-they-work-en-1949/)"
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

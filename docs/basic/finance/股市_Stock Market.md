@@ -1,3 +1,6 @@
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 股票市场：运作、参与者与重要性
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 股票市场不是一个你可以参观的地方，而是指代表公司部分所有权的股票的交易（一些是实体的，但大多数是在线的）。它不仅是企业筹集资金的地方，也被用作衡量经济健康状况的标志。
 
 ### 关键要点
@@ -109,8 +112,6 @@
 
 ## 为什么股票市场如此重要？
 
-现在我们了解了股票市场的不同部分——谁、什么、在哪里以及它是如何运作的——我们可以更好地理解为什么它在当今的经济中占有如此大的比重。
-
 当最早的股票市场形成时，全球经济与现在截然不同。这些时代贸易和商业主要由实物商品驱动，农业、纺织品和早期制造业等行业在经济领域占据主导地位。当时的股票市场是新兴机构，主要帮助为探险和贸易企业提供资金，也就是说，为从南亚、美洲和非洲获取商品和人民的殖民企业提供资金。这些证券交易所已经是全球投资运营。[7] 然而，它们在日常经济生活中扮演的角色相对较小。
 
 
@@ -118,7 +119,7 @@
 
 金融化也反映了更广泛的社会经济变化。今天的股市不仅仅是筹集资金的平台，而且与数百万美国人的退休和投资策略息息相关。这就是为什么在危险时期——2007年至2008年和疫情是两个主要例子——美国政府和联邦储备委员会比以往任何时候都更有义务介入。这不仅仅是为了保护少数人的财富，而是因为广大美国人的储蓄面临风险。不久前，美国人听到股市新闻时，可能是在关注对其工作的间接影响——例如，看看他们的公司经营状况如何——但现在他们更经常关注对其自身投资组合的直接影响，包括401(K)计划。
 
-当然，许多人正在偿还大学贷款、抵押贷款和其他债务，或者在经济上过于脆弱，无法拥有股票或其他资产的投资组合。尽管如此，他们也感受到了股市的影响。首先，市场推动了技术进步的资金，比如我们口袋里的智能手机或我们服用的药物，这些都需要数十亿美元的研发费用。这种获得资本的机会对于那些进军人工智能或新型医疗设备等领域的公司至关重要，这些领域的成本是公司原本可以借到的资金的许多倍。
+当然，许多人正在偿还大学贷款、抵押贷款和其他债务，或者在经济上过于脆弱，无法拥有股票或其他资产的投资组合。尽管如此，他们也感受到了股市的影响。首先，市场推动了技术进步的资金，比如我们口袋里的智能手机或我们服用的药物，这些药物都需要数十亿美元的研发费用。这种获得资本的机会对于那些进军人工智能或新型医疗设备等领域的公司至关重要，这些领域的成本是公司原本可以借到的资金的许多倍。
 
 股市的变动也会影响更广泛的经济，并进而影响就业。它的表现会影响公司的决策，影响就业岗位的创造（以及裁员可以提高股价的反向影响）、扩张和整体经济增长。健康的股市通常与更强劲的经济相关。但这也可能意味着更多的资本掌握在少数富人手中，提高了几乎每个美国主要城市曾经的中产阶级地区的房产价值。
 
@@ -154,8 +155,11 @@
 
 [5] U.S. Securities and Exchange Commission. “[What We Do](https://www.sec.gov/Article/whatwedo.html).”
 
-[6] Macrotrends. "[S&P 500 Historical Returns](https://www.macrotrends.net/2526/sp-500-historical-annual-returns)."
+[6] Macrotrends. "[S&P 500 Historical Returns](https://www.macrotrends.net/2526/sp-500-historical-returns)."
 
 [7] U.S. Securities and Exchange Commission, Historical Society. "[The Institution of Experience: Self-Regulatory Organizations in the Securities Industry, 1792–2010](https://www.sechistorical.org/museum/galleries/sro/sro02b.php)."
 
 [8] Securities Industry and Financial Markets Association. "[2023 Capital Markets Fact Book](https://www.sifma.org/wp-content/uploads/2022/07/2023-SIFMA-Capital-Markets-Factbook.pdf)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
