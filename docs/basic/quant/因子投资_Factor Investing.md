@@ -1,4 +1,6 @@
-## 什么是因子投资？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是因子投资？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 因子投资是一种基于特定属性选择证券的投资策略，这些属性与更高的回报相关。主要有两类因子驱动股票、债券及其他资产的回报：宏观经济因子和风格因子。前者捕捉跨资产类别的广泛风险，而后者则旨在解释同一资产类别内的回报和风险。
 
@@ -45,3 +47,6 @@
 [5] S&P Dow Jones Indices. "[Low Volatility: A Practitioner’s Guide](https://www.spglobal.com/spdji/en/documents/education/education-low-volatility-a-practitioners-guide.pdf)." Pages 1-2.
 
 [6] Fama, Eugene F. and French, Kenneth R. "[Multifactor Explanations of Asset Pricing Anomalies](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1996.tb05202.x)." The Journal of Finance, vol. 51, no. 1, March 1996, pp. 55-84.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

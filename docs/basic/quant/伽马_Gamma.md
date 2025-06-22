@@ -1,5 +1,6 @@
-## 什么是Gamma？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是Gamma？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 Gamma (Γ) 是一种期权风险指标，它描述了标的资产价格每变动一个点，期权的Delta值的变化率。Delta表示标的资产价格每变动一个点，期权溢价（价格）的变化幅度。因此，Gamma衡量的是期权价格的变化率如何随着标的价格的波动而变化。Gamma越高，期权价格的波动性就越大。
 
 Gamma是衡量衍生品价值相对于标的资产的凸性的重要指标。它是“期权希腊字母”之一，与Delta、Rho、Theta和Vega一起使用。这些指标用于评估期权投资组合中的不同类型的风险。
@@ -56,3 +57,6 @@ Gamma衡量标的资产每增加一个点，Delta的变化率。它是帮助交�
 ## 参考文献
 
 [1] Sheldon Natenberg. "Option Volatility Trading Strategies." John Wiley & Sons, 2012.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

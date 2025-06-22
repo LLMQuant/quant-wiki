@@ -1,5 +1,7 @@
-## Fama-French三因子模型简介
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# Fama-French三因子模型简介
 
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 Fama-French三因子模型（简称Fama-French模型）是一个资产定价模型，开发于1992年。该模型在资本资产定价模型（CAPM）的基础上增加了规模风险和价值风险因子，扩展了市场风险因子。模型考虑到价值股和小盘股经常超越市场的现象。通过引入这两个额外因子，该模型对这种超额表现进行了调整，这被认为使其成为评估管理者表现的更有效工具。
 
 ### 主要观点
@@ -51,3 +53,6 @@ Fama-French模型有三个因子：公司的规模、账面市值比和市场的
 [2] Eugene F. Fama and Kenneth R. French. "Multifactor Explanations of Asset Pricing Anomalies." The Journal of Finance, Volume 51, No. 1, 1996, Pages 55-84.
 
 [3] Journal of Financial Economics. "[A Five-Factor Asset Pricing Model](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14002323)." Accessed Aug. 30, 2021.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

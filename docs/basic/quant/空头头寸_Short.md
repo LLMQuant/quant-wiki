@@ -1,4 +1,7 @@
-## 什么是空头头寸？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是空头头寸？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 空头或空头头寸是指交易者首先卖出某一证券，计划随后以更低的价格再购回或平仓。当交易者认为该证券的价格在不久的将来可能会下降时，他们可能会选择进行空头交易。空头头寸有两种类型：裸空头和有保证空头。
 
@@ -57,3 +60,6 @@
 ## 参考文献
 
 [1] FINRA. "[Calculating Margin for Day-Trading And Cross-Guaranteed Accounts](https://www.finra.org/rules-guidance/notices/98-102)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

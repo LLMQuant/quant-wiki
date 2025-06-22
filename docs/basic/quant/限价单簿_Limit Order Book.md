@@ -1,5 +1,6 @@
-## 什么是限价单簿？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是限价单簿？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 限价单簿是一种由负责交易所的证券专员维护的未成交限价单记录。限价单是一种买入或卖出证券的订单，要求以特定价格或更好的价格进行交易。买入限价单是指以预设价格或更低价格买入，而卖出限价单则是指以预设价格或更高价格卖出证券。
 
 当证券的限价单被输入时，它会被证券专员记录在案。随着买卖限价单的增添，专员会在限价单簿中记录所有相关订单。当市场价格达到预设的限价时，专员会以或低于限价执行这些订单。
@@ -44,3 +45,6 @@
 ## 参考文献
 
 [1] U.S. Securities and Exchange Commission. "[The Nasdaq Stock Market Form I—Exhibit E](https://www.sec.gov/pdf/nasd1/systems.pdf)," Page 7. Accessed May 23, 2021.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

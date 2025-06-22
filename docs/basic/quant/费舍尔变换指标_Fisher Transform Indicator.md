@@ -1,4 +1,7 @@
-## 什么是费舍尔变换指标？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是费舍尔变换指标？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 费舍尔变换指标是一种技术指标，旨在将价格转化为高斯正态分布。它能够突出价格何时出现极端波动，并根据近期价格情况帮助识别资产价格的转折点。此指标还可用于显示趋势，并在趋势中隔离价格波动。费舍尔变换指标由约翰·F·埃勒斯创立。
 
@@ -71,3 +74,6 @@ $$ \begin{aligned} &\text{费舍尔变换} = \frac{1}{2}*\ln \left( \frac{1+X}{1
 ## 参考文献
 
 [1] Quantified Strategies. "[John Ehlers Trading Strategy: The Instantaneous Trendline with Backtest](https://www.quantifiedstrategies.com/john-ehlers-trading-strategy/)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
