@@ -1,4 +1,6 @@
-## 什么是蒙特卡罗模拟？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是蒙特卡罗模拟？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 蒙特卡罗模拟是一种建模方法，用于预测由于随机变量干预而难以预测的过程中的各种结果的概率。这是一种用于理解风险和不确定性影响的技术。蒙特卡罗模拟可以应用于多个领域的各种问题，包括投资、商业、物理和工程。这种技术也被称为多重概率模拟。
 
@@ -115,3 +117,6 @@
 [2] IBM. "[Working Together, AI & HPC Can Solve Large, Complex Problems](https://community.ibm.com/community/user/cloud/blogs/john-easton/2024/03/25/working-together-ai-hpc-can-solve-large-complex-ch?CommunityKey=74d589b7-7276-4d70-acf5-0fc26430c6c0)."
 
 [3] Virginia Polytechnic Institute, via Internet Archive Wayback Machine. "[Monte Carlo Simulation](https://web.archive.org/web/20201025115012/https://sites.google.com/a/vt.edu/monte-carlo-simulation/history)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

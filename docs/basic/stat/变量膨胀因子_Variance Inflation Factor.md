@@ -1,5 +1,6 @@
-## 变量膨胀因子（VIF）是什么？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 变量膨胀因子（VIF）是什么？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 变量膨胀因子（VIF）是回归分析中衡量多重共线性程度的一种指标。当多个自变量在多元回归模型中存在相关性时，便会产生多重共线性，这会对回归结果产生不利影响。因此，变量膨胀因子能够估计由于多重共线性导致的回归系数方差的膨胀程度。
 
 ### 关键要点
@@ -71,3 +72,6 @@ VIF 用于衡量回归分析中自变量之间的相关性强度。这种相关�
 [1] CFI. "[Variance Inflation Factor](https://corporatefinanceinstitute.com/resources/knowledge/other/variance-inflation-factor-vif/)."
 
 [2] Isixsigma. "[Variance Inflation Factor (VIF)](https://www.isixsigma.com/dictionary/variance-inflation-factor-vif/)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

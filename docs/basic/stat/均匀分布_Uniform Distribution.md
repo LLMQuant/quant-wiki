@@ -1,5 +1,6 @@
-## 什么是均匀分布？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是均匀分布？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 在统计学中，均匀分布是指一种概率分布，其中所有结果的发生概率相等。概率分布可以帮助你判断未来事件的可能性。
 
 例如，抽取一副扑克牌时，抽到红桃、梅花、方块或黑桃的可能性是相等的，因此扑克牌的均匀分布是可以预期的。掷硬币也是一种均匀分布的例子，因为在掷硬币时，出现正面或反面的概率是相同的。
@@ -88,3 +89,6 @@ $$ \begin{aligned}&P_x = \frac{ 1 }{ n } \\&\textbf{其中：} \\&P_x = \text{�
 ## 参考文献
 
 [1] National Institute of Standards and Technology. "[What Do We Mean by "Normal" Data?](https://www.itl.nist.gov/div898/handbook/pmc/section5/pmc51.htm)"
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

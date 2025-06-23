@@ -10,7 +10,7 @@
 - **出版年份**:
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Deep> Learning for Finance.pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Deep Learning for Finance.pdf)
 
 ### 内容简介
 

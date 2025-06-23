@@ -10,19 +10,12 @@
 - **出版年份**:
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](None)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Machine%20Learning%20for%20Algorithmic%20Trading.pdf)
 
 ### 内容简介
 
-Machine-Learning-for-Algorithmic-Trading 是一本关于量化金融的专业书籍，涵盖了...
+Machine-Learning-for-Algorithmic-Trading 是一本关于量化金融的专业书籍，涵盖了机器学习在算法交易中的应用。本书详细介绍了如何利用机器学习技术来优化交易策略，包括数据预处理、特征工程、模型选择与训练、以及策略回测等关键步骤。书中不仅包含了丰富的理论知识，还提供了大量实际案例和代码示例，帮助读者更好地理解和应用这些技术，
 
-### 核心章节
-
-1. 第一章
-2. 第二章
-3. 第三章
-4. 第四章
-5. 第五章
 
 ### 主要特点
 

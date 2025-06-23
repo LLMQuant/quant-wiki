@@ -1,5 +1,6 @@
-## 什么是杠杆比率？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是杠杆比率？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 杠杆比率是一种财务指标，用于衡量有多少资本是以债务（贷款）的形式存在，或者评估公司履行其财务义务的能力。杠杆比率类别非常重要，因为公司依靠股权和债务的组合来为其运营提供资金，了解公司持有的债务金额有助于评估其是否能在债务到期时偿还。
 
 以下将讨论几种常见的杠杆比率。
@@ -12,7 +13,6 @@
 - 银行对其可以持有的杠杆水平有监管监督。
 
 ## 杠杆比率能告诉你什么？
-
 在大多数情况下，杠杆比率评估公司履行其财务义务的能力。过多的债务对公司及其投资者来说可能是危险的。但是，如果公司的运营能够产生高于贷款利率的回报率，那么债务可能有助于推动增长。
 
 不受控制的债务水平可能导致信用评级下调或更糟。另一方面，过少的债务也会引发疑问。不愿或无法借款可能表明营业利润率很低。
@@ -154,3 +154,6 @@ $$ \text{消费者杠杆比率} = \frac{\text{家庭总债务}}{\text{个人可�
 [6] Board of Governors of the Federal Reserve System. “[Annual Large Bank Capital Requirements](https://www.federalreserve.gov/supervisionreg/large-bank-capital-requirements.htm).”
 
 [7] UPS Investor Relations. “[Quarterly Earnings and Financials](https://investors.ups.com/quarterly-earnings-and-financials).”
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

@@ -10,7 +10,7 @@
 - **出版年份**: 2017
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/A> complete guide to the futures market_ technical analysis and trading systems, fundamental analysis, options, spreads, and trading principles-J.pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/A complete guide to the futures market_ technical analysis and trading systems, fundamental analysis, options, spreads, and trading principles-J.pdf)
 
 ### 内容简介
 

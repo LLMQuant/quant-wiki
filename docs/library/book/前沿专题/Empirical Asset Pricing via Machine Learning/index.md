@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Empirical Asset Pricing via Machine Learning.pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Empirical Asset Pricing via Machine Learning.pdf)
 
 ### 内容简介
 

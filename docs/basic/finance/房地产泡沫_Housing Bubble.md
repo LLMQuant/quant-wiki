@@ -1,4 +1,6 @@
-## 什么是房地产泡沫？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是房地产泡沫？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 房地产泡沫是指由需求、投机和过度支出推动的房价上涨。房地产泡沫通常始于供应有限情况下的需求增加。投机者通过向市场投入资金进一步推高需求。当需求减少或停滞，而供应增加时，价格下跌，泡沫破裂。
 
@@ -71,3 +73,6 @@
 [9] U.S. Department of Housing and Urban Development. "[Adjustable Rate Mortgages (ARM)](https://www.hud.gov/program_offices/housing/sfh/ins/203armt#:~:text=An%20ARM%20is%20an%20Adjustable,an%20ARM%20will%20change%20periodically.)."
 
 [10] Federal Housing Finance Agency. "[An Overview of the Home Foreclosure Process](https://www.fhfaoig.gov/Content/Files/SAR%20Home%20Foreclosure%20Process.pdf)," Pages 2-3.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

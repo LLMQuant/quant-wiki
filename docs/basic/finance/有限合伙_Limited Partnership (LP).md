@@ -1,5 +1,6 @@
-## 什么是有限合伙企业 (LP)？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是有限合伙企业 (LP)？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 有限合伙企业 (LP) 是一种由两个或多个当事人拥有的企业。这些当事人必须包括至少一名普通合伙人，负责经营企业并对任何债务承担无限责任。有限合伙人仅对其投资额承担有限责任。有限合伙企业与有限责任合伙企业 (LLP) 不同。
 
 有限合伙企业结构通常被用作个人汇集资金投资于房地产或其他资产的工具。
@@ -23,7 +24,7 @@
 
 ## 合伙企业的类型
 
-一般来说，任何合伙企业都是由两个或多个个人拥有的企业。合伙企业有三种形式：有限合伙企业、普通合伙企业和有限责任合伙企业。
+一般来说, 任何合伙企业都是由两个或多个个人拥有的企业。合伙企业有三种形式：有限合伙企业、普通合伙企业和有限责任合伙企业。
 
 在所有形式的合伙企业中，每个合伙人都贡献资源，如财产、金钱、技能或劳动力，并因此分享企业的利润和损失。至少有一名合伙人负责决定企业的日常事务。该合伙人通常被称为普通合伙人。
 
@@ -169,7 +170,7 @@ LP（有限合伙企业）和 LLP（有限责任合伙企业）具有相似的�
 
 [1] Cornell Law School, Legal Information Institute. “[13 CFR § 107.160—Special Rules for Licensees Formed as Limited Partnerships](https://www.law.cornell.edu/cfr/text/13/107.160).”
 
-[2] CO- by U.S. Chamber of Commerce. “[What Is a General Partnership?](https://www.uschamber.com/co/start/startup/general-partnerships)”
+[2] CO- by U.S. Chamber of Commerce. “[What Is a General Partnership?](https://www.uschamber.com/co/start/startup/general-partnerships)”
 
 [3] U.S. Small Business Administration. “[Joint Ventures](https://www.sba.gov/federal-contracting/contracting-assistance-programs/joint-ventures).”
 
@@ -186,3 +187,6 @@ LP（有限合伙企业）和 LLP（有限责任合伙企业）具有相似的�
 [9] Internal Revenue Service. “[Instructions for Form 1065 (2023)](https://www.irs.gov/instructions/i1065).”
 
 [10] Internal Revenue Service. “[Are Partners Considered Employees of a Partnership or Are They Considered Self-employed?](https://www.irs.gov/faqs/small-business-self-employed-other-business/entities/entities-1)”
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

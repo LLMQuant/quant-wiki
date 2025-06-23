@@ -10,7 +10,7 @@
 - **出版年份**: 2015
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Finding> Alphas.pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Finding Alphas.pdf)
 
 ### 内容简介
 

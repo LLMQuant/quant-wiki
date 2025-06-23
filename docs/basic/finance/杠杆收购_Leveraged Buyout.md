@@ -1,4 +1,8 @@
-## 杠杆收购是什么？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+
+# 杠杆收购是什么？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 杠杆收购（LBO）是指一家公司通过大量借款来收购另一家公司，以支付收购成本。这些借款可以以债券或贷款的形式出现。被收购公司的资产通常被用作贷款的抵押，与收购公司的资产一起作为担保。
 
@@ -37,7 +41,7 @@
 
 有记录以来最大的LBO之一是2006年科尔伯格·克拉维斯·罗伯茨公司（KKR）、贝恩公司和美林证券收购美国医院公司（HCA），三家公司对HCA的估值约为330亿美元。[2]
 
-在2008年金融危机后，这类大规模收购的数量有所下降，但随着COVID-19疫情的减弱，大规模LBO再次增加。2021年，由黑石集团领导的一组融资者宣布对医疗设备制造商Medline的杠杆收购，估值为340亿美元。[3]4
+在2008年金融危机后，这类大规模收购的数量有所下降，但随着COVID-19疫情的减弱，大规模LBO再次增加。2021年，由黑石集团领导的一组融资者宣布对医疗设备制造商Medline的杠杆收购，估值约为340亿美元。[3]4
 
 维斯塔资本合伙公司与艾略特投资管理在2022年1月进行首次重大杠杆收购，收购软件制造商Citrix Systems, Inc.，交易金额为130亿美元。[5]
 
@@ -80,3 +84,6 @@
 [7] S&P Global Market Intelligence. "[As LBOs Surged in Q4'20, US Purchase Price Multiples Hit New Heights](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/as-lbos-surged-in-q4-20-us-purchase-price-multiples-hit-new-heights-62227223)."
 
 [8] Business Insider. “[How Private Equity Firms Screen for LBO Candidates](https://www.businessinsider.com/how-private-equity-screens-for-lbo-candidates-2011-10).”
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

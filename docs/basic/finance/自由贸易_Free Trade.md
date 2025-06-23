@@ -1,5 +1,6 @@
-## 什么是自由贸易协定（FTA）？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是自由贸易协定（FTA）？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 自由贸易协定是两个或多个国家之间为减少彼此进出口壁垒而达成的协议。在自由贸易政策下，商品和服务可以在国际边界上进行买卖，几乎没有或没有政府关税、配额、补贴或禁止措施来抑制它们的交换。
 
 自由贸易的概念与贸易保护主义或经济孤立主义相反。
@@ -42,7 +43,7 @@
 
 自由贸易使许多国家实现了快速的经济增长。通过专注于出口和它们具有强大比较优势的资源，许多国家已经能够吸引外国投资资本，并为当地工人提供相对高薪的工作。
 
-对于消费者而言，自由贸易创造了一个竞争环境，各国努力为其资源提供尽可能低的价格。这反过来又允许制造商为成品提供更低的价格，最终提高所有消费者的购买力。
+对于消费者而言，自由贸易创造了一个竞争环境，各国努力为其资源提供尽可能低的价格。这反过来允许制造商为成品提供更低的价格，最终提高所有消费者的购买力。
 
 然而，当一个国家向自由贸易开放其边界时，也会有经济上的输家。国内产业可能无法与外国竞争对手竞争，导致当地失业。大型产业可能会转移到环境和劳动法宽松的国家，导致童工或污染。
 
@@ -139,3 +140,6 @@
 [11] Office of the United States Trade Representative. "[Industrial Tariffs](https://ustr.gov/issue-areas/industry-manufacturing/industrial-tariffs)."
 
 [12] Government of Canada. "[Free Trade Zones in China](https://www.tradecommissioner.gc.ca/china-chine/ftz-zle.aspx?lang=eng)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

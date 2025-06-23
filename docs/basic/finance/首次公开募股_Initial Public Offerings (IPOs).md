@@ -1,5 +1,6 @@
-## 什么是首次公开募股 (IPO)？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是首次公开募股 (IPO)？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 首次公开募股 (IPO) 是指一家私营公司首次向公众发行股票。IPO 允许公司从公众投资者那里筹集股本。
 
 从私营公司转型为上市公司对于私人投资者来说可能是一个重要的时刻，可以充分实现其投资收益，因为它通常包括对当前私人投资者的股票溢价。与此同时，它也允许公众投资者参与发行。
@@ -106,7 +107,7 @@ IPO 的主要目标是为企业筹集资金。它也可以带来其他优势以�
 
 如果您查看许多 IPO 之后的图表，您会注意到几个月后，股票会出现大幅下跌。这通常是由于锁定期到期。当一家公司上市时，承销商会要求公司内部人士（例如官员和员工）签署锁定期协议。
 
-锁定期协议是承销商和公司内部人士之间具有法律约束力的合同，禁止他们在特定时期内出售任何股票。该期限的范围可以从 3 个月到 24 个月不等。根据规则 144（SEC 法律），最短期限为 90 天，但承销商指定的锁定期可能会持续更长时间。[4] 问题是，当锁定期到期时，所有内部人士都可以出售他们的股票。结果是，人们争先恐后地出售他们的股票以实现他们的利润。这种过剩的供应可能会对股价造成严重的下行压力。
+锁定期协议是承销商和公司内部人士之间具有法律约束力的合同，禁止他们在特定时期内出售任何股票。该期限的范围可以从 3 个月到 24 个月不等。根据规则 144（SEC 法律），最短期限为 90 天，但承销商指定的锁定期可能会持续更长时间。[4] 问题是，当锁定期到期时，所有内部人士都可以出售他们的股票。结果是，人们争先恐后出售他们的股票以实现他们的利润。这种过剩的供应可能会对股价造成严重的下行压力。
 
 一些投资银行在其发行条款中包含等待期。这会预留一些股票用于在特定时期后购买。如果承销商购买了此分配，价格可能会上涨，如果未购买，价格可能会下跌。
 
@@ -137,9 +138,9 @@ IPO 往往会引起媒体的广泛关注，其中一些是公司上市时有意�
 ## 参考文献
 
 [1] U.S. Securities and Exchange Commission. "[Form S-1](https://www.sec.gov/files/forms-1.pdf)," Pages 4–6.
-
 [2] U.S. Securities and Exchange Commission. "[Form S-1](https://www.sec.gov/files/forms-1.pdf)," Page 1.
-
 [3] U.S. Securities and Exchange Commission. "[What Is a Registration Statement?](https://www.sec.gov/smallbusiness/goingpublic/registrationstatement)"
-
 [4] U.S. Securities and Exchange Commission. "[Revisions to Rules 144 and 145: A Small Entity Compliance Guide](https://www.sec.gov/info/smallbus/secg/rules144-145-secg.htm)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

@@ -1,4 +1,8 @@
-## 什么是概率分布？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+
+# 什么是概率分布？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 概率分布是一种统计函数，描述了随机变量在给定范围内所有可能取值及其发生的可能性。该范围由最小值和最大值限制。然而，可能值在概率分布上的具体位置则取决于多个因素，包括分布的均值（平均值）、标准差、偏态和峰态。
 
@@ -98,3 +102,6 @@ CLT的一个关键含义是，在样本量较大时，样本均值的抽样分�
 [5] U.S. Securities and Exchange Commission. “[Remarks Before the Peterson Institute of International Economics](https://www.sec.gov/news/speech/remarks-peterson-institute-international-economics).”
 
 [6] Dartmouth Department of Mathematics. "[Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

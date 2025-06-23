@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Marcos López de Prado - Advances in Financial Machine Learning-John Wiley & Sons, Inc. (2018).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Marcos López de Prado - Advances in Financial Machine Learning-John Wiley & Sons, Inc. (2018).pdf)
 
 ### 内容简介
 

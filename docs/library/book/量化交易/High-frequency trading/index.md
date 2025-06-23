@@ -10,7 +10,7 @@
 - **出版年份**: 2013
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/High-frequency> trading_ a practical guide to algorithmic strategies and trading systems-Wiley (2013).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/High-frequency trading_ a practical guide to algorithmic strategies and trading systems-Wiley (2013).pdf)
 
 ### 内容简介
 

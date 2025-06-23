@@ -3,14 +3,13 @@
 ![](https://fastly.jsdelivr.net/gh/bucketio/img3@main/2024/09/04/1725464231869-e0b2f727-2a0f-4270-bf6c-31ddc350426a.gif)
 本书籍由[LLMQuant社区](https://llmquant.com/)整理, 并提供PDF下载, 只供学习交流使用, 版权归原作者所有。
 
-<img src="cover.jpg" alt="Mathematics of Financial Engineering" width="200"/>
 
 - **作者**: Dan Stefanica
 - **出版社**: FE Press
 - **出版年份**: 2011
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Dan> Stefanica - A Primer for the Mathematics of Financial Engineering-FE Press (2011).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Dan%20Stefanica%20-%20A%20Primer%20for%20the%20Mathematics%20of%20Financial%20Engineering-FE%20Press%20(2008).pdf)
 
 ### 内容简介
 

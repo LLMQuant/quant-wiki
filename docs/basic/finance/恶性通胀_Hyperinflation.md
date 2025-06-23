@@ -1,5 +1,6 @@
-## 什么是恶性通货膨胀？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是恶性通货膨胀？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 恶性通货膨胀是指一个经济体中普遍物价迅速、过度且失控上涨的现象。虽然通货膨胀衡量的是商品和服务价格上涨的速度，但恶性通货膨胀是迅速上涨的通货膨胀，通常衡量标准是每月超过 50%。
 
 虽然恶性通货膨胀对于发达经济体来说是一种罕见事件，但在历史上，它曾在许多国家发生过，例如中国、德国、俄罗斯、匈牙利和格鲁吉亚。
@@ -9,7 +10,7 @@
 - 恶性通货膨胀是指一个经济体中迅速且不受限制的价格上涨，通常在一段时间内每月超过 50%。
 - 恶性通货膨胀可能发生在影响基础生产经济的情况下，并伴随着中央银行过度印钞。
 - 恶性通货膨胀会导致食品和燃料等必需品的价格飙升，因为需求超过了供应。
-- 虽然恶性通货膨胀的情况通常很少见，但一旦开始，它们可能会失控。
+- 恶性通货膨胀的情况通常很少见，但一旦开始，它们可能会失控。
 
 ## 理解恶性通货膨胀
 
@@ -110,3 +111,6 @@
 [10] Federal Reserve Bank of St. Louis. "[President's Message: Volcker's Handling of the Great Inflation Taught Us Much](https://www.stlouisfed.org/publications/regional-economist/january-2005/volckers-handling-of-the-great-inflation-taught-us-much)."
 
 [11] Federal Reserve History. "[The Great Inflation](https://www.federalreservehistory.org/essays/great-inflation)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

@@ -1,4 +1,6 @@
-## 什么是资本资产定价模型（CAPM）？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是资本资产定价模型（CAPM）？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 资本资产定价模型（CAPM）描述了系统性风险（即投资的一般风险）与资产（尤其是股票）预期收益之间的关系。这是一个金融模型，建立了投资所需回报与风险之间的线性关系。
 

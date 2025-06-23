@@ -1,4 +1,6 @@
-## 什么是多空基金？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是多空基金？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 多空基金是一种互惠基金、对冲基金或交易所交易基金（ETF），同时采取多头和空头的投资头寸。简单来说，这些基金在他们预期会增值的股票上建立多头头寸，同时在他们认为会贬值的股票上建立空头头寸。这些基金通常采用对冲基金首创的投资技术——杠杆、衍生品、空头头寸等，后又被互惠基金和ETF所采纳。顾名思义，大部分对冲基金属于这一类型，而金融行业监管局（FINRA）列出的176只互惠基金和ETF也在这一类别中。[1] 多空基金也被称为增强型或130/30基金。
 
@@ -74,3 +76,7 @@ Invesco表示其基金追踪更广泛股票市场的表现，同时提供对隐�
 [7] Gregory-Allen, R.B. et al. "[Short Selling by Portfolio Managers: Performance and Risk Effects Across Investment Styles](https://www.sciencedirect.com/science/article/abs/pii/B9780123877246000301)." In Greg N. Gregoriou, ed., "Handbook of Short Selling." Pages 437-451. Academic Press, 2012.
 
 [8] CMC Markets. "[Pairs Trading: An Advanced Strategy for Hedging](<https://www.cmcmarkets.com/en/trading-guides/p>
+
+## 关于LLMQuant
+
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

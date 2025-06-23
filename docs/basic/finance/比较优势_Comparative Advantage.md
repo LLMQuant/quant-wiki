@@ -1,4 +1,6 @@
-## 什么是比较优势？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是比较优势？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 比较优势是指一个经济体以低于其贸易伙伴的机会成本生产特定商品或服务的能力。比较优势被用来解释为什么公司、国家或个人可以从贸易中获益。
 
@@ -132,10 +134,13 @@
 
 比较优势是经济学中最重要的概念之一。在古典经济学中，这个想法解释了为什么人们、国家和企业可以通过贸易和交换获得比他们单独生产更大的集体利益。然而，当代经济学家也指出，这些收益可能是片面的，或者导致对弱势群体的剥削。
 
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
+
 ## References
 
-[1] Thweatt, William O. "James Mill and the early development of comparative advantage." History of Political Economy, vol. 8, no. 2. 1976, pp. 207-234.
+[1] Thweatt, William O. "James Mill and the early development of comparative advantage." History of Political Economy, vol. 8, no. 2. 1976, pp. 207-234.
 
 [2] Harvard Business School. "[4 Effects of Globalization on the Environment](https://online.hbs.edu/blog/post/globalization-effects-on-environment)."
 
-[3] Thweatt, William O. "James Mill and the early development of comparative advantage." History of Political Economy, vol. 8, no. 2. 1976, pp. 207-234.
+[3] Thweatt, William O. "James Mill and the early development of comparative advantage." History of Political Economy, vol. 8, no. 2. 1976, pp. 207-234.

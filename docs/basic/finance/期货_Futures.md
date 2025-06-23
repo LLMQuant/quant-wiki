@@ -1,5 +1,6 @@
-## 什么是期货交易？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是期货交易？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 期货是指在未来某个日期以规定价格购买或出售特定基础资产的合同。基础资产可以是商品、证券或其他金融工具。期货交易要求买方在到期日以设定价格购买基础资产，或卖方以设定价格出售基础资产，无论市场价格如何。
 
 期货交易通常指的是基础资产为股票市场中的证券的期货。这些合同的价值基于个别公司股票的未来价值或股票市场指数，如标普500、道琼斯工业平均指数或纳斯达克。[1] 在像芝加哥商品交易所这样的交易所进行的期货交易可以包括基础“资产”，如实物商品、债券或天气事件。[2]
@@ -105,3 +106,6 @@
 [7] CME Group. "[The Power of Leverage](https://www.cmegroup.com/education/courses/understanding-the-benefits-of-futures/the-power-of-leverage.html)."
 
 [8] Commodity Futures Trading Commission. "[History of the CFTC](https://www.cftc.gov/About/HistoryoftheCFTC/history_1970s.html)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

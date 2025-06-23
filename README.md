@@ -9,6 +9,9 @@
 > 本项目正在开发中，欢迎大家参与贡献。
 
 我们致力于量化知识的**开源**与**汉化**，打破国内外量化金融行业信息差。¶
+
+We are committed to the open-sourcing and localization of quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries.
+
 量化投资（Quantitative Investing，简称 Quant）是一种以数学模型、统计分析和算法为基础的投资方式，是现代金融领域的重要分支。
 
 Quant Wiki 致力于打造一个免费开放、持续更新的 量化金融（quantitative finance） 知识分享平台。在这里，大家可以学习量化交易的核心知识、常用模型、算法设计，以及交易中的实战策略。我们为大家准备了丰富的资料，包括因子模型、事件驱动策略、执行成本优化等内容，帮助大家快速掌握量化投资领域的核心技能，迈向专业化道路。

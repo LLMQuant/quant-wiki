@@ -10,7 +10,7 @@
 - **出版年份**: 2015
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](<https://github.com/LLMQuant/asset/blob/main/Quantitative> risk management _ concepts, techniques and tools-Princeton University Press (2015).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Quantitative risk management _ concepts, techniques and tools-Princeton University Press (2015).pdf)
 
 ### 内容简介
 

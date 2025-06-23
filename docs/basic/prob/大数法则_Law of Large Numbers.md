@@ -1,5 +1,6 @@
-## 大数法则是什么？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 大数法则是什么？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 大数法则适用于概率和统计学。它指出，随着样本量的增长，样本的平均值会越来越接近整个群体的平均值，因为较大的样本更能代表整个群体。
 
 在金融背景下，大数法则表明，快速增长的大型实体无法永远维持这种增长速度。市值达到数千亿的蓝筹股常常被作为这一现象的典型例子。
@@ -101,3 +102,6 @@
 [3] Ford. "[Strategic Progress of Ford+ Growth Plan, Solid Financials in '21 Position Company for Connected EV Leadership in 2022, Beyond](https://media.ford.com/content/dam/fordmedia/North%20America/US/2022/02/03/financials-fy-ford-21.pdf)."
 
 [4] Factory Warranty Tools. "[Top Automakers by Revenue](https://www.factorywarrantylist.com/car-sales-by-revenue.html#:~:text=%E2%80%8B2021%20car%20sales%20revenue,up%206%25%20over%20last%20year.)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

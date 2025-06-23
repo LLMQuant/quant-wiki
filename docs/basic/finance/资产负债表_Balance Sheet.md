@@ -1,4 +1,7 @@
-## 什么是资产负债表？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是资产负债表？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 资产负债表是一个财务报表，报告公司在特定时间点的资产、负债和股东权益。资产负债表为投资者计算回报率和评估公司资本结构提供了基础。
 
@@ -147,3 +150,6 @@
 [1] Apple Investor Relations. "[Condensed Consolidated Balance Sheets (Unaudited), FY 2020 Q4](https://www.apple.com/newsroom/pdfs/FY20_Q4_Consolidated_Financial_Statements.pdf)." Page 2.
 
 [2] PwC. "[US Financial Statement Presentation Guide: 1.1 Financial Statement Presentation and Disclosure Requirements](https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/financial_statement_/financial_statement___18_US/Chapter_1_General_presentation_and_disclosure_requirements/11_financial_presentat_US.html)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

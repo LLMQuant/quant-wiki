@@ -3,7 +3,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Robert Carver - Systematic Trading_ A unique new method for designing trading and investing systems-Harriman House (2015).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Robert Carver - Systematic Trading_ A unique new method for designing trading and investing systems-Harriman House (2015).pdf)
 
 ### 内容简介
 

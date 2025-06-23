@@ -1,4 +1,7 @@
-## 什么是统计显著性？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是统计显著性？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 统计显著性是分析师所做的一项判断，涉及数据结果不单纯因偶然因素所致。统计假设检验是分析师用来作出这一判断的方法。该检验提供一个p值，即在假设结果确实由偶然因素造成的情况下，观察到与数据结果如此极端的结果的概率。
 
@@ -62,3 +65,6 @@ p值是一种测量观察到的差异仅由随机因素造成的概率的指标�
 [3] Hwang, Thomas J. "[Stock Market Returns and Clinical Trial Results of Investigational Compounds: An Event Study Analysis of Large Biopharmaceutical Companies.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737210/)" PLOS ONE, 2013.
 
 [4] Rothenstein, Jeffrey, et al. "[Company Stock Prices Before and After Public Announcements Related to Oncology Drugs.](https://academic.oup.com/jnci/article/103/20/1507/904625)" Journal of the National Cancer Institute, vol. 103, no. 20, October 2011, pp. 1507-1512.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

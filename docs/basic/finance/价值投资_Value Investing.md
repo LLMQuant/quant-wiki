@@ -1,4 +1,6 @@
-## 什么是价值投资？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是价值投资？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 价值投资是一种投资策略，涉及挑选那些看似低于其内在价值或账面价值的股票。价值投资者积极寻找他们认为被市场低估的股票。他们相信市场对好消息和坏消息的反应过度，导致股票价格的波动与公司的长期基本面不相符。这种过度反应提供了以折扣价格购买股票的获利机会。
 
@@ -223,3 +225,6 @@
 [12] Yahoo Finance. "[Fitbit, Inc.](https://finance.yahoo.com/quote/5FB.DE/history?period1=1463529600&period2=1635724800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true)"
 
 [13] U.S. Securities and Exchange Commission. "[Fitbit, Inc. Schedule 14A Information](https://www.sec.gov/Archives/edgar/data/1447599/000162828019014511/fitbitpreliminaryproxy.htm)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

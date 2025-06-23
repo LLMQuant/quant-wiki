@@ -1,4 +1,7 @@
-## 什么是国民生产总值 (GNP)？
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是国民生产总值 (GNP)？
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 
 国民生产总值 (GNP) 是对一个国家居民拥有的生产要素在特定时期内生产的所有最终产品和服务的总价值的估计。[1] GNP 通常通过将个人消费支出、私人国内投资、政府支出、净出口以及居民从海外投资中获得的任何收入相加，然后减去外国居民获得的收入来计算。净出口代表一个国家的出口额减去商品和服务的进口额之间的差额。
 
@@ -49,3 +52,6 @@ GNP 和 GDP 是非常密切相关的概念，它们之间的主要区别在于�
 [3] U.S. Bureau of Economic Analysis. “[Gross Domestic Product as a Measure of U.S. Production](https://apps.bea.gov/scb/pdf/national/nipa/1991/0891od.pdf).” Page 8.
 
 [4] Federal Reserve Bank of St. Louis. "[Table 1.7.5. Relation of Gross Domestic Product, Gross National Product, Net National Product, National Income, and Personal Income](https://fred.stlouisfed.org/release/tables?rid=53&eid=15274&od=2021-07-01#)."
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

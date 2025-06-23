@@ -1,5 +1,6 @@
-## CBOE波动率指数（VIX）是什么？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# CBOE波动率指数（VIX）是什么？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 CBOE波动率指数（VIX）是一个实时指数，代表市场对标普500指数（S&P 500 Index, SPX）近期价格变化的相对强度的预期。由于它是通过近期到期的SPX指数期权的价格推导而来的，因此生成了一个30天的波动率前瞻性预测。波动率，即价格变化的速度，通常被视为衡量市场情绪的一种方式，特别是市场参与者之间的恐惧程度。
 
 该指数更常被称为其代码，通常简称为“VIX”。它由CBOE期权交易所创建，并由CBOE全球市场维护。这是交易和投资领域中一个重要的指数，因为它提供了一个可量化的市场风险和投资者情绪的指标。
@@ -110,3 +111,6 @@ CBOE波动率指数（VIX）量化了市场对波动性的预期，为投资者�
 [4] Robert E. Whaley. "[Understanding VIX](https://jpm.pm-research.com/content/35/3/98)," Click "Download PDF," Page 2.
 
 [5] Cboe. “[Cboe VIX White Paper: Cboe Volatility Inde](https://www.sfu.ca/~poitras/419_VIX.pdf)x,” Page 4.
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

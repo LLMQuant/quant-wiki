@@ -1,5 +1,6 @@
-## 什么是默顿模型？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是默顿模型？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 默顿模型是一种数学公式，股票分析师和商业贷款专员等可以利用它来评估企业的信用违约风险。该模型以经济学家罗伯特·C·默顿的名字命名，他在1974年提出这一理论。默顿模型通过将公司的股本视为其资产的看涨期权，从而评估公司的结构性信用风险。
 
 ### 关键要点
@@ -55,12 +56,5 @@ $$ \begin{aligned} &E=V_tN\left(d_1\right)-Ke^{-r\Delta{T}}N\left(d_2\right)\\ &
 
 默顿模型是由经济学家罗伯特·C·默顿开发的一种数学公式，通过将公司的股本视为其资产的看涨期权来评估公司的结构性信用风险。该模型常被股票分析师和商业贷款专员用于判断企业可能面临的信用违约风险。
 
-## 参考文献
-
-[1] Massachusetts Institute of Technology, Sloan School of Management. “[Robert C. Merton](https://mitsloan.mit.edu/faculty/directory/robert-c-merton).”
-
-[2] The University of Chicago Press: Journals. “[The Pricing of Options and Corporate Liabilities](https://www.journals.uchicago.edu/doi/10.1086/260062).”
-
-[3] The Journal of Finance, via Wiley Online Library. “[On the Pricing of Corporate Debt: The Risk Structure of Interest Rates](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1974.tb03058.x).”
-
-[4] Journal of Economic Perspectives, via American Economic Association. “[In Honor of the Nobel Laureates Robert C. Merton and Myron S. Scholes: A Partial Differential Equation That Changed the World](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.13.4.229).”
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

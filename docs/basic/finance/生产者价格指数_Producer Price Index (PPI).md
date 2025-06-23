@@ -1,5 +1,6 @@
-## 什么是生产者价格指数 (PPI)？
-
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+# 什么是生产者价格指数 (PPI)？
+![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)
 生产者价格指数 (PPI) 衡量国内生产者为其产出所获得的价格随时间的平均变化。它是衡量批发层面通货膨胀的指标，由数千个指数组成，这些指数按行业和产品类别衡量生产者价格。该指数由美国劳工统计局 (BLS) 每月发布。
 
 PPI 与消费者价格指数 (CPI) 不同，后者衡量消费者支付的商品和服务价格的变化。
@@ -74,7 +75,7 @@ CPI 和 PPI 都衡量通货膨胀。PPI 从生产者的角度衡量通货膨胀�
 
 [2] U.S. Bureau of Labor Statistics. "[Schedule of Releases for the Producer Price Index](https://www.bls.gov/schedule/news_release/ppi.htm)."
 
-[3] U.S. Bureau of Labor Statistics. "[Producer Price Indexes Frequently Asked Questions (FAQs): 9. How are PPI Data Collected?](https://www.bls.gov/ppi/faqs/questions-and-answers.htm#9)"
+[3] U.S. Bureau of Labor Statistics. "[Producer Price Indexes Frequently Asked Questions (FAQs): 9. How are PPI Data Collected?](https://www.bls.gov/ppi/faqs/questions-and-answers.htm#9)"
 
 [4] U.S. Bureau of Labor Statistics. "[Producer Price Indexes](https://www.bls.gov/news.release/ppi.nr0.htm)."
 
@@ -91,3 +92,6 @@ CPI 和 PPI 都衡量通货膨胀。PPI 从生产者的角度衡量通货膨胀�
 [10] U.S. Bureau of Labor Statistics. "[Comparing New Final-Demand Producer Price Indexes With Other Government Price Indexes](https://www.bls.gov/opub/mlr/2014/article/comparing-new-final-demand-producer-price-indexes-with-other-government-price-indexes.htm)."
 
 [11] U.S. Bureau of Labor Statistics. "[Producer Price Index Frequently Asked Questions: 14. What Types of Indexes Are Published?](https://www.bls.gov/ppi/ppifaq.htm#14)"
+
+## 关于LLMQuant
+LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
