@@ -5,16 +5,16 @@
 
 <img src="1.png" alt="Mastering Python for Finance- Implement advanced state-of-the-art financial statistical applications using Python" width="200"/>
 
-- **作者**:
-- **出版社**:
-- **出版年份**:
+- **作者**: James Ma Weiming
+- **出版社**: Packt Publishing
+- **出版年份**: 2019
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
 - **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Mastering Python for Finance_ Implement advanced state-of-the-art financial statistical applications using Python.pdf)
 
 ### 内容简介
 
-Mastering Python for Finance- Implement advanced state-of-the-art financial statistical applications using Python 是一本关于量化金融的专业书籍，涵盖了...
+Mastering Python for Finance- Implement advanced state-of-the-art financial statistical applications using Python 是一本关于量化金融的专业书籍，涵盖了使用Python进行复杂金融计算、研究、建模和风险管理的先进方法。本书旨在引导读者掌握Python生态系统，利用NumPy, SciPy, scikit-learn, TensorFlow和Keras等流行库进行数据驱动的金融决策。内容包括解决线性和非线性金融模型、对道琼斯指数及其成分股进行主成分分析、分析和预测时间序列过程、创建事件驱动的回测工具、构建高频算法交易平台，以及应用机器学习和深度学习技术于金融领域.
 
 ### 核心章节
 

@@ -1,5 +1,8 @@
-# Applications of computational intelligence in data-driven trading-Wiley (2020)
+# Applications of computational intelligence in data-driven trading
 
+- **作者**: Cris Doloc
+- **出版社**: Wiley
+- **出版年份**: 2020
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
@@ -7,7 +10,7 @@
 
 ### 内容简介
 
-本书详细介绍了Applications of computational intelligence in data-driven trading-Wiley (2020)相关的核心概念和实践方法。
+本书旨在为读者介绍计算金融领域，并深入探讨计算智能在数据驱动交易中的应用。全书分为两大部分：前半部分系统地介绍了数据驱动范式和计算智能这两个现代主题，为读者构建扎实的理论基础。后半部分则通过一系列案例研究，详细阐述了计算智能在量化交易实践中的具体应用，涵盖了交易执行优化、价格动态预测、投资组合管理、做市、衍生品估值、风险管理和合规性等多个方面。书中探讨了机器学习在金融领域的挑战与机遇，并介绍了支持向量机、随机森林分类器、强化学习、深度神经网络、长短期记忆网络和卷积神经网络等多种数学技术及其在金融问题中的应用。本书旨在为金融行业中“人工智能”的使用提供工程和科学上的清晰度，并传递对数据密集型计算新时代所带来可能性的信心.
 
 ### 主要特点
 

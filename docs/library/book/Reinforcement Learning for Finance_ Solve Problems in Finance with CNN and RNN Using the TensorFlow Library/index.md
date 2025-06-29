@@ -5,16 +5,15 @@
 
 <img src="1.png" alt="Reinforcement Learning for Finance" width="200"/>
 
-- **作者**:
-- **出版社**:
-- **出版年份**:
+- **作者**:Samit Ahlawat
+- **出版社**:Apress (part of Springer Nature) 
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
 - **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Reinforcement Learning for Finance_ Solve Problems in Finance with CNN and RNN Using the TensorFlow Library.pdf)
 
 ### 内容简介
 
-Reinforcement Learning for Finance 是一本关于量化金融的专业书籍，涵盖了...
+本书介绍了强化学习的数学理论和来自量化金融的实际应用案例，使用TensorFlow库进行实现。《金融强化学习》首先描述了训练神经网络的方法，然后讨论了CNN和RNN——两种在强化学习中用作深度学习网络的神经网络。此外，本书深入探讨了强化学习理论，解释了马尔可夫决策过程、价值函数、策略和策略梯度，以及它们的数学公式和学习算法。
 
 ### 核心章节
 

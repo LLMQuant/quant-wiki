@@ -5,16 +5,16 @@
 
 <img src="1.png" alt="Python for Algorithmic Trading" width="200"/>
 
-- **作者**:
-- **出版社**:
-- **出版年份**:
+- **作者**: Yves Hilpisch
+- **出版社**: O'Reilly Media
+- **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
 - **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Python for Algorithmic Trading_ From Idea to Cloud Deployment.pdf)
 
 ### 内容简介
 
-Python for Algorithmic Trading 是一本关于量化金融的专业书籍，涵盖了...
+Python for Algorithmic Trading 是一本关于量化金融的专业书籍，涵盖了如何利用Python及其强大的生态系统进行算法交易。本书旨在帮助学生、学者和从业者掌握在算法交易领域应用Python的多种方法。内容包括搭建Python交易环境、从公共和专有数据源获取金融数据、使用NumPy和pandas进行金融数据分析的向量化技术、掌握不同算法交易策略的向量化回测、利用机器学习和深度学习生成市场预测，以及使用套接字编程工具处理流式实时数据。此外，本书还指导读者如何通过OANDA和FXCM等交易平台实现自动化算法交易策略，从而系统地构建和部署自动化算法交易策略。
 
 ### 核心章节
 

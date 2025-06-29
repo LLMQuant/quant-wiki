@@ -1,5 +1,8 @@
-# An Introduction to the Mathematics of Financial Derivatives-Academic Press (2014)
+# An Introduction to the Mathematics of Financial Derivatives
 
+- **作者**: Ali Hirsa
+- **出版社**: Academic Press
+- **出版年份**: 2014
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
@@ -7,7 +10,7 @@
 
 ### 内容简介
 
-本书详细介绍了An Introduction to the Mathematics of Financial Derivatives-Academic Press (2014)相关的核心概念和实践方法。
+本书《金融衍生品数学导论》详细介绍了金融衍生品定价背后的数学原理和实践方法。它旨在帮助读者从基础的金融工程概念过渡到更高级的随机微积分处理方法。书中涵盖了金融衍生品的核心概念，包括套利定理、确定性微积分、概率论工具、鞅与鞅表示、维纳过程、Levy过程以及随机环境下的微分和积分（特别是伊藤引理）。此外，本书还深入探讨了随机微分方程、通过偏微分方程定价衍生品以及等价鞅测度等关键数学技术及其在金融领域的应用。本书适合量化分析师、算法交易员、金融工程师、数据科学家以及对金融衍生品感兴趣的专业人士、博士生和高级MBA学生，特别是那些具有数学、技术或物理背景的读者。
 
 ### 主要特点
 

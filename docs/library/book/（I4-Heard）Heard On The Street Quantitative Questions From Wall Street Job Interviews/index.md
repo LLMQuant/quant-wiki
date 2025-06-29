@@ -5,16 +5,16 @@
 
 <img src="1.png" alt="Heard）Heard On The Street Quantitative Questions From Wall Street Job Interviews" width="200"/>
 
-- **作者**:
-- **出版社**:
-- **出版年份**:
+- **作者**: Timothy Falcon Crack
+- **出版社**: Timothy Falcon Crack
+- **出版年份**: 2003
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
 - **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/（I4-Heard）Heard%20On%20The%20Street%20Quantitative%20Questions%20From%20Wall%20Street%20Job%20Interviews.pdf)
 
 ### 内容简介
 
-Heard）Heard On The Street Quantitative Questions From Wall Street Job Interviews 是一本关于量化金融的专业书籍，涵盖了...
+Heard）Heard On The Street Quantitative Questions From Wall Street Job Interviews 是一本关于量化金融的专业书籍，涵盖了从华尔街金融机构面试中收集的量化问题。本书旨在帮助求职者准备投资银行、投资管理和期权交易等领域的量化职位面试。书中包含了大量的量化问题，并提供详细的解答，涵盖了纯粹的量化和逻辑问题、衍生品、其他金融经济学以及统计学等核心数学技术及其在金融领域的应用。它旨在弥合典型金融教育与成功应对华尔街量化面试所需知识之间的差距。
 
 ### 核心章节
 

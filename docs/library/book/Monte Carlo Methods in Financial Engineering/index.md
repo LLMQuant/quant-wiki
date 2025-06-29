@@ -5,16 +5,16 @@
 
 <img src="1.png" alt="Monte Carlo Methods in Financial Engineering" width="200"/>
 
-- **作者**:
-- **出版社**:
-- **出版年份**:
+- **作者**: Paul Glasserman
+- **出版社**: Springer New York
+- **出版年份**: 2003
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
 - **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Monte Carlo Methods in Financial Engineering.pdf)
 
 ### 内容简介
 
-Monte Carlo Methods in Financial Engineering 是一本关于量化金融的专业书籍，涵盖了...
+Monte Carlo Methods in Financial Engineering 是一本关于量化金融的专业书籍，涵盖了蒙特卡洛方法在金融工程中的应用。本书首先介绍了蒙特卡洛方法的基础知识，包括随机数和随机变量的生成以及样本路径的生成。随后，深入探讨了提高模拟精度和效率的技术，如方差缩减技术和准蒙特卡洛方法。本书的核心在于将这些蒙特卡洛技术应用于金融领域，特别是衍生品定价（包括美式期权）和风险管理（如市场风险和信用风险）等实际问题。书中包含了详细的示例，并结合了理论与实践，适合需要将蒙特卡洛模拟应用于金融建模和分析的读者。
 
 ### 核心章节
 
