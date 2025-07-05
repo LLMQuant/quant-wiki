@@ -1,5 +1,8 @@
 # Quantitative Investment Analysis Workbook, 3rd Edition-Wiley (2015)
 
+- **作者**: Richard A. DeFusco, Dennis W. McLeavey, Jerald E. Pinto, David E. Runkle
+- **出版社**: Wiley
+- **出版年份**: 2015
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
@@ -7,7 +10,7 @@
 
 ### 内容简介
 
-本书详细介绍了Quantitative Investment Analysis Workbook, 3rd Edition-Wiley (2015)相关的核心概念和实践方法。
+本书作为《定量投资分析》教材的配套练习册，旨在通过大量的实践案例和习题，帮助读者深入理解和掌握定量投资分析的核心概念和实践方法。内容涵盖了金融领域中广泛应用的数学和统计技术，包括概率论与概率分布、抽样与估计、假设检验、相关与回归分析、多元回归、时间序列分析以及多因子模型等。本书强调理论与实践的结合，旨在提升读者在投资分析中应用定量方法的技能，使其能够更好地理解、保留并实际运用所学知识。
 
 ### 主要特点
 

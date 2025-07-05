@@ -5,16 +5,16 @@
 
 <img src="1.png" alt="Hands-On Financial Trading with Python" width="200"/>
 
-- **作者**:
-- **出版社**:
-- **出版年份**:
+- **作者**: Jiri Pik, Sourav Ghosh
+- **出版社**: Packt Publishing
+- **出版年份**: 2021
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
 - **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Hands-On Financial Trading with Python.pdf)
 
 ### 内容简介
 
-Hands-On Financial Trading with Python 是一本关于量化金融的专业书籍，涵盖了...
+Hands-On Financial Trading with Python 是一本关于量化金融的专业书籍，旨在指导读者使用Python构建和回测算法交易策略。本书首先介绍算法交易的基础知识，随后深入探讨金融数据获取、预处理和探索性数据分析。书中详细讲解了如何利用Python的核心库（如NumPy、pandas和Matplotlib）进行高效的科学计算、数据操作与可视化。在金融应用方面，本书涵盖了技术分析、交易策略的开发与实现，并引入机器学习技术（如时间序列预测，包括ARIMA、pmdarima和Facebook Prophet）来构建预测性交易信号。此外，本书还重点介绍了使用Zipline和PyFolio进行策略回测与优化，以及进行风险管理和投资组合优化。通过理论与实践相结合的方式，本书旨在帮助量化分析师、算法交易员、金融工程师和数据科学家掌握量化研究、策略生成和实际交易系统部署的关键技能。
 
 ### 核心章节
 
