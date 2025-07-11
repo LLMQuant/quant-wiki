@@ -38,7 +38,7 @@
 - [技术分析可靠否？](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列24：真假序列识别研究-投石问路：技术分析可靠否？.pdf)
 - [市场弱有效性检验与择时战场选择](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列25：真假序列识别再探：市场弱有效性检验与择时战场选择.pdf)
 - [遗传规划在CTA信号挖掘中的应用](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列26：遗传规划在CTA信号挖掘中的应用.pdf)
-- [揭开机器学习模型的"黑箱"](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列27：揭开机器学习模型的"黑箱".pdf)
+- [揭开机器学习模型的"黑箱"](https://github.com/LLMQuant/asset/blob/main/%E5%8D%8E%E6%B3%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E5%88%9727%EF%BC%9A%E6%8F%AD%E5%BC%80%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E7%9A%84%E2%80%9C%E9%BB%91%E7%AE%B1%E2%80%9D.pdf)
 - [基于量价的人工智能选股体系概览](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列28：基于量价的人工智能选股体系概览.pdf)
 - [提升超额收益_另类标签和集成学习](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列29：提升超额收益_另类标签和集成学习.pdf)
 - [因果推断初探](https://github.com/LLMQuant/asset/blob/main/华泰人工智能系列30：从关联到逻辑：因果推断初探.pdf)

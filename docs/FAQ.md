@@ -55,4 +55,4 @@
 ---
 
 **Q：我要怎么贡献内容或代码？**  
-**A**：请参考 [如何参与](https://github.com/LLMQuant/Quant-Wiki/CONTRIBUTING.md) 页面，里面有详细的说明，无论是贡献代码、完善文档，还是提出改进建议，都非常欢迎！
+**A**：请参考 [如何参与](https://github.com/LLMQuant/quant-wiki/blob/master/.github/CONTRIBUTING.md) 页面，里面有详细的说明，无论是贡献代码、完善文档，还是提出改进建议，都非常欢迎！

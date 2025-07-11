@@ -9,7 +9,7 @@
 - **出版年份**: 2014
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/A Linear Algebra Primer for Financial Engineering-FE Press (2014).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/A%20Linear%20Algebra%20Primer%20for%20Financial%20Engineering.pdf)
 
 ### 内容简介
 

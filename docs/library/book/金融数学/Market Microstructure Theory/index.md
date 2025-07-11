@@ -8,7 +8,7 @@
 - **出版年份**: 1995
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Maureen O'Hara - Market Microstructure Theory-Wiley (1995).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Maureen%20O'Hara%20-%20Market%20Microstructure%20Theory%20%20-Wiley%20(1998).pdf)
 
 ### 内容简介
 

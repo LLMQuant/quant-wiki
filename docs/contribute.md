@@ -106,7 +106,7 @@
    ```  
 
 2. 在内容中标明改动详情，如果修复了 Issue，请在正文中添加 `fix #编号` 字段；  
-3. 确认 PR 符合 [贡献指南](https://github.com/LLMQuant/Quant-Wiki/blob/main/CONTRIBUTING.md) 后提交。
+3. 确认 PR 符合 [贡献指南](https://github.com/LLMQuant/quant-wiki/blob/master/.github/CONTRIBUTING.md) 后提交。
 
 ---
 

@@ -8,7 +8,7 @@
 - **出版年份**: 2018
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Advances in Financial Machine Learning-Wiley (2018).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Statistical%20Arbitrage_%20Algorithmic%20Trading%20Insights%20and%20Techniques%20(Wiley%20Finance)%20(2007).pdf)
 
 ### 内容简介
 

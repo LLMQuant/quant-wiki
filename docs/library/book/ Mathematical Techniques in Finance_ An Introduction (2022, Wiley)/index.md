@@ -10,7 +10,7 @@
 - **出版年份**: 2022
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Mathematical Techniques in Finance_ An Introduction (2022, Wiley).pdf)
+- **PDF下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/%20Mathematical%20Techniques%20in%20Finance_%20An%20Introduction%20(2022%2C%20Wiley).pdf)
 
 ### 内容简介
 
