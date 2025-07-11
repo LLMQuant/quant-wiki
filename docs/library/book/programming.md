@@ -4,21 +4,15 @@
 
 ## Python编程
 
-- [Python for Finance](量化编程/Python%20for%20Finance/index.md)
+- [Python for Finance](Python for Finance Cookbook_ Over 80 powerful recipes for effective financial data analysis, 2nd Edition/index.md)
   - 难度: ⭐⭐⭐
   - 推荐指数: ⭐⭐⭐⭐⭐
   - 内容: Python在金融领域的应用
 
-## C++编程
-
-- [C++ Design Patterns and Derivatives Pricing](量化编程/C++%20Design%20Patterns%20and%20Derivatives%20Pricing/index.md)
-  - 难度: ⭐⭐⭐⭐
-  - 推荐指数: ⭐⭐⭐⭐⭐
-  - 内容: C++在衍生品定价中的应用
 
 ## 数据分析
 
-- [Python for Data Analysis](量化编程/Python%20for%20Data%20Analysis/index.md)
+- [Python for Data Analysis](Mastering pandas for Finance_ Master pandas, an open source Python Data Analysis Library, for financial data analysis/index.md)
   - 难度: ⭐⭐⭐
   - 推荐指数: ⭐⭐⭐⭐⭐
   - 内容: Python数据分析工具使用

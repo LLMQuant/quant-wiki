@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](理解资产价格-NobelEconomics1.pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/理解资产价格-NobelEconomics1.pdf)
 
 ### 内容简介
 

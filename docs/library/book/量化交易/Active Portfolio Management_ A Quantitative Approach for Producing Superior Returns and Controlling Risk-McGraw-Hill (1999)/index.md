@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Active%20Portfolio%20Management_%20A%20Quantitative%20Approach%20for%20Producing%20Superior%20Returns%20and%20Controlling%20Risk-McGraw-Hill%20(1999).pdf)
 
 ### 内容简介
 

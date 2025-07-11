@@ -6,7 +6,8 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](A complete guide to the futures market_ technical analysis and trading systems, fundamental analysis, options, spreads, and trading principles-J.pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/A%20complete%20guide%20to%20the%20futures%20market_%20technical%20analysis%20and%20trading%20systems%2C%20fundamental%20analysis%2C%20options%2C%20spreads%2C%20and%20trading%20principles-J.pdf)
+
 
 ### 内容简介
 

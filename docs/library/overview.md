@@ -19,16 +19,16 @@
 - [主动投资组合管理新发展](book/前沿专题/Advances in Active Portfolio Management/index.md)
 - [算法交易方法](book/前沿专题/Algorithmic Trading Methods/index.md)
 - [算法与高频交易](book/前沿专题/Algorithmic and High-Frequency Trading/index.md)
-- [数据驱动交易中的计算智能应用](book/前沿专题/Applications of computational intelligence in data-driven trading/index.md)
+- [数据驱动交易中的计算智能应用](book/前沿专题/Applications of computational intelligence in data-driven trading-Wiley (2020)/index.md)
 - [机器学习在资产定价中的应用](book/前沿专题/Empirical Asset Pricing via Machine Learning/index.md)
-- [金融科技案例研究](book/前沿专题/Financial Technology_ Case Studies/index.md)
+- [金融科技案例研究](book/前沿专题/Financial Technology_ Case Studies in Fintech Innovation-Kogan Page (2020)/index.md)
 - [资产管理中的机器学习](book/前沿专题/Machine Learning for Asset Managers/index.md)
 - [资产定价中的机器学习](book/前沿专题/Machine Learning in Asset Pricing/index.md)
-- [金融机器学习理论与实践](book/前沿专题/Machine Learning in Finance/index.md)
-- [金融机器学习进阶](book/前沿专题/Marcos López de Prado - Advances in Financial Machine Learning/index.md)
-- [量子金融](book/前沿专题/Quantum Finance/index.md)
-- [系统化交易](book/前沿专题/Robert Carver - Systematic Trading/index.md)
-- [另类数据指南](book/前沿专题/The Book of Alternative Data/index.md)
+- [金融机器学习理论与实践](book/前沿专题/Machine Learning in Finance_ From Theory to Practice-Springer (2020)/index.md)
+- [金融机器学习进阶](book/前沿专题/Marcos López de Prado - Advances in Financial Machine Learning-John Wiley & Sons, Inc. (2018)/index.md)
+- [量子金融](book/前沿专题/Quantum Finance_ Path Integrals and Hamiltonians for Options and Interest Rates-Cambridge University Press (2004)/index.md)
+- [系统化交易](book/前沿专题/Robert Carver - Systematic Trading_ A unique new method for designing trading and investing systems-Harriman House (2015)/index.md)
+- [另类数据指南](book/前沿专题/The Book of Alternative Data_ A Guide for Investors Traders and Risk Managers-Wiley (2020)/index.md)
 - [Quantum Machine Learning in Finance](book/Quantum Machine Learning and Optimisation in Finance_ On the Road to Quantum Advantage/index.md) - 量子机器学习
 - [Probabilistic Machine Learning for Finance](book/Probabilistic Machine Learning for Finance and Investing/index.md) - 概率机器学习
 
@@ -46,9 +46,9 @@
 
 - [101个因子公式](book/量化交易/101 Formulaic Alphas - arXiv.org/index.md)
 - [151个交易策略](book/量化交易/151 Trading Strategies/index.md)
-- [期货市场完全指南](book/量化交易/A complete guide to the futures market/index.md)
+- [期货市场完全指南](book/量化交易/A Complete Guide to the Futures Market/index.md)
 - [主动投资组合管理](book/量化交易/Active Portfolio Management/index.md)
-- [算法交易策略](book/量化交易/Algorithmic Trading_ Winning Strategies/index.md)
+- [算法交易策略](book/量化交易/Algorithmic Trading/index.md)
 - [行为金融](book/量化交易/BetaPlus_Behavioral_Finance/index.md)
 - [盈利因子](book/量化交易/BetaPlus_Profitability_Factor/index.md)
 - [时间序列分析](book/量化交易/BetaPlus_Time_Series_Analysis/index.md)
@@ -56,12 +56,12 @@
 - [Alpha挖掘](book/量化交易/Finding Alphas/index.md)
 - [高频交易实践指南](book/量化交易/High-frequency trading/index.md)
 - [金融优化方法](book/量化交易/Optimization Methods in Finance/index.md)
-- [量化股票投资组合管理](book/量化交易/Quantitative Equity Portfolio Management/index.md)
-- [量化投资分析](book/量化交易/Quantitative Investment Analysis Workbook/index.md)
-- [获取Alpha的量化策略](book/量化交易/Quantitative Strategies for Achieving Alpha/index.md)
-- [量化交易系统构建](book/量化交易/Quantitative Trading/index.md)
+- [量化股票投资组合管理](book/量化交易/Quantitative Equity Portfolio Management_ An Active Approach to Portfolio Construction and Management (McGraw-Hill Library of Investment and Finance)-McGraw-Hill Edu/index.md)
+- [量化投资分析](book/量化交易/Quantitative Investment Analysis Workbook, 3rd Edition-Wiley (2015)/index.md)
+- [获取Alpha的量化策略](book/量化交易/Quantitative Strategies for Achieving Alpha (McGraw-Hill Finance & Investing)-McGraw-Hill Finance & Investing (2008)/index.md)
+- [量化交易系统构建](book/量化交易/Quantitative Trading_ How to Build Your Own Algorithmic Trading Business-Wiley (2008)/index.md)
 - [统计套利](book/量化交易/Statistical Arbitrage/index.md)
-- [波动率交易](book/量化交易/Volatility Trading/index.md)
+- [波动率交易](book/量化交易/Volatility Trading, + Website-Wiley (2013)/index.md)
 
 ## 基础理论
 
@@ -77,14 +77,14 @@
 - [随机模型与风险评估](book/金融数学/Advanced Stochastic Models, Risk Assessment, and Portfolio Optimization/index.md)
 - [金融衍生品数学导论](book/金融数学/An Introduction to the Mathematics of Financial Derivatives/index.md)
 - [风险与资产配置](book/金融数学/Attilio Meucci - Risk and Asset Allocation/index.md)
-- [金融工程数学入门](book/金融数学/Dan Stefanica - A Primer for the Mathematics of Financial Engineering/index.md)
+- [金融工程数学入门](book/金融数学/Dan Stefanica - A Primer for the Mathematics of Financial Engineering-FE Press (2008)/index.md)
 - [动态资产定价理论](book/金融数学/Darrell Duffie - Dynamic asset pricing theory/index.md)
 - [实证资产定价](book/金融数学/Empirical Dynamic Asset Pricing/index.md)
-- [市场微观结构理论](book/金融数学/Maureen O'Hara - Market Microstructure Theory/index.md)
 - [金融数学方法](book/金融数学/Methods of Mathematical Finance/index.md)
-- [量化金融导论](book/金融数学/Paul Wilmott - Paul Wilmott introduces quantitative finance/index.md)
+- [量化金融导论](book/金融数学/Paul Wilmott - Paul Wilmott introduces quantitative finance-Wiley (2007)/index.md)
 - [量化风险管理](book/金融数学/Quantitative risk management/index.md)
 - [波动率微笑](book/金融数学/The Volatility Smile/index.md)
+- [市场微观结构理论](book/金融数学/Maureen O'Hara - Market Microstructure Theory  -Wiley/index.md)
 
 ## 工程实现
 
@@ -104,9 +104,9 @@
 
 ### 量化面试指南
 
-- [量化金融常见问题](book/量化面试/Paul P. Wilmott - Frequently Asked Questions in Quantitative Finance/index.md)
+- [量化金融常见问题](book/量化面试/Paul P. Wilmott - Frequently Asked Questions in Quantitative Finance, Second Edition  -A John Wiley and Sons, Ltd. (2009)/index.md)
 - [Quant绿皮书精讲60题](book/量化面试/Quant绿皮书精讲60题_by野荷马/index.md)
-- [华尔街面试题](book/量化面试/Timothy Falcon Crack - Heard on the Street/index.md)
+- [华尔街面试题](book/量化面试/Timothy Falcon Crack - Heard on the Street, Quantitative Questions from Wall Street Job Interviews-Timothy Crack (2014)/index.md)
 - [量化面试红宝书](book/量化面试/红宝书Quant Job Interview Questions And Answers/index.md)
 - [量化面试实践指南](book/量化面试/绿皮书A Practical Guide to Quantitative Finance Interviews/index.md)
 - [150个量化面试高频题](book/量化面试/黄皮书150 Most Frequently Asked Questions on Quant Interviews/index.md)

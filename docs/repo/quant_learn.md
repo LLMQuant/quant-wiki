@@ -332,7 +332,7 @@
 | Low Volatility Factor Effect in Stocks | `0.717` | `11.5%` | `Monthly` | [QuantConnect](./static/strategies/low-volatility-factor-effect-in-stocks.py) | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=980865) |
 | How to Use Lexical Density of Company Filings | `0.688` | `10.4%` | `Monthly` | [QuantConnect](./static/strategies/how-to-use-lexical-density-of-company-filings.py) | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3921091) |
 | Volatility Risk Premium Effect | `0.637` | `13.2%` | `Monthly` | [QuantConnect](./static/strategies/volatility-risk-premium-effect.py) | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=189840) |
-| Pairs Trading with Stocks | `0.634` | `8.5%` | `Daily` | [QuantConnect](./static/strategies/pairs-trading-with-stocks.py) | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615) |
+| Pairs Trading with Stocks | `0.634` | `8.5%` | `Daily` |  | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615) |
 | Crude Oil Predicts Equity Returns | `0.599` | `11.5%` | `Monthly` | [QuantConnect](./static/strategies/crude-oil-predicts-equity-returns.py) | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=460500) |
 | Betting Against Beta Factor in Stocks | `0.594` | `18.9%` | `Monthly` | [QuantConnect](./static/strategies/betting-against-beta-factor-in-stocks.py) | [Paper](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf) |
 | Trend-following Effect in Stocks | `0.569` | `15.2%` | `Daily` | [QuantConnect](./static/strategies/trend-following-effect-in-stocks.py) | [Paper](https://www.cis.upenn.edu/~mkearns/finread/trend.pdf) |

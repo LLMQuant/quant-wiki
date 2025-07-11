@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Quantitative Trading_ How to Build Your Own Algorithmic Trading Business-Wiley (2008).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Quantitative%20Trading_%20How%20to%20Build%20Your%20Own%20Algorithmic%20Trading%20Business-Wiley%20(2008).pdf)
 
 ### 内容简介
 

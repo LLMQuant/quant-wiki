@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Quantitative Investment Analysis Workbook, 3rd Edition-Wiley (2015).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Quantitative%20Investment%20Analysis%20Workbook%2C%203rd%20Edition-Wiley%20(2015).pdf)
 
 ### 内容简介
 

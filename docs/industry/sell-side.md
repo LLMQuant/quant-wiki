@@ -46,8 +46,6 @@
 - **三大板块**：机构证券（Institutional Securities）、财富管理（Wealth Management）、投资管理（Investment Management）。  
 - **功能**：通过其附属与子公司，摩根士丹利能为机构、政府及个人提供从承销、交易到资本配置、理财规划等全方位金融服务。
 
-![大型投行](images/investment_banks.jpg "大型投行（Bulge Bracket）与其他投行示例")
-
 ---
 
 ## JPMorgan Chase

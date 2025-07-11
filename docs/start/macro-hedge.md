@@ -24,8 +24,6 @@
 
 在本文中，我们探讨宏观交易并深入了解最常见的宏观策略。对于每种宏观策略，我们提供了策略描述、示例交易，并考虑该策略在不同市场环境中的历史表现。
 
-![Bridgewater Associates](images/bridgewater.jpg "宏观基金代表：Bridgewater Associates")
-
 > **宏观基金代表：Bridgewater Associates**  
 > 宏观管理者倾向于战术性风险承担，随着情况的变化，偏好动态地进行投资组合调整。
 

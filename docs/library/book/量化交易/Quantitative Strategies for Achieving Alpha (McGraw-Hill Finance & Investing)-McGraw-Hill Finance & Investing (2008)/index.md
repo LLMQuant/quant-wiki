@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](Quantitative Strategies for Achieving Alpha (McGraw-Hill Finance & Investing)-McGraw-Hill Finance & Investing (2008).pdf)
+- **下载**: [点击下载](https://github.com/LLMQuant/asset/blob/main/Quantitative%20Strategies%20for%20Achieving%20Alpha%20(McGraw-Hill%20Finance%20%26%20Investing)-McGraw-Hill%20Finance%20%26%20Investing%20(2008).pdf)
 
 ### 内容简介
 
