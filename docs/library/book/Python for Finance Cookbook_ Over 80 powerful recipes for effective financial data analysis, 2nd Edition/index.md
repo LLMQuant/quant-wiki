@@ -10,7 +10,7 @@
 - **出版年份**: 2022
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Python%20for%20Finance%20Cookbook_%20Over%2080%20powerful%20recipes%20for%20effective%20financial%20data%20analysis%2C%202nd%20Edition.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Python%20for%20Finance%20Cookbook_%20Over%2080%20powerful%20recipes%20for%20effective%20financial%20data%20analysis%2C%202nd%20Edition.pdf)
 
 ### 内容简介
 

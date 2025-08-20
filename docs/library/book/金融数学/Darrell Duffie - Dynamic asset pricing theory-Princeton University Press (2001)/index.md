@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Darrell%20Duffie%20-%20Dynamic%20asset%20pricing%20theory-Princeton%20University%20Press%20%282001%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Darrell%20Duffie%20-%20Dynamic%20asset%20pricing%20theory-Princeton%20University%20Press%20%282001%29.pdf)
 
 ### 内容简介
 

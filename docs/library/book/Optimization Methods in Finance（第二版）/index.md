@@ -10,7 +10,7 @@
 - **出版年份**: 2018
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Optimization%20Methods%20in%20Finance%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Optimization%20Methods%20in%20Finance%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 
 ### 内容简介
 

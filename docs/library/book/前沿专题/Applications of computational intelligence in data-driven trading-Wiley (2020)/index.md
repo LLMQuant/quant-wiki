@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Applications%20of%20computational%20intelligence%20in%20data-driven%20trading-Wiley%20%282020%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Applications%20of%20computational%20intelligence%20in%20data-driven%20trading-Wiley%20%282020%29.pdf)
 
 ### 内容简介
 

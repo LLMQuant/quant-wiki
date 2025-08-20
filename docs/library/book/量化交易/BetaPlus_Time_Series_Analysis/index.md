@@ -10,7 +10,7 @@
 - **出版年份**: 2021
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/BetaPlus_Time_Series_Analysis.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/BetaPlus_Time_Series_Analysis.pdf)
 
 ### 内容简介
 

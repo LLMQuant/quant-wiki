@@ -10,7 +10,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%E9%87%8F%E5%8C%96%E7%BB%BF%E7%9A%AE%E4%B9%A6.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/%E9%87%8F%E5%8C%96%E7%BB%BF%E7%9A%AE%E4%B9%A6.pdf)
 
 ### 内容简介
 

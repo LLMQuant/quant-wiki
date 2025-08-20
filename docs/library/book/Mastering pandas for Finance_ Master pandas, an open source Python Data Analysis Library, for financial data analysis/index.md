@@ -10,7 +10,7 @@
 - **出版年份**: 2015
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Mastering%20pandas%20for%20Finance_%20Master%20pandas%2C%20an%20open%20source%20Python%20Data%20Analysis%20Library%2C%20for%20financial%20data%20analysis.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Mastering%20pandas%20for%20Finance_%20Master%20pandas%2C%20an%20open%20source%20Python%20Data%20Analysis%20Library%2C%20for%20financial%20data%20analysis.pdf)
 
 ### 内容简介
 

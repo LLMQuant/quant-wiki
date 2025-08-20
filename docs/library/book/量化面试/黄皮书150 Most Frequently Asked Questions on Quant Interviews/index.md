@@ -8,7 +8,7 @@
 - **出版年份**: 2013
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%E9%BB%84%E7%9A%AE%E4%B9%A6150%20Most%20Frequently%20Asked%20Questions%20on%20Quant%20Interviews.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/%E9%BB%84%E7%9A%AE%E4%B9%A6150%20Most%20Frequently%20Asked%20Questions%20on%20Quant%20Interviews.pdf)
 
 ### 内容简介
 

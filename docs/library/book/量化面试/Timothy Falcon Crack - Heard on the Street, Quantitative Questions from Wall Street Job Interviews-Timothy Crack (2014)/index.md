@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Timothy%20Falcon%20Crack%20-%20Heard%20on%20the%20Street%2C%20Quantitative%20Questions%20from%20Wall%20Street%20Job%20Interviews-Timothy%20Crack%20%282014%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Timothy%20Falcon%20Crack%20-%20Heard%20on%20the%20Street%2C%20Quantitative%20Questions%20from%20Wall%20Street%20Job%20Interviews-Timothy%20Crack%20%282014%29.pdf)
 
 ### 内容简介
 

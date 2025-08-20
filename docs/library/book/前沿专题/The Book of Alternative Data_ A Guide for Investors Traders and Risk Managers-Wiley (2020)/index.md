@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/The%20Book%20of%20Alternative%20Data_%20A%20Guide%20for%20Investors%20Traders%20and%20Risk%20Managers-Wiley%20%282020%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/The%20Book%20of%20Alternative%20Data_%20A%20Guide%20for%20Investors%20Traders%20and%20Risk%20Managers-Wiley%20%282020%29.pdf)
 
 ### 内容简介
 

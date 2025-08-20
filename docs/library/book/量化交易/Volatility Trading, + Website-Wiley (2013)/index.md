@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Volatility%20Trading%2C%20%2B%20Website-Wiley%20%282013%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Volatility%20Trading%2C%20%2B%20Website-Wiley%20%282013%29.pdf)
 
 ### 内容简介
 

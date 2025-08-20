@@ -10,7 +10,7 @@
 - **出版年份**: 2009
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Paul%20P.%20Wilmott%20-%20Frequently%20Asked%20Questions%20in%20Quantitative%20Finance%2C%20Second%20Edition%20%20-A%20John%20Wiley%20and%20Sons%2C%20Ltd.%20%282009%29.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Paul%20P.%20Wilmott%20-%20Frequently%20Asked%20Questions%20in%20Quantitative%20Finance%2C%20Second%20Edition%20%20-A%20John%20Wiley%20and%20Sons%2C%20Ltd.%20%282009%29.pdf)
 
 ### 内容简介
 

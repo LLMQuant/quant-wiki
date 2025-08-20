@@ -10,7 +10,7 @@
 - **出版年份**: 2018
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/151%20Trading%20Strategies.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/151%20Trading%20Strategies.pdf)
 
 ### 内容简介
 

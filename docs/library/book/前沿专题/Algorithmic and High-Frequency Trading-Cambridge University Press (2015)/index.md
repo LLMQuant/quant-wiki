@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Algorithmic%20and%20High-Frequency%20Trading-Cambridge%20University%20Press%20%282015%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Algorithmic%20and%20High-Frequency%20Trading-Cambridge%20University%20Press%20%282015%29.pdf)
 
 ### 内容简介
 

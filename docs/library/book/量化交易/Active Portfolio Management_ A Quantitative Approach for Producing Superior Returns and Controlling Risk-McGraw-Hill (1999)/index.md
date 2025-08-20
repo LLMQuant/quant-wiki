@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Active%20Portfolio%20Management_%20A%20Quantitative%20Approach%20for%20Producing%20Superior%20Returns%20and%20Controlling%20Risk-McGraw-Hill%20%281999%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Active%20Portfolio%20Management_%20A%20Quantitative%20Approach%20for%20Producing%20Superior%20Returns%20and%20Controlling%20Risk-McGraw-Hill%20%281999%29.pdf)
 
 ### 内容简介
 

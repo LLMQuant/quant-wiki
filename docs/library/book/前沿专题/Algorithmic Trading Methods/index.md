@@ -9,7 +9,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Algorithmic%20Trading%20Methods_%20Applications%20Using%20Advanced%20Statistics%2C%20Optimization%2C%20and%20Machine%20Learning%20Techniques-Academic%20Press%20%282020%29.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Algorithmic%20Trading%20Methods_%20Applications%20Using%20Advanced%20Statistics%2C%20Optimization%2C%20and%20Machine%20Learning%20Techniques-Academic%20Press%20%282020%29.pdf)
 
 ### 内容简介
 

@@ -10,7 +10,7 @@
 - **出版年份**: 2024
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%E3%80%90%E5%BC%80%E6%94%BE%E4%B9%A6%E3%80%91%E7%BB%8F%E6%B5%8E%E4%B8%8E%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/%E3%80%90%E5%BC%80%E6%94%BE%E4%B9%A6%E3%80%91%E7%BB%8F%E6%B5%8E%E4%B8%8E%E9%87%91%E8%9E%8D%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6.pdf)
 
 ### 内容简介
 

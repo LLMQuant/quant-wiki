@@ -8,7 +8,7 @@
 - **出版年份**: 2008
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/%E7%BB%BF%E7%9A%AE%E4%B9%A6A%20Practical%20Guide%20to%20Quantitative%20Finance%20Interviews.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/%E7%BB%BF%E7%9A%AE%E4%B9%A6A%20Practical%20Guide%20to%20Quantitative%20Finance%20Interviews.pdf)
 
 ### 内容简介
 

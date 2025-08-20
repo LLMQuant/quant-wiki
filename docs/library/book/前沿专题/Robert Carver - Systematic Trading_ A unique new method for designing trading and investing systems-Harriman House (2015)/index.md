@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Robert%20Carver%20-%20Systematic%20Trading_%20A%20unique%20new%20method%20for%20designing%20trading%20and%20investing%20systems-Harriman%20House%20%282015%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Robert%20Carver%20-%20Systematic%20Trading_%20A%20unique%20new%20method%20for%20designing%20trading%20and%20investing%20systems-Harriman%20House%20%282015%29.pdf)
 
 ### 内容简介
 

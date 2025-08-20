@@ -9,7 +9,7 @@
 - **出版社**:Apress (part of Springer Nature) 
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Reinforcement%20Learning%20for%20Finance_%20Solve%20Problems%20in%20Finance%20with%20CNN%20and%20RNN%20Using%20the%20TensorFlow%20Library.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Reinforcement%20Learning%20for%20Finance_%20Solve%20Problems%20in%20Finance%20with%20CNN%20and%20RNN%20Using%20the%20TensorFlow%20Library.pdf)
 
 ### 内容简介
 

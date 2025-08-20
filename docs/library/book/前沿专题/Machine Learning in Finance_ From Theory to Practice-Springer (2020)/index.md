@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Machine%20Learning%20in%20Finance_%20From%20Theory%20to%20Practice-Springer%20%282020%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Machine%20Learning%20in%20Finance_%20From%20Theory%20to%20Practice-Springer%20%282020%29.pdf)
 
 ### 内容简介
 

@@ -8,7 +8,7 @@
 - **出版年份**: 2006
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Empirical%20Dynamic%20Asset%20Pricing_%20Model%20Specification%20and%20Econometric%20Assessment%20%282006%29.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Empirical%20Dynamic%20Asset%20Pricing_%20Model%20Specification%20and%20Econometric%20Assessment%20%282006%29.pdf)
 
 ### 内容简介
 

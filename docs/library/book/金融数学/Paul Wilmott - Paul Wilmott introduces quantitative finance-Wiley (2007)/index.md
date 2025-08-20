@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Paul%20Wilmott%20-%20Paul%20Wilmott%20introduces%20quantitative%20finance-Wiley%20%282007%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Paul%20Wilmott%20-%20Paul%20Wilmott%20introduces%20quantitative%20finance-Wiley%20%282007%29.pdf)
 
 ### 内容简介
 

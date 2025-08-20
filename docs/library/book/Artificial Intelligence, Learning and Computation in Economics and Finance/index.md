@@ -10,7 +10,7 @@
 - **出版年份**: 2023
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Artificial%20Intelligence%2C%20Learning%20and%20Computation%20in%20Economics%20and%20Finance.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Artificial%20Intelligence%2C%20Learning%20and%20Computation%20in%20Economics%20and%20Finance.pdf)
 
 ### 内容简介
 

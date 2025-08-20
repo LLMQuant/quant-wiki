@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Quantum%20Finance_%20Path%20Integrals%20and%20Hamiltonians%20for%20Options%20and%20Interest%20Rates-Cambridge%20University%20Press%20%282004%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Quantum%20Finance_%20Path%20Integrals%20and%20Hamiltonians%20for%20Options%20and%20Interest%20Rates-Cambridge%20University%20Press%20%282004%29.pdf)
 
 ### 内容简介
 

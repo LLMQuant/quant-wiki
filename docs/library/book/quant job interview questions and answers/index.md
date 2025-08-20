@@ -10,7 +10,7 @@
 - **出版年份**: 2013
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/quant%20job%20interview%20questions%20and%20answers.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/quant%20job%20interview%20questions%20and%20answers.pdf)
 
 ### 内容简介
 

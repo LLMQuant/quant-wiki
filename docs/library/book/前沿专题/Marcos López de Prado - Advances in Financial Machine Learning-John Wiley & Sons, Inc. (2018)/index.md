@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Marcos%20L%C3%B3pez%20de%20Prado%20-%20Advances%20in%20Financial%20Machine%20Learning-John%20Wiley%20%26%20Sons%2C%20Inc.%20%282018%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Marcos%20L%C3%B3pez%20de%20Prado%20-%20Advances%20in%20Financial%20Machine%20Learning-John%20Wiley%20%26%20Sons%2C%20Inc.%20%282018%29.pdf)
 
 ### 内容简介
 

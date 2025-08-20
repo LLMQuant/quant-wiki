@@ -10,7 +10,7 @@
 - **出版年份**: 2022
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Quantum%20Machine%20Learning%20and%20Optimisation%20in%20Finance_%20On%20the%20Road%20to%20Quantum%20Advantage.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Quantum%20Machine%20Learning%20and%20Optimisation%20in%20Finance_%20On%20the%20Road%20to%20Quantum%20Advantage.pdf)
 
 ### 内容简介
 

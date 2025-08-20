@@ -10,7 +10,7 @@
 - **出版年份**: 2013
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Algorithmic%20Trading_%20Winning%20Strategies%20and%20Their%20Rationale-Wiley%20%282013%29.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Algorithmic%20Trading_%20Winning%20Strategies%20and%20Their%20Rationale-Wiley%20%282013%29.pdf)
 
 ### 内容简介
 

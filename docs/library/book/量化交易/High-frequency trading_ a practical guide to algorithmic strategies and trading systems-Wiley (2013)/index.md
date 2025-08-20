@@ -10,7 +10,7 @@
 - **出版年份**: 2013
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/High-frequency%20trading_%20a%20practical%20guide%20to%20algorithmic%20strategies%20and%20trading%20systems-Wiley%20%282013%29.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/High-frequency%20trading_%20a%20practical%20guide%20to%20algorithmic%20strategies%20and%20trading%20systems-Wiley%20%282013%29.pdf)
 
 ### 内容简介
 

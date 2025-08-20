@@ -10,7 +10,7 @@
 - **出版年份**: 2017
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/A%20complete%20guide%20to%20the%20futures%20market_%20technical%20analysis%20and%20trading%20systems%2C%20fundamental%20analysis%2C%20options%2C%20spreads%2C%20and%20trading%20principles-J.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/A%20complete%20guide%20to%20the%20futures%20market_%20technical%20analysis%20and%20trading%20systems%2C%20fundamental%20analysis%2C%20options%2C%20spreads%2C%20and%20trading%20principles-J.pdf)
 
 ### 内容简介
 

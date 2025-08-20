@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/%E7%90%86%E8%A7%A3%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC-NobelEconomics1.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/%E7%90%86%E8%A7%A3%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC-NobelEconomics1.pdf)
 
 ### 内容简介
 

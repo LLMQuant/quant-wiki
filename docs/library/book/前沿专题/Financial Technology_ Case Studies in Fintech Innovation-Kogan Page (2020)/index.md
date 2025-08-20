@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Financial%20Technology_%20Case%20Studies%20in%20Fintech%20Innovation-Kogan%20Page%20%282020%29.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Financial%20Technology_%20Case%20Studies%20in%20Fintech%20Innovation-Kogan%20Page%20%282020%29.pdf)
 
 ### 内容简介
 

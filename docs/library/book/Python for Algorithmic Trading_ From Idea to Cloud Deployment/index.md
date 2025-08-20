@@ -10,7 +10,7 @@
 - **出版年份**: 2020
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Python%20for%20Algorithmic%20Trading_%20From%20Idea%20to%20Cloud%20Deployment.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Python%20for%20Algorithmic%20Trading_%20From%20Idea%20to%20Cloud%20Deployment.pdf)
 
 ### 内容简介
 

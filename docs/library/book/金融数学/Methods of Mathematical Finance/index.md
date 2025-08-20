@@ -9,7 +9,7 @@
 - **出版年份**: 2001
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Methods%20of%20Mathematical%20Finance-Springer%20%282001%29.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Methods%20of%20Mathematical%20Finance-Springer%20%282001%29.pdf)
 
 ### 内容简介
 
