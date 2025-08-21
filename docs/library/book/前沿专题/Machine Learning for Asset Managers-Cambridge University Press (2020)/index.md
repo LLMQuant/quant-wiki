@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Machine Learning for Asset Managers-Cambridge University Press (2020).pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Machine Learning for Asset Managers-Cambridge University Press (2020).pdf)
 
 ### 内容简介
 

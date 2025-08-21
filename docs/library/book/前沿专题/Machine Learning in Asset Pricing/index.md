@@ -9,7 +9,7 @@
 - **出版年份**: 2021
 - **难度**: ⭐⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Machine Learning in Asset Pricing-Princeton Univ Pr (2021).pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Machine Learning in Asset Pricing-Princeton Univ Pr (2021).pdf)
 
 ### 内容简介
 

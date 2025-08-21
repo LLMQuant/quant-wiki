@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Algorithmic Trading Methods_ Applications Using Advanced Statistics, Optimization, and Machine Learning Techniques-Academic Press (2020).pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Algorithmic Trading Methods_ Applications Using Advanced Statistics, Optimization, and Machine Learning Techniques-Academic Press (2020).pdf)
 
 ### 内容简介
 

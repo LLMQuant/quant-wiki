@@ -10,7 +10,7 @@
 - **出版年份**: 2022
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **PDF下载**: [点击下载](https://quant-wiki.com/pdf/Stochastic%20Modelling%20of%20Big%20Data%20in%20Finance_compressed.pdf)
+- **PDF下载**: [点击下载](https://asset.quant-wiki.com/pdf/Stochastic%20Modelling%20of%20Big%20Data%20in%20Finance_compressed.pdf)
 
 ### 内容简介
 

@@ -6,7 +6,7 @@
 - **格式**: PDF
 - **难度**: ⭐⭐⭐⭐
 - **推荐指数**: ⭐⭐⭐⭐⭐
-- **下载**: [点击下载](https://quant-wiki.com/pdf/Quantitative%2520Strategies%2520for%2520Achieving%2520Alpha%2520%28McGraw-Hill%2520Finance%2520%2526%2520Investing.pdf)
+- **下载**: [点击下载](https://asset.quant-wiki.com/pdf/Quantitative%2520Strategies%2520for%2520Achieving%2520Alpha%2520%28McGraw-Hill%2520Finance%2520%2526%2520Investing.pdf)
 
 ### 内容简介
 
