@@ -18,4 +18,17 @@
     欢迎加入 quant-wiki 微信交流群，给出您的建议与反馈（由于微信群二维码 7 天就会过期，请你先添加 LLMQuant 管理员微信，注明来意即可。）
     ![wechat-group](./asset/wechat-group.jpg)
 
+### 实战演练与职业助手
+
+???+ example "Quant Question 量化求职/刷题平台"
+    ![QQ-Header](./asset/QQ-Header.png)
+
+    ![QQ-Job-Header](./asset/QQ-Job-Header.png)
+
+**Quant Wiki 负责“学”，Quant Question 负责“练”。**
+
+为了避免“纸上谈兵”，我们推荐你使用我们目前主力打造的产品 [Quant Question](https://www.quantquestion.com)。专业的 AI 驱动量化面试/求职准备平台，提供1300+量化刷题题库、1000+顶级公司量化职位、真题题单、QuantAI 实时个性化辅导和 AI 驱动的职位追踪工具，助您成功应对顶尖对冲基金公司的量化面试和求职。
+
+我们深知学习资源的可贵，因此平台在提供高级功能的同时，坚持**开放大量免费的精选题单**。无论是巩固 Wiki 中的概率统计知识，还是刷大厂真题，你都可以这里找到对应的免费资源。
+
 ![](https://fastly.jsdelivr.net/gh/bucketio/img9@main/2024/10/20/1729465031968-b3c8959e-1d37-4b8a-91b1-b0b0dfe25143.png)

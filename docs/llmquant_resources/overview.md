@@ -7,36 +7,48 @@
 !!! note "我们的目标"
     LLMQuant 旨在利用 AI 的力量，降低量化研究和实践的门槛，促进知识共享与策略创新。
 
-## **Quant Question**: 量化刷题平台
+## **Quant Question**: 量化刷题/求职平台
 
-这是一个专为量化金融求职者设计的在线刷题平台。我们精心整理了大量行业内经典的面试题目，助您高效备战笔面试。🚩欢迎点击 [quantquestion.com](https://quantquestion.com/) 进行试用。
+??? example "Quant Question 量化求职/刷题平台"
 
-![Quant Question](../asset/quant-question-feature.png)
+    ![QQ-Job-Header](../asset/QQ-Job-Header.png)
+
+    ![quant-question-feature](../asset/quant-question-feature.png)
+
+**Quant Wiki 负责“学”，Quant Question 负责“练”。**
+
+为了避免“纸上谈兵”，我们推荐你使用我们目前主力打造的产品 [Quant Question](https://www.quantquestion.com)。专业的 AI 驱动量化面试/求职准备平台，提供1300+量化刷题题库、1000+顶级公司量化职位、真题题单、QuantAI 实时个性化辅导和 AI 驱动的职位追踪工具，助您成功应对顶尖对冲基金公司的量化面试和求职。
+
+我们深知学习资源的可贵，因此平台在提供高级功能的同时，坚持**开放大量免费的精选题单**。无论是巩固 Wiki 中的概率统计知识，还是刷大厂真题，你都可以这里找到对应的免费资源。
+
+![QQ-Header](../asset/QQ-Header.png)
 
 ???+ success "主要特点"
     * **免费真题:** 提供来自顶级公司（如 Jane Street）的真实面试题。
     * **经典题单:** 包含量化金融领域经典的“绿皮书”等题单。
-    * **在线练习:** 提供便捷的在线答题和学习环境。
-    * **持续更新:** 题库内容将不断丰富和更新。
+    * **Quant AI:** 基于顶级的人工智能模型提供实时的个性化辅导。
+    * **职位追踪:** 基于 AI 驱动的职位追踪工具，助您成功应对顶尖对冲基金公司的量化面试和求职。
 
+## **Quant Mind**: 量化金融智能 Agent 框架
 
-## **QuantPedia.ai**: 量化百科聊天机器人
-为了更方便与量化百科交互，以聊天的方式获取最新量化知识，我们开发了量化百科聊天机器人QuantPedia.ai
-🚩欢迎点击 [quantpedia.ai/](https://quantpedia.ai/) 进行试用。
+QuantMind 是一个面向量化金融的知识提取与检索框架，帮助开发者快速构建金融领域的 AI Agent，将论文、研报、新闻等非结构化内容转化为可操作的结构化知识。
 
-![Quant Question](../asset/quantpedia.png)
+🚩欢迎访问 [GitHub 仓库](https://github.com/LLMQuant/quant-mind) 了解更多。
+
+![QuantMind](../asset/quantmind.png)
 
 ???+ success "主要特点"
-    * **强大能力:** 基于AI最新模型的强大能力，用户能上传题目获取答案。。
-    * **精心编制:** 我们也提供精心编制的面试真题与答案，这些题目来自国内外顶级对冲基金与投资银行，用户能以问题的形式（例如：请给我xxx最新面试练习题目与答案）。
-    * **个性化辅导:** 我们的机器人不仅能提供详细的解答和解析，还能根据您的需求进行个性化的辅导，帮助您更好地准备面试，提升竞争力。
-    * **持续更新:** 题库内容将不断丰富和更新。
+    * **Agent 原生:** 内置 Agentic 工作流与工具集成，支持构建论文阅读、研报分析等垂直场景 Agent。
+    * **Context Engineering:** 强调金融上下文的结构化处理，为 LLM 提供高质量的领域知识输入。
+    * **两阶段架构:** 知识提取（Source → Parser → Knowledge Base）与智能检索（Embedding → RAG/DeepResearch）解耦设计。
+    * **多源接入:** 支持 arXiv、新闻 API、金融博客等多种数据源，统一知识格式标准。
+    * **开源可扩展:** MIT 协议，模块化设计，易于定制数据源、检索策略与 Agent 逻辑。
 
-## **Quant Scholar**: 开源 Knowledge Agent 项目 (开发中)
+## **Quant Paper**: 量化论文知识图谱 (开发中)
 
-[Quant Scholar](https://github.com/LLMQuant/quant-scholar) 是一个正在运行中的 Agent 开源项目，旨在将量化金融领域的学术论文（未来会兼容更多领域）转化为结构化的数据，方便用户阅读、理解和利用。欢迎大家在 Github 上参与贡献。（以下是一个非常简单的 demo 展示）
+Quant Paper 是一个正在运行中的 Agent 项目，旨在将量化金融领域的学术论文（未来会兼容更多领域）转化为结构化的数据，方便用户阅读、理解和利用。（以下是一个非常简单的 demo 展示）
 
-![Quant Scholar](../asset/demo-kg-abstract.png)
+![Quant Paper](../asset/demo-kg-abstract.png)
 
 ???+ warning "当前状态与未来规划"
     * **核心功能:** 自动抓取、解析论文，并提取关键信息（如模型、数据集、结论等），形成结构化摘要。
