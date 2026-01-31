@@ -106,7 +106,6 @@
 
 - [量化金融常见问题](book/量化面试/Paul P. Wilmott - Frequently Asked Questions in Quantitative Finance, Second Edition  -A John Wiley and Sons, Ltd. (2009)/index.md)
 - [Quant绿皮书精讲60题](book/量化面试/Quant绿皮书精讲60题_by野荷马/index.md)
-- [华尔街面试题](book/量化面试/Timothy Falcon Crack - Heard on the Street, Quantitative Questions from Wall Street Job Interviews-Timothy Crack (2014)/index.md)
 - [量化面试红宝书](book/量化面试/红宝书Quant Job Interview Questions And Answers/index.md)
 - [量化面试实践指南](book/量化面试/绿皮书A Practical Guide to Quantitative Finance Interviews/index.md)
 - [150个量化面试高频题](book/量化面试/黄皮书150 Most Frequently Asked Questions on Quant Interviews/index.md)
