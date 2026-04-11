@@ -274,6 +274,322 @@ nav:
     - 实用行业入门:
       - 机构策略九个热门策略: start/nine-strategies.md
       - Point72投资策略: start/point72-idea.md
+  - Getting Started (EN):
+    - Quant Trader's Guide:
+      - Why Do Some Trading Strategies Profit?: en/start/quant_trader/why-trading-strategies-profit.md
+      - Building Effective Trading Strategies: en/start/quant_trader/building-effective-trading-strategies.md
+      - Classifying Trading Styles: en/start/quant_trader/classifying-trading-styles.md
+    - Essential Concepts:
+      - Sharpe Ratio: en/start/sharpe.md
+      - Options Pricing: en/start/option.md
+      - Implied Volatility: en/start/volatility.md
+      - Modern Portfolio Theory: en/start/mpt-markowitz.md
+      - High-Frequency Trading: en/start/high-frequency.md
+      - Extreme Value Theory (EVT) for VaR & ES: en/start/evt-var-es.md
+    - Strategy Types:
+      - Quantitative Hedge Fund Strategies: en/start/strategy-type.md
+      - Multi-Strategy Hedge Funds: en/start/multi-strategy.md
+      - Event-Driven Strategies: en/start/event-driven.md
+      - Global Macro Hedge Funds: en/start/macro-hedge.md
+    - Industry Practices:
+      - Nine Popular Institutional Strategies: en/start/nine-strategies.md
+      - Point72 Investment Strategy: en/start/point72-idea.md
+  - Fundamentals (EN):
+    - Knowledge Framework: en/basic/index.md
+    - Finance:
+      - Overview: en/basic/finance/index.md
+      - Markets & Trading:
+        - Primary Market: en/basic/finance/primary-market.md
+        - Secondary Market: en/basic/finance/secondary-market.md
+        - Bond Market: en/basic/finance/bond-market.md
+        - Foreign Exchange: en/basic/finance/foreign-exchange.md
+        - Forex: en/basic/finance/forex.md
+        - Stock Market: en/basic/finance/stock-market.md
+        - Bear Market: en/basic/finance/bear-market.md
+        - Bull Market: en/basic/finance/bull-market.md
+        - Nasdaq: en/basic/finance/nasdaq.md
+      - Financial Instruments:
+        - Equity: en/basic/finance/equity.md
+        - Futures: en/basic/finance/futures.md
+        - Binary Option: en/basic/finance/binary-option.md
+        - Put Option: en/basic/finance/put-option.md
+        - VIX Option: en/basic/finance/vix-option.md
+        - Bond: en/basic/finance/bond.md
+        - Treasury Bond: en/basic/finance/treasury-bond.md
+        - Treasury Notes: en/basic/finance/treasury-notes.md
+        - Convertible Bond: en/basic/finance/convertible-bond.md
+        - Security: en/basic/finance/security.md
+        - Derivative: en/basic/finance/derivative.md
+        - Underlying Asset: en/basic/finance/underlying-asset.md
+        - Fixed Income: en/basic/finance/fixed-income.md
+        - Forward Price: en/basic/finance/forward-price.md
+        - Forward Contract: en/basic/finance/forward-contract.md
+      - Trading Mechanics:
+        - T+1 Settlement: en/basic/finance/t-plus-1.md
+        - Margin: en/basic/finance/margin.md
+        - Buying on Margin: en/basic/finance/buying-on-margin.md
+        - Dealer: en/basic/finance/dealer.md
+        - Short Selling: en/basic/finance/short-selling.md
+        - IPOs: en/basic/finance/initial-public-offerings.md
+        - Quotation: en/basic/finance/quotation.md
+        - Prime Brokerage: en/basic/finance/prime-brokerage.md
+      - Investment Theory:
+        - Value Investing: en/basic/finance/value-investing.md
+        - Passive Investing: en/basic/finance/passive-investing.md
+        - Multi-Factor Model: en/basic/finance/multi-factor-model.md
+        - Efficient Market Hypothesis: en/basic/finance/efficient-market-hypothesis.md
+        - Venture Capital: en/basic/finance/venture-capital.md
+        - Hedge: en/basic/finance/hedge.md
+      - Economic Indicators:
+        - GDP: en/basic/finance/gross-domestic-product.md
+        - GNP: en/basic/finance/gross-national-product.md
+        - Producer Price Index: en/basic/finance/producer-price-index.md
+        - Inflation: en/basic/finance/inflation.md
+        - Hyperinflation: en/basic/finance/hyperinflation.md
+        - Unemployment: en/basic/finance/unemployment.md
+        - Economic Growth: en/basic/finance/economic-growth.md
+        - Business Cycle: en/basic/finance/business-cycle.md
+        - Great Depression: en/basic/finance/great-depression.md
+        - Housing Bubble: en/basic/finance/housing-bubble.md
+        - Interest Rate: en/basic/finance/interest-rate.md
+        - Federal Funds Rate: en/basic/finance/federal-funds-rate.md
+      - Economic Theory & Policy:
+        - Macroeconomics: en/basic/finance/macroeconomics.md
+        - Keynesian Economics: en/basic/finance/keynesian-economics.md
+        - Neoliberalism: en/basic/finance/neoliberalism.md
+        - Capitalism: en/basic/finance/capitalism.md
+        - Free Market: en/basic/finance/free-market.md
+        - Free Trade: en/basic/finance/free-trade.md
+        - Open Market Operations: en/basic/finance/open-market-operations.md
+        - Monetary Policy: en/basic/finance/monetary-policy.md
+        - Tariff: en/basic/finance/tariff.md
+        - Trade Deficit: en/basic/finance/trade-deficit.md
+        - Quantitative Easing: en/basic/finance/quantitative-easing.md
+      - Corporate & Market Structure:
+        - Joint-Stock Company: en/basic/finance/joint-stock-company.md
+        - Limited Partnership: en/basic/finance/limited-partnership.md
+        - Oligopoly: en/basic/finance/oligopoly.md
+        - Economies of Scale: en/basic/finance/economies-of-scale.md
+        - Knowledge Economy: en/basic/finance/knowledge-economy.md
+        - Debt Restructuring: en/basic/finance/debt-restructuring.md
+        - Mergers and Acquisitions: en/basic/finance/mergers-and-acquisitions.md
+        - Leveraged Buyout: en/basic/finance/leveraged-buyout.md
+        - Economic Order Quantity: en/basic/finance/economic-order-quantity.md
+      - Financial Metrics:
+        - P/E Ratio: en/basic/finance/price-to-earnings-ratio.md
+        - Dividend: en/basic/finance/dividend.md
+        - Dilution: en/basic/finance/dilution.md
+        - Gross Profit Margin: en/basic/finance/gross-profit-margin.md
+        - Discount Rate: en/basic/finance/discount-rate.md
+        - Annuity Table: en/basic/finance/annuity-table.md
+        - Inverted Yield Curve: en/basic/finance/inverted-yield-curve.md
+        - AAA Credit Rating: en/basic/finance/aaa-credit-rating.md
+        - CAPE Ratio: en/basic/finance/cape-ratio.md
+        - Mid-Cap: en/basic/finance/mid-cap.md
+        - Rate of Change: en/basic/finance/rate-of-change.md
+        - Base Year: en/basic/finance/base-year.md
+        - Growth Curve: en/basic/finance/growth-curve.md
+        - Growth Rates: en/basic/finance/growth-rates.md
+        - Compounding: en/basic/finance/compounding.md
+        - CAGR: en/basic/finance/compound-annual-growth-rate.md
+        - Annual Return: en/basic/finance/annual-return.md
+        - Future Value of an Annuity: en/basic/finance/future-value-of-an-annuity.md
+        - Present Value: en/basic/finance/present-value.md
+        - Balance Sheet: en/basic/finance/balance-sheet.md
+        - Capitalization: en/basic/finance/capitalization.md
+        - Marginal Benefits: en/basic/finance/marginal-benefits.md
+        - Face Value: en/basic/finance/face-value.md
+      - Risk & Volatility:
+        - Leverage: en/basic/finance/leverage.md
+        - Leverage Ratio: en/basic/finance/leverage-ratio.md
+        - Unlevered Beta: en/basic/finance/unlevered-beta.md
+        - Volatility: en/basic/finance/volatility.md
+        - Liquidity: en/basic/finance/liquidity.md
+        - VIX: en/basic/finance/vix.md
+      - Other Concepts:
+        - 80-20 Rule: en/basic/finance/80-20-rule.md
+        - Gini Index: en/basic/finance/gini-index.md
+        - Phillips Curve: en/basic/finance/phillips-curve.md
+        - Comparative Advantage: en/basic/finance/comparative-advantage.md
+        - Absolute Advantage: en/basic/finance/absolute-advantage.md
+        - Exchange Rate: en/basic/finance/exchange-rate.md
+        - Velocity of Money: en/basic/finance/velocity-of-money.md
+    - Probability:
+      - Overview: en/basic/prob/index.md
+      - Conditional Probability: en/basic/prob/conditional-probability.md
+      - Joint Probability: en/basic/prob/joint-probability.md
+      - Bayes' Theorem: en/basic/prob/bayes-theorem.md
+      - Correlation: en/basic/prob/correlation.md
+      - Correlation Coefficient: en/basic/prob/correlation-coefficient.md
+      - Probability Distribution: en/basic/prob/probability-distribution.md
+      - Normal Distribution: en/basic/prob/normal-distribution.md
+      - Law of Large Numbers: en/basic/prob/law-of-large-numbers.md
+      - Monte Carlo Simulation: en/basic/prob/monte-carlo-simulation.md
+      - Systematic Sampling: en/basic/prob/systematic-sampling.md
+      - Coefficient of Variation: en/basic/prob/coefficient-of-variation.md
+      - Derivative: en/basic/prob/derivative.md
+      - P-Value: en/basic/prob/p-value.md
+      - Z-Score: en/basic/prob/z-score.md
+      - Z-Test: en/basic/prob/z-test.md
+      - T-Test: en/basic/prob/t-test.md
+    - Statistics:
+      - Overview: en/basic/stat/index.md
+      - Expected Value: en/basic/stat/expected-value.md
+      - Covariance: en/basic/stat/covariance.md
+      - Correlation Coefficient: en/basic/stat/correlation-coefficient.md
+      - Linear Relationship: en/basic/stat/linear-relationship.md
+      - Nonlinearity: en/basic/stat/nonlinearity.md
+      - Autocorrelation: en/basic/stat/autocorrelation.md
+      - Multicollinearity: en/basic/stat/multicollinearity.md
+      - Hypothesis Testing: en/basic/stat/hypothesis-testing.md
+      - Statistical Significance: en/basic/stat/statistical-significance.md
+      - Chi-Square Statistic: en/basic/stat/chi-square-statistic.md
+      - Confidence Interval: en/basic/stat/confidence-interval.md
+      - Regression: en/basic/stat/regression.md
+      - R-Squared: en/basic/stat/r-squared.md
+      - Coefficient of Determination: en/basic/stat/coefficient-of-determination.md
+      - Multiple Linear Regression: en/basic/stat/multiple-linear-regression.md
+      - Least Squares Method: en/basic/stat/least-squares-method.md
+      - Variance Inflation Factor: en/basic/stat/variance-inflation-factor.md
+      - ANOVA: en/basic/stat/analysis-of-variance.md
+      - Uniform Distribution: en/basic/stat/uniform-distribution.md
+      - Central Limit Theorem: en/basic/stat/central-limit-theorem.md
+      - Empirical Rule: en/basic/stat/empirical-rule.md
+      - Merton Model: en/basic/stat/merton-model.md
+    - Quant Terms:
+      - Overview: en/basic/quant/index.md
+      - Trading Strategies:
+        - Trend Trading: en/basic/quant/trend-trading.md
+        - Momentum Investing: en/basic/quant/momentum-investing.md
+        - Factor Investing: en/basic/quant/factor-investing.md
+        - High-Frequency Trading: en/basic/quant/high-frequency-trading.md
+        - Mean Reversion: en/basic/quant/mean-reversion.md
+        - Arbitrageur: en/basic/quant/arbitrageur.md
+        - Market Neutral: en/basic/quant/market-neutral.md
+        - Currency Carry Trade: en/basic/quant/currency-carry-trade.md
+        - News Trader: en/basic/quant/news-trader.md
+      - Options Strategies:
+        - Delta Hedging: en/basic/quant/delta-hedging.md
+        - Gamma Hedging: en/basic/quant/gamma-hedging.md
+        - Volatility Arbitrage: en/basic/quant/volatility-arbitrage.md
+        - Delta Neutral: en/basic/quant/delta-neutral.md
+        - Gamma Neutral: en/basic/quant/gamma-neutral.md
+        - Long Put: en/basic/quant/long-put.md
+        - Straddle: en/basic/quant/straddle.md
+        - Bear Call Spread: en/basic/quant/bear-call-spread.md
+        - Volatility Smile: en/basic/quant/volatility-smile.md
+      - Technical Indicators:
+        - Moving Average: en/basic/quant/moving-average.md
+        - Simple Moving Average: en/basic/quant/simple-moving-average.md
+        - Exponential Moving Average: en/basic/quant/exponential-moving-average.md
+        - Relative Strength Index: en/basic/quant/relative-strength-index.md
+        - Fisher Transform: en/basic/quant/fisher-transform-indicator.md
+        - Double Top: en/basic/quant/double-top.md
+        - Golden Cross: en/basic/quant/golden-cross.md
+      - Fund Types:
+        - Long/Short Fund: en/basic/quant/long-short-fund.md
+        - Long/Short Equity: en/basic/quant/long-short-equity.md
+      - Order Types:
+        - Market Order: en/basic/quant/market-order.md
+        - Limit Order: en/basic/quant/limit-order.md
+        - Limit Order Book: en/basic/quant/limit-order-book.md
+        - IOC Order: en/basic/quant/immediate-or-cancel-order.md
+        - Held Order: en/basic/quant/held-order.md
+      - Position Management:
+        - Short: en/basic/quant/short.md
+        - Short Squeeze: en/basic/quant/short-squeeze.md
+      - Greek Letters:
+        - Gamma: en/basic/quant/gamma.md
+        - Beta: en/basic/quant/beta.md
+        - Alpha: en/basic/quant/alpha.md
+      - Classic Models:
+        - CAPM: en/basic/quant/capital-asset-pricing-model.md
+        - Fama-French Three-Factor Model: en/basic/quant/fama-french-three-factor-model.md
+      - Analysis Tools:
+        - Backtesting: en/basic/quant/backtesting.md
+      - Historical Figures:
+        - Benjamin Graham: en/basic/quant/benjamin-graham.md
+        - Jesse Livermore: en/basic/quant/jesse-livermore.md
+        - Long-Term Capital Management: en/basic/quant/long-term-capital-management.md
+  - AI + Quant (EN):
+    - Overview: en/ai/index.md
+    - AI + Quantitative Finance:
+      - TradingAgents Multi-Agent Framework: en/ai/aiquant/TradingAgents.md
+      - InvestorBench LLM Benchmark: en/ai/aiquant/InvestorBench.md
+      - FinRobot Equity Research Framework: en/ai/aiquant/finrobot.md
+      - ChatGPT + LangChain Stock Research: en/ai/aiquant/ChatGPT-langchain.md
+      - DeepSeek and the Quant Revolution: en/ai/aiquant/deepseek.md
+      - LLM-Driven Alpha Mining: en/ai/aiquant/llm-quant-strategies.md
+      - TradeMaster Reinforcement Learning: en/ai/aiquant/trademaster-reinforcement-learning.md
+      - GPT's Impact on Quantitative Finance: en/ai/gpt-quantitative-finance.md
+    - LLM Model Comparisons: en/ai/llm-overview.md
+    - GPT-4.5 Release Analysis: en/ai/gpt-4-5-release.md
+    - DeepSeek-R1 Tesla Sentiment Analysis: en/ai/deepseek-r1-tesla.md
+    - Building Financial Analysts with LangChain: en/ai/deepseek-chatgpt-langchain-analyst.md
+    - 2025 AI Quant Papers: en/ai/2025-ai-paper.md
+    - 2024 AI Quant Papers: en/ai/2024-ai-paper.md
+    - 2024 LLM Quant Papers: en/ai/2024-llm-quant-paper.md
+    - AI Quant Trading Basics: en/ai/ai-quant.md
+    - ChatGPT Quant Strategies: en/ai/chatgpt-quant.md
+    - ChatGPT Stock Selection: en/ai/chatgpt-stock-selection.md
+    - Paper Review & Reproduction: en/ai/chat-paper.md
+    - AI Frontiers:
+      - Transformer Architecture: en/ai/llm/transformer.md
+      - Diffusion Models: en/ai/llm/diffusion-models.md
+      - VQ-VAE: en/ai/llm/vqvae.md
+  - Quant Frontiers (EN):
+    - Overview: en/advanced/index.md
+    - Latest Research:
+      - Research Directory: en/advanced/最新技术/index.md
+      - Hedge Funds and AI: en/advanced/最新技術/chatgpt-balyasny.md
+      - LLM Annual Report Analysis: en/advanced/最新技術/llm-report.md
+      - RD-Agent Automation Tool: en/advanced/最新技術/rd-agent.md
+      - Advanced Portfolio Management: en/advanced/最新技術/advanced-portfolio-management.md
+  - Industry Insider (EN):
+    - Overview: en/industry/overview.md
+    - Company Profiles:
+      - Buy-Side Firms: en/industry/buy-side.md
+      - Sell-Side Firms: en/industry/sell-side.md
+    - Notable Figures:
+      - Jim Simons: en/industry/master/jim-simons.md
+      - Giuseppe Paleologo: en/industry/giuseppe-paleologo.md
+      - Julian Robertson: en/industry/julian-robertson.md
+    - Culture Analysis:
+      - Citadel vs Millennium: en/industry/citadel-millennium-culture.md
+    - Fund Management:
+      - Multi-Manager Success: en/industry/multi-manager-success.md
+    - Top 10 Hedge Funds 2025: en/industry/2025-top-10-hedge-funds.md
+    - Medallion Fund: en/industry/medallion-fund.md
+    - Quadrature Capital: en/industry/quadrature-capital.md
+    - Fund Size vs Performance: en/industry/fund-size-performance.md
+  - Career (EN):
+    - Global Quant Salaries: en/job/quant-salary.md
+    - Hedge Fund Career Paths: en/job/quant-job.md
+    - A Day in the Life of a Quant: en/job/quant-daily.md
+    - Jane Street Internship: en/job/jane-street-intern.md
+    - Cambridge-Peking Course: en/job/cambridge-peking-course.md
+  - Quant Toolbox (EN):
+    - Overview: en/repo/quant-learn.md
+    - Frameworks by Language: en/repo/quant-repo.md
+    - Research Reproduction: en/repo/reproduce.md
+    - Trend Following: en/repo/trend-following.md
+    - Statistical Arbitrage: en/repo/stat-arb.md
+  - Library (EN):
+    - Overview: en/library/overview.md
+    - Book Guides:
+      - Beginner: en/library/book/beginner.md
+      - Advanced: en/library/book/advanced.md
+      - Programming: en/library/book/programming.md
+      - AI Quant: en/library/book/ai-quant.md
+  - About (EN):
+    - About: en/index.md
+    - How to Contribute: en/contribute.md
+    - FAQ: en/FAQ.md
+    - About LLMQuant: en/about.md
+    - Community Projects: en/other.md
+    - Join Us: en/join.md
+  - Resources (EN):
+    - Overview: en/llmquant_resources/overview.md
   - 学术论文:
     - 论文清单: scholar/index.md
   - 量化前沿:
