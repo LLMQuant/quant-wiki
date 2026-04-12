@@ -31,6 +31,52 @@
 
 最后，如果标的股票价格变动速度超出预期，则策略需要调整，这在市场条件下可能会非常昂贵，甚至不可能。
 
+## 波动率套利的数学框架
+
+### 隐含波动率 vs. 实现波动率
+
+波动率套利的核心是比较**隐含波动率（IV）**和**实现波动率（RV）**：
+
+$$
+\text{Vol Spread} = \sigma_{implied} - \sigma_{realized}
+$$
+
+当 $\sigma_{implied} > \sigma_{realized}$ 时，期权"定价过高"，卖出期权策略有利可图；反之则买入期权。
+
+### Delta中性组合的P&L
+
+对于Delta中性的波动率套利组合，其盈亏近似为：
+
+$$
+P\&L \approx \frac{1}{2} \Gamma S^2 (\sigma_{realized}^2 - \sigma_{implied}^2) \Delta t
+$$
+
+其中 $\Gamma$ 为Gamma值，$S$ 为标的价格。这说明盈利直接取决于实现波动率与隐含波动率之间的差异。
+
+### 方差互换
+
+方差互换（Variance Swap）是更纯粹的波动率交易工具：
+
+$$
+\text{Payoff} = N_{var} \times (\sigma_{realized}^2 - K_{var})
+$$
+
+其中 $K_{var}$ 为约定的方差执行价，$N_{var}$ 为名义金额。
+
+## 策略实例
+
+### 经典波动率套利流程
+
+1. **波动率预测**：使用GARCH、HAR-RV等模型预测未来实现波动率
+2. **信号生成**：当 $IV - \hat{\sigma}_{forecast} > \text{阈值}$ 时，触发卖出信号
+3. **组合构建**：卖出期权（跨式或宽跨式），同时Delta对冲
+4. **动态调仓**：每日或更高频率地重新平衡Delta
+5. **风险监控**：监控Vega、Gamma暴露，设置止损
+
+### 知名机构
+
+文艺复兴科技（Renaissance Technologies）、Citadel和Two Sigma等顶级量化基金均广泛运用波动率套利策略。
+
 ## 关于LLMQuant
 
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
