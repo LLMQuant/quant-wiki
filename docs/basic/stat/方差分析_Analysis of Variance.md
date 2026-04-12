@@ -22,7 +22,49 @@ ANOVA类似于多个两样本t检验，但它产生的第一类错误（即错�
 
 ANOVA的多样性和处理多个变量的能力使其成为各领域研究人员和分析师的重要工具。通过比较均值和分解方差，ANOVA提供了一种稳健的方式来理解变量之间的关系，并识别出组与组之间的显著差异。
 
-$$ \begin{aligned} &\text{F} = \frac{ \text{MST} }{ \text{MSE} } \\ &\textbf{其中:} \\ &\text{F} = \text{ANOVA系数} \\ &\text{MST} = \text{因子平方和的均值} \\ &\text{MSE} = \text{误差平方和的均值} \\ \end{aligned} $$
+## ANOVA的数学框架
+
+### F统计量
+
+$$ \begin{aligned} &\text{F} = \frac{ \text{MST} }{ \text{MSE} } \\ &\textbf{其中:} \\ &\text{F} = \text{ANOVA系数} \\ &\text{MST} = \text{因子平方和的均值（Mean Square Treatment）} \\ &\text{MSE} = \text{误差平方和的均值（Mean Square Error）} \\ \end{aligned} $$
+
+### 方差分解
+
+ANOVA的核心思想是将数据的总变异分解为两个部分：
+
+$$ SS_{Total} = SS_{Between} + SS_{Within} $$
+
+即：
+
+$$ \sum_{i=1}^{k}\sum_{j=1}^{n_i}(x_{ij} - \bar{x})^2 = \sum_{i=1}^{k}n_i(\bar{x}_i - \bar{x})^2 + \sum_{i=1}^{k}\sum_{j=1}^{n_i}(x_{ij} - \bar{x}_i)^2 $$
+
+其中：
+
+- $k$ 为组数，$n_i$ 为第 $i$ 组的样本量
+- $\bar{x}$ 为总体均值，$\bar{x}_i$ 为第 $i$ 组的均值
+- $x_{ij}$ 为第 $i$ 组第 $j$ 个观测值
+
+### 完整的ANOVA表
+
+| 变异来源 | 平方和（SS） | 自由度（df） | 均方（MS） | F统计量 |
+|---------|------------|------------|-----------|--------|
+| 组间（Between） | $SS_B = \sum n_i(\bar{x}_i - \bar{x})^2$ | $k - 1$ | $MS_B = \frac{SS_B}{k-1}$ | $F = \frac{MS_B}{MS_W}$ |
+| 组内（Within） | $SS_W = \sum\sum(x_{ij} - \bar{x}_i)^2$ | $N - k$ | $MS_W = \frac{SS_W}{N-k}$ | |
+| 总计（Total） | $SS_T = \sum\sum(x_{ij} - \bar{x})^2$ | $N - 1$ | | |
+
+其中 $N = \sum n_i$ 为总样本量。
+
+### 假设检验步骤
+
+1. **设立假设**：
+   - $H_0$：所有组均值相等，即 $\mu_1 = \mu_2 = \cdots = \mu_k$
+   - $H_1$：至少有一对组均值不相等
+
+2. **计算F统计量**：$F = MS_B / MS_W$
+
+3. **确定临界值**：查F分布表，自由度为 $(k-1, N-k)$
+
+4. **做出判断**：若 $F > F_{\alpha}$ 或 $p < \alpha$，则拒绝原假设
 
 ## ANOVA的历史
 
@@ -52,9 +94,108 @@ ANOVA检验使得可以同时比较两个以上的组，以确定它们之间是
 - 不仅用于理解两个不同因素的单独影响，还可以检验这两个因素的组合如何影响结果
 - 可以测试因素之间的交互作用
 
+双因素ANOVA的模型可表示为：
+
+$$ x_{ijk} = \mu + \alpha_i + \beta_j + (\alpha\beta)_{ij} + \epsilon_{ijk} $$
+
+其中 $\alpha_i$ 为因素A的效应，$\beta_j$ 为因素B的效应，$(\alpha\beta)_{ij}$ 为交互效应。
+
 单因素ANOVA评估单一因素对单个响应变量的影响，确定各样本是否相同。单因素ANOVA用于判断三个或更多独立组的均值之间是否存在统计学上显著的差异。
 
 双因素ANOVA是单因素ANOVA的扩展。在单因素ANOVA中，仅有一个自变量影响因变量，而双因素ANOVA中有两个自变量。例如，双因素ANOVA允许公司根据薪水和技能组合对工人的生产力进行比较。它用于查看两个因素之间的交互作用，并同时测试这两个因素的影响。
+
+## Python 实战：ANOVA 分析
+
+### 单因素 ANOVA
+
+```python
+import numpy as np
+import pandas as pd
+from scipy import stats
+import statsmodels.api as sm
+from statsmodels.formula.api import ols
+
+# 示例：比较三种量化策略的月收益率
+np.random.seed(42)
+strategy_A = np.random.normal(0.02, 0.05, 30)   # 动量策略
+strategy_B = np.random.normal(0.025, 0.04, 30)   # 均值回归策略
+strategy_C = np.random.normal(0.015, 0.06, 30)   # 统计套利策略
+
+# ===== 方法一：scipy.stats =====
+F_stat, p_value = stats.f_oneway(strategy_A, strategy_B, strategy_C)
+print(f"单因素 ANOVA:")
+print(f"  F统计量 = {F_stat:.4f}")
+print(f"  p值 = {p_value:.4f}")
+print(f"  结论: {'拒绝H₀，策略间存在显著差异' if p_value < 0.05 else '未能拒绝H₀，策略间无显著差异'}")
+
+# ===== 方法二：手动计算 =====
+# 各组均值
+means = [np.mean(strategy_A), np.mean(strategy_B), np.mean(strategy_C)]
+grand_mean = np.mean(np.concatenate([strategy_A, strategy_B, strategy_C]))
+n = 30  # 每组样本量
+k = 3   # 组数
+
+# 组间平方和
+SS_between = n * sum((m - grand_mean)**2 for m in means)
+# 组内平方和
+SS_within = (np.sum((strategy_A - means[0])**2) +
+             np.sum((strategy_B - means[1])**2) +
+             np.sum((strategy_C - means[2])**2))
+
+MS_between = SS_between / (k - 1)
+MS_within = SS_within / (n * k - k)
+F_manual = MS_between / MS_within
+
+print(f"\n手动计算:")
+print(f"  SS_between = {SS_between:.6f}")
+print(f"  SS_within  = {SS_within:.6f}")
+print(f"  F统计量 = {F_manual:.4f}")
+
+# ===== 方法三：statsmodels（含详细ANOVA表） =====
+df = pd.DataFrame({
+    'returns': np.concatenate([strategy_A, strategy_B, strategy_C]),
+    'strategy': ['动量']*30 + ['均值回归']*30 + ['统计套利']*30
+})
+
+model = ols('returns ~ C(strategy)', data=df).fit()
+anova_table = sm.stats.anova_lm(model, typ=2)
+print(f"\nANOVA表:\n{anova_table}")
+```
+
+### 双因素 ANOVA
+
+```python
+# 示例：分析策略类型和市场环境对收益的交互影响
+np.random.seed(42)
+data = []
+for strategy in ['动量', '均值回归', '套利']:
+    for market in ['牛市', '熊市']:
+        n = 20
+        if strategy == '动量' and market == '牛市':
+            returns = np.random.normal(0.05, 0.03, n)
+        elif strategy == '动量' and market == '熊市':
+            returns = np.random.normal(-0.02, 0.04, n)
+        elif strategy == '均值回归' and market == '牛市':
+            returns = np.random.normal(0.02, 0.02, n)
+        elif strategy == '均值回归' and market == '熊市':
+            returns = np.random.normal(0.03, 0.03, n)
+        elif strategy == '套利' and market == '牛市':
+            returns = np.random.normal(0.015, 0.01, n)
+        else:
+            returns = np.random.normal(0.01, 0.015, n)
+        
+        for r in returns:
+            data.append({'strategy': strategy, 'market': market, 'returns': r})
+
+df2 = pd.DataFrame(data)
+
+# 双因素ANOVA
+model2 = ols('returns ~ C(strategy) * C(market)', data=df2).fit()
+anova2 = sm.stats.anova_lm(model2, typ=2)
+print("双因素 ANOVA 表:")
+print(anova2)
+print("\n解读: 关注 strategy:market 交互项的p值，判断策略效果是否依赖市场环境")
+```
 
 ## ANOVA示例
 
@@ -76,23 +217,67 @@ ANOVA检验使得可以同时比较两个以上的组，以确定它们之间是
 
 假设技术型投资组合在牛市条件下表现显著优于其他，而在熊市下回报不佳，固定收益型投资组合则在不同市场条件下提供稳定的回报。分析这些交互作用可以帮助您了解在何时建议使用技术型投资组合以及在何种熊市条件下转向固定收益型投资组合更为明智。
 
+### 事后检验（Post-hoc Tests）
+
+当ANOVA拒绝原假设后，我们知道至少有一对组均值不同，但不知道具体哪些组之间存在差异。此时需要进行事后多重比较：
+
+- **Tukey HSD（Honest Significant Difference）**：最常用的事后检验方法，控制整体错误率。
+- **Bonferroni校正**：将显著性水平 $\alpha$ 除以比较次数，较为保守。
+- **Scheffe检验**：最保守的方法，适用于任意对比。
+
+```python
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
+
+# Tukey HSD 事后检验
+tukey = pairwise_tukeyhsd(df['returns'], df['strategy'], alpha=0.05)
+print(tukey)
+```
+
 ## ANOVA与t检验的区别
 
 与t检验不同，ANOVA可以比较三个或更多组，而t检验只适用于两个组的比较。
 
+| 特性 | t检验 | ANOVA |
+|------|------|-------|
+| 比较组数 | 2组 | 3组或以上 |
+| 检验统计量 | t统计量 | F统计量 |
+| 第一类错误控制 | 多次比较时膨胀 | 单次检验控制 |
+| 适用分布 | t分布 | F分布 |
+| 关系 | 2组ANOVA等价于t检验 | $F = t^2$（2组时） |
+
 ## 什么是协方差分析（ANCOVA）？
 
-协方差分析结合了ANOVA和回归，能够有效理解ANOVA检验未能解释的组内方差。
+协方差分析结合了ANOVA和回归，能够有效理解ANOVA检验未能解释的组内方差。ANCOVA通过引入协变量（连续变量）来消除混杂因素的影响，从而更准确地比较组间差异。
 
 ## ANOVA是否依赖于任何假设？
 
-是的，ANOVA检验假设数据符合正态分布，且每组的方差水平大致相等。最后，假设所有观察是独立进行的。如果这些假设不准确，则ANOVA可能不适合用于组间比较。
+是的，ANOVA检验假设数据符合正态分布，且每组的方差水平大致相等（方差齐性）。最后，假设所有观察是独立进行的。如果这些假设不准确，则ANOVA可能不适合用于组间比较。
+
+**违反假设时的替代方法**：
+
+- **非正态分布**：使用Kruskal-Wallis检验（非参数替代）
+- **方差不齐**：使用Welch's ANOVA
+- **数据相关**：使用重复测量ANOVA
+
+## 效应量（Effect Size）
+
+除了p值之外，报告效应量对于理解实际意义至关重要：
+
+$$ \eta^2 = \frac{SS_{Between}}{SS_{Total}} $$
+
+$\eta^2$ 表示因变量方差中由自变量解释的比例。一般参考标准：
+
+- $\eta^2 \approx 0.01$：小效应
+- $\eta^2 \approx 0.06$：中效应
+- $\eta^2 \approx 0.14$：大效应
 
 ## 结语
 
 ANOVA是一种强大的统计工具，允许研究人员和分析师同时比较多个组的算术均值。通过将方差分解为不同的来源，ANOVA帮助识别显著差异并揭示变量之间的有意义关系。其多功能性和处理各种因素的能力使其成为包括金融和投资在内的许多统计应用领域中不可或缺的工具。
 
 理解ANOVA的原理、形式和应用对于有效利用这一技术至关重要。无论使用单因素ANOVA还是双因素ANOVA，研究人员都可以更清晰地理解复杂系统，从而做出基于数据的决策。与任何统计方法一样，仔细解读结果并考虑分析的背景和局限性也至关重要。
+
+在量化金融中，ANOVA常用于比较不同策略、不同市场环境或不同参数设置下的表现差异，是策略评估和模型选择流程中的重要统计工具。
 
 ## 参考文献
 

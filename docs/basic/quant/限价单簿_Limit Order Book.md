@@ -46,5 +46,121 @@
 
 [1] U.S. Securities and Exchange Commission. "[The Nasdaq Stock Market Form I—Exhibit E](https://www.sec.gov/pdf/nasd1/systems.pdf)," Page 7. Accessed May 23, 2021.
 
+## 限价单簿的微观结构分析
+
+### 订单簿不平衡与价格预测
+
+订单簿不平衡（OBI）是高频交易中重要的短期价格预测信号：
+
+$$OBI = \frac{Q_{bid}^{best} - Q_{ask}^{best}}{Q_{bid}^{best} + Q_{ask}^{best}}$$
+
+当 $OBI > 0$ 时买方压力大于卖方，短期价格倾向上涨。加权多档版本：
+
+$$WOBI = \frac{\sum_{k=1}^{L} e^{-\lambda k} Q^{bid}_k - \sum_{k=1}^{L} e^{-\lambda k} Q^{ask}_k}{\sum_{k=1}^{L} e^{-\lambda k} (Q^{bid}_k + Q^{ask}_k)}$$
+
+### 市场冲击模型
+
+大额订单对价格的冲击服从平方根规律：
+
+$$\Delta p \approx \sigma \cdot Y \cdot \sqrt{\frac{V_{order}}{V_{daily}}}$$
+
+其中 $\sigma$ 为日波动率，$Y \approx 0.5 \sim 1.0$。
+
+### 交易实例
+
+假设订单簿状态：
+
+| 买价 | 买量 | 卖价 | 卖量 |
+|------|------|------|------|
+| $49.95 | 2,000 | $50.00 | 500 |
+| $49.90 | 3,500 | $50.05 | 1,200 |
+| $49.85 | 5,000 | $50.10 | 3,000 |
+
+OBI = (2000-500)/(2000+500) = 0.60（强买方压力）。提交3,000股市价买单：500股@$50.00 + 1,200股@$50.05 + 1,300股@$50.10，均价$50.063，滑点$0.063/股。
+
+## 量化应用
+
+```python
+import numpy as np
+from collections import defaultdict
+
+class LimitOrderBook:
+    """限价单簿模拟器"""
+
+    def __init__(self):
+        self.bids = defaultdict(int)  # price -> total qty
+        self.asks = defaultdict(int)
+
+    def add_order(self, side, price, qty):
+        if side == 'buy':
+            self.bids[price] += qty
+        else:
+            self.asks[price] += qty
+
+    def execute_market_order(self, side, qty):
+        """执行市价单并返回成交明细"""
+        fills = []
+        remaining = qty
+        levels = sorted(self.asks.keys()) if side == 'buy' else sorted(self.bids.keys(), reverse=True)
+
+        for price in levels:
+            book = self.asks if side == 'buy' else self.bids
+            available = book[price]
+            fill = min(remaining, available)
+            fills.append({'price': price, 'qty': fill})
+            book[price] -= fill
+            if book[price] == 0:
+                del book[price]
+            remaining -= fill
+            if remaining <= 0:
+                break
+
+        filled = qty - remaining
+        avg = sum(f['price']*f['qty'] for f in fills) / filled if filled else 0
+        return {'filled': filled, 'avg_price': round(avg, 4), 'fills': fills}
+
+    def compute_obi(self, levels=1):
+        sorted_bids = sorted(self.bids.keys(), reverse=True)[:levels]
+        sorted_asks = sorted(self.asks.keys())[:levels]
+        bid_qty = sum(self.bids[p] for p in sorted_bids)
+        ask_qty = sum(self.asks[p] for p in sorted_asks)
+        return (bid_qty - ask_qty) / (bid_qty + ask_qty) if (bid_qty + ask_qty) > 0 else 0
+
+    def market_impact(self, side, qty):
+        """估算市场冲击"""
+        mid = self._mid()
+        result = self.execute_market_order(side, qty)
+        # 恢复订单簿（仅估算用）
+        return {'avg_price': result['avg_price'],
+                'impact': round(abs(result['avg_price'] - mid), 4) if mid else 0,
+                'impact_bps': round(abs(result['avg_price'] - mid) / mid * 10000, 1) if mid else 0}
+
+    def _mid(self):
+        if not self.bids or not self.asks:
+            return 0
+        return (max(self.bids.keys()) + min(self.asks.keys())) / 2
+
+# 使用示例
+lob = LimitOrderBook()
+for p, q in [(49.95,2000),(49.90,3500),(49.85,5000)]:
+    lob.add_order('buy', p, q)
+for p, q in [(50.00,500),(50.05,1200),(50.10,3000)]:
+    lob.add_order('sell', p, q)
+
+print(f"OBI(1档): {lob.compute_obi(1):.3f}")
+print(f"OBI(3档): {lob.compute_obi(3):.3f}")
+
+result = lob.execute_market_order('buy', 3000)
+print(f"买入3000股: 均价${result['avg_price']}, 成交明细: {result['fills']}")
+```
+
+## 限价单簿的现代应用
+
+1. **高频做市**：做市商在买卖两侧持续提供限价单赚取价差，核心挑战是管理逆向选择风险。
+
+2. **冰山订单与暗池**：大型机构使用冰山订单或暗池减少信息泄露，可见订单簿仅反映部分真实供需。
+
+3. **闪电崩盘**：2010年5月6日订单簿流动性在数分钟内蒸发，揭示了电子限价单簿中流动性的脆弱性。
+
 ## 关于LLMQuant
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
