@@ -275,7 +275,7 @@ nav:
       - 机构策略九个热门策略: start/nine-strategies.md
       - Point72投资策略: start/point72-idea.md
   - 学术论文:
-    - 论文清单: scholar/index.md
+    - 论文清单: paper/index.md
   - 量化前沿:
     - 简介: advanced/index.md
     - 量化最新研究:
