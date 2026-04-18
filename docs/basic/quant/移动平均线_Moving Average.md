@@ -34,11 +34,37 @@ $$ \begin{aligned} &SMA = \frac{ A_1 + A_2 + \cdots + A_n }{ n } \\ &\textbf{其
 
 指数移动平均线给予最近价格更多的权重，以使其更能响应新信息。要计算EMA，首先计算特定时期的简单移动平均线（SMA）。
 
-然后计算用于加权EMA的乘数，称为“平滑因子”，其公式通常为：[2/(选择的时间周期 + 1)]。
+然后计算用于加权EMA的乘数，称为"平滑因子"，其公式通常为：[2/(选择的时间周期 + 1)]。
 
 对于20日移动平均线，乘数为[2/(20+1)]= 0.0952。平滑因子与前一个EMA结合以得出当前值。因此，EMA对近期价格赋予更高的权重，而SMA则对所有值赋予相等的权重。
 
 $$ \begin{aligned} &EMA_t = \left [ V_t \times \left ( \frac{ s }{ 1 + d } \right ) \right ] + EMA_y \times \left [ 1 - \left ( \frac { s }{ 1 + d} \right ) \right ] \\ &\textbf{其中:}\\ &EMA_t = \text{今日EMA} \\ &V_t = \text{今日值} \\ &EMA_y = \text{昨日EMA} \\ &s = \text{平滑} \\ &d = \text{天数} \\ \end{aligned} $$
+
+## 其他常用移动平均线类型
+
+### 加权移动平均线（WMA）
+
+加权移动平均线对不同时期的价格赋予线性递减的权重：
+
+$$ WMA_n(t) = \frac{\sum_{i=0}^{n-1} (n-i) \cdot P_{t-i}}{\sum_{i=0}^{n-1} (n-i)} = \frac{\sum_{i=0}^{n-1} (n-i) \cdot P_{t-i}}{\frac{n(n+1)}{2}} $$
+
+### 双指数移动平均线（DEMA）
+
+DEMA 通过消除单一 EMA 的滞后性来提供更快的信号响应：
+
+$$ DEMA_n(t) = 2 \cdot EMA_n(t) - EMA_n(EMA_n(t)) $$
+
+### 自适应移动平均线（KAMA）
+
+考夫曼自适应移动平均线（KAMA）根据市场噪声自动调整平滑系数：
+
+$$ KAMA_t = KAMA_{t-1} + SC_t \cdot (P_t - KAMA_{t-1}) $$
+
+其中 $SC_t$ 为基于效率比（Efficiency Ratio）动态计算的平滑常数。效率比定义为：
+
+$$ ER = \frac{|P_t - P_{t-n}|}{\sum_{i=0}^{n-1}|P_{t-i} - P_{t-i-1}|}$$
+
+ER 越接近1，表示趋势越明确，KAMA跟踪越紧密；ER越接近0，表示市场以噪声为主，KAMA变化越平缓。
 
 ## 简单移动平均线（SMA）与指数移动平均线（EMA）
 
@@ -56,7 +82,118 @@ EMA的计算对近期数据点赋予更大重视。因此，EMA被视为一种�
 
 10日移动平均线将对前10天的收盘价格进行平均，以作为第一个数据点。下一个数据点将删除最早的价格，添加第11天的价格，并重新计算平均值。
 
-Bollinger Band®技术指标通常将带宽放置在简单移动平均线的两标准差处。一般而言，向上移动至上带表示资产可能被高估，而接近下带则表明资产可能被低估。由于标准差是衡量波动性的统计指标，该指标会根据市场状况进行调整。
+Bollinger Band技术指标通常将带宽放置在简单移动平均线的两标准差处。一般而言，向上移动至上带表示资产可能被高估，而接近下带则表明资产可能被低估。由于标准差是衡量波动性的统计指标，该指标会根据市场状况进行调整。
+
+布林带的数学表达为：
+
+$$ Upper = SMA_n + k \cdot \sigma_n $$
+$$ Lower = SMA_n - k \cdot \sigma_n $$
+
+其中 $k$ 通常取2，$\sigma_n$ 为 $n$ 日收盘价的标准差。
+
+## 量化应用
+
+### Python 实现各类移动平均线
+
+```python
+import pandas as pd
+import numpy as np
+
+def calculate_moving_averages(prices: pd.Series, window: int = 20):
+    """
+    计算多种移动平均线
+    
+    Parameters
+    ----------
+    prices : pd.Series -- 收盘价序列
+    window : int       -- 窗口期
+    
+    Returns
+    -------
+    pd.DataFrame -- 包含各类均线的DataFrame
+    """
+    ma = pd.DataFrame(index=prices.index)
+    ma['price'] = prices
+    
+    # 简单移动平均线 (SMA)
+    ma['SMA'] = prices.rolling(window=window).mean()
+    
+    # 指数移动平均线 (EMA)
+    ma['EMA'] = prices.ewm(span=window, adjust=False).mean()
+    
+    # 加权移动平均线 (WMA)
+    weights = np.arange(1, window + 1)
+    ma['WMA'] = prices.rolling(window=window).apply(
+        lambda x: np.dot(x, weights) / weights.sum(), raw=True
+    )
+    
+    # 双指数移动平均线 (DEMA)
+    ema = prices.ewm(span=window, adjust=False).mean()
+    ema_of_ema = ema.ewm(span=window, adjust=False).mean()
+    ma['DEMA'] = 2 * ema - ema_of_ema
+    
+    return ma
+
+
+def ma_crossover_signals(prices: pd.Series, fast: int = 10, slow: int = 30):
+    """均线交叉信号生成器"""
+    sma_fast = prices.rolling(window=fast).mean()
+    sma_slow = prices.rolling(window=slow).mean()
+    
+    signals = pd.Series(0, index=prices.index)
+    signals[sma_fast > sma_slow] = 1    # 多头信号
+    signals[sma_fast <= sma_slow] = -1   # 空头信号
+    
+    # 仅保留交叉点的信号
+    trades = signals.diff().fillna(0)
+    return trades
+
+
+def kaufman_adaptive_ma(prices: pd.Series, n: int = 10, 
+                         fast_sc: int = 2, slow_sc: int = 30):
+    """考夫曼自适应移动平均线（KAMA）"""
+    fast_alpha = 2.0 / (fast_sc + 1)
+    slow_alpha = 2.0 / (slow_sc + 1)
+    
+    kama = pd.Series(index=prices.index, dtype=float)
+    kama.iloc[n-1] = prices.iloc[n-1]
+    
+    for i in range(n, len(prices)):
+        direction = abs(prices.iloc[i] - prices.iloc[i-n])
+        volatility = sum(abs(prices.iloc[j] - prices.iloc[j-1]) 
+                        for j in range(i-n+1, i+1))
+        
+        if volatility == 0:
+            er = 0
+        else:
+            er = direction / volatility
+        
+        sc = (er * (fast_alpha - slow_alpha) + slow_alpha) ** 2
+        kama.iloc[i] = kama.iloc[i-1] + sc * (prices.iloc[i] - kama.iloc[i-1])
+    
+    return kama
+```
+
+### 移动平均线在因子模型中的应用
+
+在量化多因子模型中，移动平均线常被用于构建动量因子和趋势因子：
+
+- **均线偏离率因子**：$BIAS_n = \frac{P_t - SMA_n(t)}{SMA_n(t)}$，衡量当前价格偏离均线的程度
+- **均线斜率因子**：$Slope_n = \frac{SMA_n(t) - SMA_n(t-k)}{k}$，衡量趋势的强度和方向
+- **均线排列因子**：当 $SMA_5 > SMA_{10} > SMA_{20} > SMA_{60}$ 时为多头排列，反之为空头排列
+
+### 均线系统的参数选择
+
+在量化策略中，均线参数的选择直接影响策略表现。常见的参数组合包括：
+
+| 策略类型 | 短期均线 | 长期均线 | 适用场景 |
+|---------|---------|---------|---------|
+| 超短线 | 5日 | 10日 | 日内/隔日交易 |
+| 短线 | 10日 | 30日 | 波段交易 |
+| 中线 | 20日 | 60日 | 中期趋势跟踪 |
+| 长线 | 50日 | 200日 | 长期趋势确认 |
+
+参数优化时应注意：过短的窗口导致过多虚假信号（高换手成本），过长的窗口导致信号严重滞后（错过行情）。可通过滚动窗口回测和信息比率（Information Ratio）来评估最优参数。
 
 ## 移动平均线表明什么？
 
@@ -72,9 +209,23 @@ Bollinger Band®技术指标通常将带宽放置在简单移动平均线的两�
 
 ## 什么是MACD？
 
-交易者使用移动平均收敛发散（MACD）来监视两个移动平均线之间的关系，计算方法是将26日指数移动平均线减去12日指数移动平均线。MACD还采用信号线，帮助识别交叉点，即与MACD线绘制在同一图形上的九日指数移动平均线。
+交易者使用移动平均收敛发散（MACD）来监视两个移动平均线之间的关系，计算方法是将26日指数移动平均线减去12日指数移动平均线：
+
+$$ MACD(t) = EMA_{12}(t) - EMA_{26}(t) $$
+
+MACD信号线为MACD的9日EMA：
+
+$$ Signal(t) = EMA_9(MACD(t)) $$
+
+MACD柱状图（Histogram）反映了MACD线与信号线之间的差异：
+
+$$ Histogram(t) = MACD(t) - Signal(t) $$
+
+MACD还采用信号线，帮助识别交叉点，即与MACD线绘制在同一图形上的九日指数移动平均线。
 
 信号线用于帮助识别证券价格的趋势变化，并确认趋势的强度。当MACD为正时，短期平均值位于长期平均值之上，表明上涨动量；而当短期平均值低于长期平均值时，则表明动量向下。
+
+在量化交易中，MACD的背离（divergence）信号尤为重要：当价格创新高但MACD未能创新高时，形成顶背离，预示趋势可能反转。
 
 ## 什么是黄金交叉？
 
@@ -85,6 +236,8 @@ Bollinger Band®技术指标通常将带宽放置在简单移动平均线的两�
 移动平均线（MA）是常用于技术分析的股票指标，通过创建一个不断更新的平均价格来平滑价格数据。上升的移动平均线表明证券处于上涨趋势，而下降的移动平均线则指示下跌趋势。
 
 一般而言，指数移动平均线优于简单移动平均线，因为它对近期价格赋予更高的权重，并对新信息和趋势的反应更为清晰。
+
+对于量化交易者而言，移动平均线不仅是独立的技术指标，更是构建复杂交易系统的基础组件。从简单的均线交叉策略到多因子模型中的趋势因子，移动平均线在现代量化投资中扮演着不可或缺的角色。在实际应用中，建议结合波动率调整、自适应参数等方法来增强均线系统的稳健性。
 
 ## 关于LLMQuant
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

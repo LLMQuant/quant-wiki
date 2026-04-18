@@ -44,5 +44,47 @@ Delta-gamma 对冲是一种期权策略，结合了delta和gamma对冲，以减�
 
 随着标的股票价值的上涨和下跌，投资者可以根据需要买入或卖出股票，以保持头寸的中性。这可能会增加交易的波动性和成本。Delta和gamma对冲不必完全中性，交易者可以根据时间调整他们所暴露的正伽马或负伽马的程度。
 
+## 伽马对冲的数学基础
+
+### Gamma的定义
+
+$$
+\Gamma = \frac{\partial^2 V}{\partial S^2} = \frac{\partial \Delta}{\partial S}
+$$
+
+在Black-Scholes框架下，欧式期权的Gamma为：
+
+$$
+\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T}} = \frac{e^{-d_1^2/2}}{S\sigma\sqrt{2\pi T}}
+$$
+
+### Gamma的特征
+
+- **ATM期权的Gamma最大**：当 $S \approx K$ 时，Gamma达到峰值
+- **临近到期时Gamma剧增**：$\Gamma \propto 1/\sqrt{T}$，到期前ATM期权的Gamma趋于无穷
+- **做多期权 = 做多Gamma**：买入期权获得正Gamma（凸性收益），但支付Theta
+- **做空期权 = 做空Gamma**：卖出期权获得Theta收入，但承担Gamma风险
+
+### Gamma-Theta权衡
+
+在Black-Scholes模型下：
+
+$$
+\Theta + \frac{1}{2}\sigma^2 S^2 \Gamma + rS\Delta - rV = 0
+$$
+
+这意味着Gamma和Theta之间存在天然的权衡关系。
+
+## 实际应用：做市商的Gamma管理
+
+期权做市商是Gamma对冲的主要实践者。他们的日常工作包括：
+
+1. **接受客户订单**（通常净空Gamma）
+2. **持续Delta对冲**（每分钟级别调整）
+3. **Gamma再平衡**（通过期权间价差交易）
+4. **监控Pin Risk**（到期日标的价格恰好在行权价附近的风险）
+
+做市商通过买卖价差获取Theta收入，用以补偿Gamma风险。
+
 ## 关于LLMQuant
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。

@@ -1,0 +1,55 @@
+## Research Reproduction: Training Materials and Books
+
+![](https://fastly.jsdelivr.net/gh/bucketio/img11@main/2024/10/21/1729466068183-23134fce-3131-4262-b18c-f378d71af4f6.gif)
+This list is curated by the [LLMQuant community](https://llmquant.com/) for educational purposes only. All copyrights belong to the original authors.
+
+- [Auto-Differentiation Website](https://auto-differentiation.github.io/) - Background knowledge and resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentiation (AAD).
+- [Derman Papers](https://github.com/MarcosCarreira/DermanPapers) - Reproductions and notes on Emanuel Derman's quantitative finance papers.
+- [ML-Quant](https://www.ml-quant.com/) - A curated index of excellent quantitative resources, including ArXiv (sanity), SSRN, RePec, journals, podcasts, videos, and blogs.
+- [volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A collection of volatility estimators based on Euan Sinclair's *Volatility Trading*.
+- [quant](https://github.com/paulperry/quant) - Quantitative finance and algorithmic trading resources; primarily Quantopian, Zipline, or Pandas-based notebooks.
+- [fecon235](https://github.com/rsvp/fecon235) - An open-source project for financial economics featuring interactive Jupyter notebooks that validate both theory and practice.
+- [Quantitative-Notebooks](https://github.com/LongOnly/Quantitative-Notebooks) - Educational notebooks on quantitative finance, algorithmic trading, financial modeling, and investment strategies.
+- [QuantEcon](https://quantecon.org/) - Lecture series on economics, finance, econometrics, and data science; includes QuantEcon.py, QuantEcon.jl, and related notebooks.
+- [FinanceHub](https://github.com/Finance-Hub/FinanceHub) - A hub for quantitative finance resources.
+- [Python_Option_Pricing](https://github.com/dedwards25/Python_Option_Pricing) - A comprehensive Python option pricing library covering Black-Scholes, Black 76, implied volatility, American/European/Asian/spread options, and more.
+- [python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders, provided by J.P. Morgan.
+- [Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Various types of stock analysis using Excel, Matlab, Power BI, Python, R, Tableau, and more.
+- [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code and resources from *Algorithmic Trading with Python (2020)*.
+- [MEDIUM_NoteBook](https://github.com/cerlymarco/MEDIUM_NoteBook) - Source code notebooks for [cerlymarco](https://github.com/cerlymarco)'s Medium articles.
+- [QuantFinance](https://github.com/PythonCharmers/QuantFinance) - Training materials for quantitative finance.
+- [IPythonScripts](https://github.com/mgroncki/IPythonScripts) - Tutorials and examples for quantitative finance and QuantLib in Python, covering pricing, xVAs, hedging, portfolio optimization, machine learning, and deep learning.
+- [Computational-Finance-Course](https://github.com/LechGrzelak/Computational-Finance-Course) - Teaching materials for a computational finance course.
+- [Machine-Learning-for-Asset-Managers](https://github.com/emoen/Machine-Learning-for-Asset-Managers) - Implementation of code snippets and exercises from *Machine Learning for Asset Managers*, applied to live data.
+- [Python-for-Finance-Cookbook](https://github.com/PacktPublishing/Python-for-Finance-Cookbook) - Source code for Packt's *Python for Finance Cookbook*.
+- [modelos_vol_derivativos](https://github.com/ysaporito/modelos_vol_derivativos) - Jupyter notebooks from the book *Modelos de Volatilidade para Derivativos*.
+- [NMOF](https://github.com/enricoschumann/NMOF) - Functions, examples, and data from *Numerical Methods and Optimization in Finance* (1st and 2nd editions).
+- [py4fi2nd](https://github.com/yhilpisch/py4fi2nd) - Jupyter notebooks and source code for *Python for Finance (2nd ed., O'Reilly)*.
+- [aiif](https://github.com/yhilpisch/aiif) - Jupyter notebooks and source code for Yves Hilpisch's *Artificial Intelligence in Finance (O'Reilly)*.
+- [py4at](https://github.com/yhilpisch/py4at) - Code and notebooks for Yves Hilpisch's *Python for Algorithmic Trading (O'Reilly)*.
+- [dawp](https://github.com/yhilpisch/dawp) - Notebooks and code for *Derivatives Analytics with Python (Wiley Finance)*.
+- [dx](https://github.com/yhilpisch/dx) - DX Analytics | Financial and derivatives analytics with Python.
+- [QuantFinanceBook](https://github.com/LechGrzelak/QuantFinanceBook) - Resources for the book *Quantitative Finance*.
+- [rough_bergomi](https://github.com/ryanmccrickerd/rough_bergomi) - Python implementation of the Rough Bergomi model.
+- [frh-fx](https://github.com/ryanmccrickerd/frh-fx) - Python implementation of Mechkov's fast-reversion Heston model, primarily for FX applications.
+- [Value Investing Studies](https://github.com/euclidjda/value-investing-studies) - A collection of data analysis studies based on long-term and short-term historical data through the lens of value investing.
+- [Machine Learning Asset Management](https://github.com/firmai/machine-learning-asset-management) - Machine learning examples and resources for asset management (by @firmai).
+- [Deep Learning Machine Learning Stock](https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock) - Applying deep learning and machine learning to the stock market, demonstrating potential long-term and short-term investment opportunities.
+- [Technical Analysis and Feature Engineering](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering) - Examples of feature engineering and feature importance evaluation in financial markets.
+- [Differential Machine Learning and Axes that matter by Brian Huge and Antoine Savine](https://github.com/differential-machine-learning/notebooks) - Implementation and extension of results from the Risk articles *Differential Machine Learning* (2020) and *PCA with a Difference* (2021).
+- [systematictradingexamples](https://github.com/robcarver17/systematictradingexamples) - Example code related to *Systematic Trading* and the author's [blog](http://qoppac.blogspot.com).
+- [pysystemtrade_examples](https://github.com/robcarver17/pysystemtrade_examples) - Examples using pysystemtrade, extended demonstrations by Robert Carver on his [blog](http://qoppac.blogspot.com).
+- [ML_Finance_Codes](https://github.com/mfrdixon/ML_Finance_Codes) - Code for *Machine Learning in Finance: From Theory to Practice*.
+- [Hands-On Machine Learning for Algorithmic Trading](https://github.com/packtpublishing/hands-on-machine-learning-for-algorithmic-trading) - Source code for Packt's *Hands-On Machine Learning for Algorithmic Trading*.
+- [financialnoob-misc](https://github.com/financialnoob/misc) - Research notes and code shared by @financialnoob.
+- [MesoSim Options Trading Strategy Library](https://github.com/deltaray-io/strategy-library) - A free, open-source options trading strategy library for MesoSim.
+- [Quant-Finance-With-Python-Code](https://github.com/lingyixu/Quant-Finance-With-Python-Code) - Example code from Chris Kelliher's *Quantitative Finance with Python*.
+- [QuantFinanceTraining](https://github.com/JoaoJungblut/QuantFinanceTraining) - Code examples organized by module from CQF (Certificate in Quantitative Finance) training.
+- [Statistical-Learning-based-Portfolio-Optimization](https://github.com/YannickKae/Statistical-Learning-based-Portfolio-Optimization) - An R Shiny app for modern portfolio optimization using Hierarchical Equal Risk Contribution (HERC), based on Raffinot (2018).
+- [book_irds3](https://github.com/attack68/book_irds3) - Code repository for *Pricing and Trading Interest Rate Derivatives*.
+- [Autoencoder-Asset-Pricing-Models](https://github.com/RichardS0268/Autoencoder-Asset-Pricing-Models) - Reproduction of autoencoder asset pricing models from [GKX, 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3335536).
+- [Finance](https://github.com/shashankvemuri/Finance) - Over 150 Python programs for financial data retrieval, processing, and analysis.
+- [101_formulaic_alphas](https://github.com/ram-ki/101_formulaic_alphas) - Implementation of [101 Formulaic Alphas](https://arxiv.org/ftp/arxiv/papers/1601/1601.00991.pdf) using qstrader.
+- [Tidy Finance](https://www.tidy-finance.org/) - A "tidy" approach to empirical finance research, with open-source code in multiple languages (Python, R) to help students and researchers implement reproducible financial research projects.
+- [RoughVolatilityWorkshop](https://github.com/jgatheral/RoughVolatilityWorkshop) - Course materials from the 2024 QuantMind Rough Volatility Workshop.
+- [AFML](https://github.com/boyboi86/AFML) - Complete solutions to all exercises in *Advances in Financial Machine Learning* by Marcos Lopez de Prado.

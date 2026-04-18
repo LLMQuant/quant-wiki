@@ -42,5 +42,247 @@ EMN策略试图保持其多头和空头持仓的总值大致相等，这有助�
 
 为了应对同一行业内股票一般趋向共同上涨或下跌的事实，多空策略通常倾向于在多头和空头部分使用不同的行业。例如，如果利率上升，对冲基金可能会做空对利率敏感的行业，如公用事业，同时在防御性行业如医疗保健上持有多头。
 
+## 多空股权的数学框架
+
+### 组合收益分解
+
+多空股权组合的收益可以分解为：
+
+$$R_{portfolio} = \beta_{net} \cdot R_{market} + \alpha_{long} + \alpha_{short} + \epsilon$$
+
+其中：
+- $\beta_{net} = \beta_{long} - \beta_{short}$ 为净Beta敞口
+- $\alpha_{long}$ 为多头部分的选股超额收益
+- $\alpha_{short}$ 为空头部分的选股超额收益
+- $\epsilon$ 为残差项
+
+对于130/30策略，假设多头总敞口为组合净值的130%，空头为30%，净敞口为100%：
+
+$$R_{130/30} = 1.3 \times R_{long} - 0.3 \times R_{short}$$
+
+### 信息比率与最优敞口
+
+组合的信息比率（IR）衡量风险调整后的超额收益：
+
+$$IR = \frac{E[R_{portfolio} - R_{benchmark}]}{\sigma(R_{portfolio} - R_{benchmark})}$$
+
+Grinold和Kahn的基本法则（Fundamental Law of Active Management）表明：
+
+$$IR \approx IC \times \sqrt{BR}$$
+
+其中 $IC$ 为信息系数（预测能力），$BR$ 为广度（独立投注数量）。多空策略通过增加空头投注，有效提高了 $BR$，从而提高 $IR$。
+
+## 详细交易实例
+
+**案例：因子驱动的多空组合**
+
+假设一位基金经理管理1亿美元的130/30多空组合，基于价值和动量因子进行选股。
+
+**多头部分（$1.3亿敞口）**：
+
+| 股票 | 权重 | 买入价 | 预期收益 | Beta |
+|------|------|--------|---------|------|
+| 贵州茅台 | 15% | ¥1,800 | +12% | 0.75 |
+| 宁德时代 | 12% | ¥210 | +15% | 1.20 |
+| 招商银行 | 10% | ¥35 | +8% | 0.85 |
+| 其他20只股票 | 93% | — | +10% (均值) | 1.05 |
+
+**空头部分（$3,000万敞口）**：
+
+| 股票 | 权重 | 做空价 | 预期跌幅 | Beta |
+|------|------|--------|---------|------|
+| 某过度炒作概念股A | 8% | ¥45 | -20% | 1.80 |
+| 某业绩下滑股B | 7% | ¥28 | -15% | 1.10 |
+| 某高估值股C | 8% | ¥120 | -12% | 1.30 |
+| 其他5只空头 | 7% | — | -10% (均值) | 1.25 |
+
+**组合净Beta**：$1.3 \times 1.05 - 0.3 \times 1.35 = 1.365 - 0.405 = 0.96$
+
+**预期年化收益**（假设市场收益8%）：
+
+$$R = 0.96 \times 8\% + 1.3 \times 2\% + 0.3 \times 3\% = 7.68\% + 2.6\% + 0.9\% = 11.18\%$$
+
+其中2%为多头alpha，3%为空头alpha（做空下跌股票带来的收益）。
+
+## 量化应用
+
+```python
+import numpy as np
+from dataclasses import dataclass
+
+@dataclass
+class Stock:
+    ticker: str
+    expected_return: float  # 预期收益率
+    beta: float
+    volatility: float
+    sector: str
+
+class LongShortEquity:
+    """多空股权策略构建与分析"""
+    
+    def __init__(self, gross_long=1.3, gross_short=0.3, capital=1e8):
+        """
+        Parameters:
+            gross_long: 多头总敞口占比（如1.3表示130%）
+            gross_short: 空头总敞口占比（如0.3表示30%）
+            capital: 总资本
+        """
+        self.gross_long = gross_long
+        self.gross_short = gross_short
+        self.capital = capital
+    
+    def rank_stocks(self, stocks: list, factors: dict) -> list:
+        """
+        基于多因子模型对股票排序
+        factors: {'value': weight, 'momentum': weight, 'quality': weight}
+        """
+        scored = []
+        for stock in stocks:
+            # 简化的因子评分（实际应使用真实因子数据）
+            composite = (
+                factors.get('value', 0) * np.random.normal(0, 1) +
+                factors.get('momentum', 0) * np.random.normal(0, 1) +
+                factors.get('quality', 0) * np.random.normal(0, 1)
+            )
+            scored.append((stock, composite))
+        
+        scored.sort(key=lambda x: x[1], reverse=True)
+        return scored
+    
+    def construct_portfolio(self, ranked_stocks: list, 
+                            n_long: int = 30, n_short: int = 10) -> dict:
+        """
+        构建多空组合
+        做多评分最高的n_long只，做空评分最低的n_short只
+        """
+        longs = ranked_stocks[:n_long]
+        shorts = ranked_stocks[-n_short:]
+        
+        # 等权分配（可替换为优化权重）
+        long_weight = self.gross_long / n_long
+        short_weight = self.gross_short / n_short
+        
+        portfolio = {
+            'long': [(s.ticker, long_weight, s.beta) for s, _ in longs],
+            'short': [(s.ticker, short_weight, s.beta) for s, _ in shorts],
+        }
+        
+        # 计算组合特征
+        net_beta = (sum(w * b for _, w, b in portfolio['long']) - 
+                    sum(w * b for _, w, b in portfolio['short']))
+        gross_exposure = self.gross_long + self.gross_short
+        net_exposure = self.gross_long - self.gross_short
+        
+        portfolio['metrics'] = {
+            'net_beta': round(net_beta, 3),
+            'gross_exposure': f"{gross_exposure:.0%}",
+            'net_exposure': f"{net_exposure:.0%}",
+            'long_count': n_long,
+            'short_count': n_short
+        }
+        
+        return portfolio
+    
+    def simulate_returns(self, portfolio: dict, market_returns: np.ndarray,
+                         alpha_long: float = 0.02, alpha_short: float = 0.03,
+                         idio_vol: float = 0.15) -> dict:
+        """
+        模拟多空组合收益序列
+        
+        Parameters:
+            market_returns: 市场日收益率序列
+            alpha_long: 多头年化alpha
+            alpha_short: 空头年化alpha
+            idio_vol: 个股特异性波动率
+        """
+        n_days = len(market_returns)
+        net_beta = portfolio['metrics']['net_beta']
+        
+        daily_alpha_l = alpha_long / 252
+        daily_alpha_s = alpha_short / 252
+        daily_idio = idio_vol / np.sqrt(252)
+        
+        portfolio_returns = []
+        for mkt_ret in market_returns:
+            # 多头收益 = beta * market + alpha + noise
+            long_ret = (self.gross_long * 
+                       (net_beta / self.gross_long * mkt_ret + daily_alpha_l + 
+                        daily_idio * np.random.normal() * 0.5))
+            
+            # 空头收益 = -beta * market + alpha + noise
+            short_ret = (self.gross_short * 
+                        (daily_alpha_s - 0.3 * mkt_ret + 
+                         daily_idio * np.random.normal() * 0.5))
+            
+            portfolio_returns.append(long_ret + short_ret)
+        
+        returns = np.array(portfolio_returns)
+        cumulative = np.cumprod(1 + returns) - 1
+        
+        # 性能指标
+        ann_return = np.mean(returns) * 252
+        ann_vol = np.std(returns) * np.sqrt(252)
+        sharpe = ann_return / ann_vol if ann_vol > 0 else 0
+        
+        # 最大回撤
+        wealth = np.cumprod(1 + returns)
+        peak = np.maximum.accumulate(wealth)
+        drawdown = (peak - wealth) / peak
+        max_dd = np.max(drawdown)
+        
+        return {
+            'annual_return': f"{ann_return:.2%}",
+            'annual_volatility': f"{ann_vol:.2%}",
+            'sharpe_ratio': f"{sharpe:.2f}",
+            'max_drawdown': f"{max_dd:.2%}",
+            'cumulative_return': f"{cumulative[-1]:.2%}",
+            'win_rate': f"{np.mean(returns > 0):.1%}"
+        }
+
+
+# 使用示例
+np.random.seed(42)
+
+# 生成模拟股票池
+sectors = ['科技', '金融', '消费', '医药', '能源', '工业']
+stocks = [
+    Stock(f"STOCK_{i:03d}", 
+          np.random.normal(0.08, 0.15), 
+          np.random.uniform(0.5, 1.8),
+          np.random.uniform(0.15, 0.45),
+          np.random.choice(sectors))
+    for i in range(200)
+]
+
+# 构建策略
+strategy = LongShortEquity(gross_long=1.3, gross_short=0.3, capital=1e8)
+
+# 因子排序
+factors = {'value': 0.4, 'momentum': 0.35, 'quality': 0.25}
+ranked = strategy.rank_stocks(stocks, factors)
+
+# 构建组合
+portfolio = strategy.construct_portfolio(ranked, n_long=40, n_short=15)
+print(f"组合特征: {portfolio['metrics']}")
+
+# 模拟2年收益
+market_rets = np.random.normal(0.0003, 0.012, 504)  # 约8%年化收益
+perf = strategy.simulate_returns(portfolio, market_rets)
+print(f"策略表现:")
+for k, v in perf.items():
+    print(f"  {k}: {v}")
+```
+
+## 风险管理要点
+
+| 风险类型 | 描述 | 管理方法 |
+|---------|------|---------|
+| 空头挤压（Short Squeeze） | 被做空的股票突然大幅上涨 | 分散空头头寸，单只空头不超过组合3% |
+| 借券风险 | 无法续借被做空的股票 | 维持充足的借券来源，避免做空流通盘过小的股票 |
+| 因子拥挤 | 过多基金追逐相同因子导致收益衰减 | 监控因子拥挤度指标，适时调整因子权重 |
+| 杠杆风险 | 130/30结构放大了亏损 | 动态调整总敞口，在高波动环境降低杠杆 |
+| 相关性风险 | 多空头寸的相关性突然变化 | 定期检验多空头寸的相关性结构 |
+
 ## 关于LLMQuant
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
