@@ -43,7 +43,7 @@
 - 25% Vanguard Small-Cap Index Fund (VSMAX)代表激进增长
 - 25% Vanguard Total International Stock Index Fund (VTIAX)代表国际市场
 
-与三基金相比，这个策略将美股部分拆分为更细的类别。但其缺点是缺少了债券这种稳健元素。此外，Ramsey常谈及主动型基金，我个人更偏爱低费率的被动指数基金。
+与三基金相比，这个策略将美股部分拆分为更细的类别。但其缺点是缺少了债券这种稳健元素。此外，Ramsey常谈及主动型基金，笔者个人更偏爱低费率的被动指数基金。
 
 ## 6. 比尔·伯恩斯坦（Bill Bernstein）的“无需动脑”组合
 
