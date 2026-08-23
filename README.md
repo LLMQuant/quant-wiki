@@ -26,6 +26,16 @@ Quant Wiki 致力于打造一个免费开放、持续更新的 量化金融（qu
 
 如果您希望为 quant-wiki 做贡献，请参考 [CONTRIBUTING.md](.github/CONTRIBUTING.md) 中的内容。
 
+## Wiki MCP
+
+Quant Wiki 提供 MCP 目录索引服务：把 wiki 的目录接进 Claude Code、Cursor 等 AI Agent，Agent 可以浏览目录、搜索词条并按需读取单页，无需上传全部页面。
+
+```bash
+claude mcp add quant-wiki -- uv run /path/to/quant-wiki/mcp/server.py
+```
+
+配置与说明见 [mcp/README.md](mcp/README.md)。
+
 ## Local Deploy
 
 首先拉取代码，然后进入项目目录。
