@@ -171,6 +171,7 @@
 - [qf-lib](https://github.com/quarkfin/qf-lib) - 提供高质量工具用于定量金融分析，涵盖交易策略、回测等功能。
 - [tda-api](https://github.com/alexgolec/tda-api) - 用于获取美股实时/历史行情及下单交易的 TDAmeritrade Python 客户端。
 - [vectorbt](https://github.com/polakowo/vectorbt) - 用于回测、算法交易与研究的强大工具包。
+- [ManifoldBT](https://github.com/manifoldbt/manifoldbt) - 基于 Rust 核心的高性能 Python 回测引擎：向量化信号表达式、真实成交（费用/滑点/前视偏差）、参数扫描、滚动窗口与蒙特卡洛。
 - [Lean](https://github.com/QuantConnect/Lean) - QuantConnect 出品的开源 .NET/Mono/Python 算法交易引擎。
 - [fast-trade](https://github.com/jrmeier/fast-trade) - 低代码回测库，基于 pandas 与技术指标。
 - [pysystemtrade](https://github.com/robcarver17/pysystemtrade) - Robert Carver 开源的回测交易引擎，实现了其在《Systematic Trading》一书中阐述的策略框架，并在其[博客](https://qoppac.blogspot.com/)上进一步拓展。
