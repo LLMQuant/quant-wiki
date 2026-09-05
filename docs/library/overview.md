@@ -131,6 +131,8 @@
 
 - Backtrader: Python回测框架
 - Zipline: 量化回测框架
+- vectorbt: 向量化回测框架
+- ManifoldBT: 基于 Rust 核心的高性能 Python 回测引擎（https://github.com/manifoldbt/manifoldbt）
 - Quantopian: 在线量化平台
 - vnpy: Python量化交易平台
 - QUANTAXIS: 量化金融框架
