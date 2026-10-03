@@ -53,5 +53,87 @@
 
 弥补数据挖掘或选择性记录的倾向的一种方法是使用在相关或样本内时间段内成功的策略，并使用来自不同或样本外时间段的数据进行回测。如果样本内和样本外的回测结果相似，那么它们的有效性更有可能得到验证。
 
+## 财务因子的时点一致性（Point-in-Time）
+
+样本内外划分不能单独消除前视偏差。若回测使用了决策时尚未披露的财务数据，或把后来公布的修订值回填到过去，即使测试集没有参与训练，结果仍可能受到未来信息影响。季度结束日期不等于该季度结果的公开日期。
+
+### 分开记录报告期、披露与采集时间
+
+- **报告期**：数值描述的经济活动发生在哪个期间，例如 1 月 1 日至 3 月 31 日。
+- **来源公开时间**：当前版本何时对外公开。使用文件受理时间作为代理时，应说明假设；财报新闻稿可能早于正式申报文件。
+- **首次采集时间**：研究系统何时实际取得并保存这个版本。今天补采历史文件，不能证明系统过去已经拥有这些数据。
+- **版本与口径**：同时保留来源文件标识、概念、单位、期间和合并范围。来源哈希用于核对版本，不能独立证明来源或时间戳真实。
+
+“按披露时间重建当时公开的信息”和“回放系统当时已采集的数据”是不同任务。后者必须额外检查首次采集时间。以下全部为合成数据，不对应真实公司，时间均为 UTC：
+
+| 版本 | 报告期 | 值（USD） | 公开时间 | 首次采集时间 |
+| --- | --- | ---: | --- | --- |
+| 原始 | 2025-01-01 至 2025-03-31 | 120 | 2025-05-01 00:00 | 2025-05-02 00:00 |
+| 修订 | 同上 | 90 | 2025-08-01 00:00 | 2025-08-02 00:00 |
+
+4 月 30 日两个版本都不可用；5 月 3 日应选择 120；9 月 1 日才能选择已经取得的修订值 90。5 月 1 日中午，按公开时间重建可得到 120，但系统历史回放应返回缺失，因为采集在次日发生。
+
+### 用五个断言检查时间边界
+
+下面只演示版本筛选，使用 Python 3.9+ 标准库。将完整代码保存为 `pit_example.py`，执行 `python3 pit_example.py`，无需下载数据或安装软件包。实际数据应先按公司、财务概念、期间、单位和维度筛选为同一上下文；本例假定两条记录已满足这一条件。
+
+```python
+from datetime import datetime
+
+
+def utc(text):
+    return datetime.fromisoformat(text.replace("Z", "+00:00"))
+
+
+# Synthetic versions of one fact with the same reporting context.
+versions = [
+    {"value": 120, "published": "2025-05-01T00:00:00Z",
+     "observed": "2025-05-02T00:00:00Z"},
+    {"value": 90, "published": "2025-08-01T00:00:00Z",
+     "observed": "2025-08-02T00:00:00Z"},
+]
+
+
+def as_of(rows, cutoff, require_observed):
+    """Select one version; return None for missing or ambiguous evidence."""
+    cutoff = utc(cutoff)
+    eligible = [
+        row for row in rows
+        if utc(row["published"]) <= cutoff
+        and (not require_observed or utc(row["observed"]) <= cutoff)
+    ]
+    if not eligible:
+        return None
+    latest_time = max(utc(row["published"]) for row in eligible)
+    latest = [row for row in eligible if utc(row["published"]) == latest_time]
+    # Do not resolve conflicting equally dated evidence by input order.
+    values = {row["value"] for row in latest}
+    return latest[0]["value"] if len(values) == 1 else None
+
+
+assert as_of(versions, "2025-04-30T12:00:00Z", False) is None
+assert as_of(versions, "2025-05-01T12:00:00Z", False) == 120
+assert as_of(versions, "2025-05-01T12:00:00Z", True) is None
+assert as_of(versions, "2025-05-03T12:00:00Z", True) == 120
+assert as_of(versions, "2025-09-01T12:00:00Z", True) == 90
+print("5 point-in-time checks passed")
+```
+
+预期输出为 `5 point-in-time checks passed`。这里的 `None` 表示没有满足规则的唯一数值，不能当成零参与因子计算。生产系统还应区分缺失、输入无效和证据冲突，并记录拒绝原因。示例不验证来源真实性，也不处理所有财务报表字段或时间戳格式。
+
+### 在回测管线中的位置与边界
+
+应在每个信号截点先筛选可用版本，再计算因子，并保留所用来源标识。由累计现金流推算单季值时，两个输入都必须通过同一截点检查，且概念、单位、年度和合并范围可比；不能直接把半年度累计值作为第二季度值。
+
+通过这些检查不等于策略有效，也不自动解决幸存者偏差、复权历史修订、参数选择、交易成本与执行延迟。信号时点、交易日历以及下一次实际可成交时间仍需分别建模，历史回测不能保证未来收益。
+
+### 延伸参考
+
+- [SEC：EDGAR API 与 XBRL 数据说明](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)：了解申报数据、期间与更新方式；API 本身不替研究者保存历史采集状态。
+- [AhaSignals：财务查询案例与输入规则](https://ahasignals.com/research/financial-query-correctness/)：进一步检查时间截点、财务口径与无法回答的情况。
+- [ahasignals-pit 0.1.1](https://pypi.org/project/ahasignals-pit/0.1.1/)：可选的 Python 实现；按调用方提供的时间戳和上下文检查事实，不负责认证原始文件。本节示例不依赖该包。
+
+本节由 AhaSignals 贡献，AhaSignals 同时维护上述研究页和软件包。本文仅用于研究与教育。
+
 ## 关于LLMQuant
 LLMQuant是由一群来自世界顶尖高校和量化金融从业人员组成的前沿社区，致力于探索人工智能（AI）与量化（Quant）领域的无限可能。我们的团队成员来自剑桥大学、牛津大学、哈佛大学、苏黎世联邦理工学院、北京大学、中科大等世界知名高校，外部顾问来自Microsoft、HSBC、Citadel、Man Group、Citi、Jump Trading、国内顶尖私募等一流企业。
